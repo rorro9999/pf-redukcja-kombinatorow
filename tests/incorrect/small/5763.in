@@ -1,7 +1,6 @@
-main = c M N O P d Q (c R d S) T e e U
-c f g h = F e g e G g e
-e g f i h = J (c d) f
-d f h g = g a H I e
 b h f g = e D f a E
+c f g h = F e g e G g e
 a g f = A b B C b (c g)
-e f g h = d (K (b b L d b))
+e g f i h = J (c d) f
+main = K a c (e L b a d) M d (b) N a e e
+d f h g = g a H I e

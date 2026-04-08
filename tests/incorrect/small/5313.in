@@ -1,7 +1,6 @@
-main = (S) T b b c U c (V e d a ((b a c) b))
-a g h f = (b f)
+d g f h = I b J K L M
 e g f = N O
 b h g f = A d B C D E
-d g f h = I b J K L M
+main = b P Q R S ((T b) U d c b a) V W e
 c g f = F e G d a H g
-c g h f = (P Q a f R h b)
+a g h f = (b f)

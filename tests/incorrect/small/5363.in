@@ -1,7 +1,6 @@
-a f h d g = A B (C) d D E e
-b h g i f = N (e c) a (O P)
-c h f i g = H g I J d
-b f g i h = F (G h f c a)
-main = d e b (a b) Q (R) S b d d b T U d
-e g h f = a L b b (M) b
 d f i g h = b a a a K
+e g h f = a L b b (M) b
+a f h d g = A B (C) d D E e
+c h f i g = H g I J d
+main = e N O ((P b) b a ((Q R) S) b (T a b a))
+b f g i h = F (G h f c a)

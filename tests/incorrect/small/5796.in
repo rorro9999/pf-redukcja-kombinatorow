@@ -1,7 +1,6 @@
-main = a b e d e d c (c) K L b d b (c e)
-a g f = e c A (d g b)
-e f h i g = i h c F b c b
 d g f = (a f)
-e g f = G (H d (I d) J)
-c g i h f = i a
 b f h g i = f B g C c D E
+e f h i g = i h c F b c b
+a g f = e c A (d g b)
+main = c d c G H (I d) J e K b a b e d
+c g i h f = i a

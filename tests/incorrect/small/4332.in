@@ -1,7 +1,6 @@
-main = (e d) d e V W X a Y Z AA d (e c b)
-d h f g = a T a b U a
-c f h g = H I J K (L d) f
-a h g f f = A b ((B d) (C b) D)
 d g f h i = M N O b e (a e)
 b f g = E f (F) G
+c f h g = H I J K (L d) f
 e f g h = b P Q f R S
+a h g f f = A b ((B d) (C b) D)
+main = d e (b) c a (T e b c) e d U d e V
