@@ -1,4 +1,4 @@
-main = M (N d a O ((P) Q c e e)) a R c (S T)
+main = M (N d a O ((P Q R c e e) S a) c) T
 e h i f g = I d J K L b
 c i f g h = E (F ((d g d d)))
 b f c = C a c D a c

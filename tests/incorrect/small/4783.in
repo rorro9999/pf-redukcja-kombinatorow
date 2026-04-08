@@ -1,6 +1,6 @@
-main = M N O d (e (b (P a) d b c (Q)) c a e)
 d f = e H b f (I c)
-e h f g i = J b a K a (L b)
 c i g f h = a (F (G i) a b)
+main = M N O d (e (b (P a) d b c (Q R S c)))
 b g f = (e e) B e C D E
 a g f h = d d h e c f A
+e h f g i = J b a K a (L b)

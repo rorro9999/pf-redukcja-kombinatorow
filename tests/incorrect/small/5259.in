@@ -1,4 +1,4 @@
-d g b f h = f E e (F) b G h
+d g b f h = f E e (F G b) h
 a f g = (A c e d) (B d)
 b f h f g = (e) a (C a f g) g
 c h g i f = a D

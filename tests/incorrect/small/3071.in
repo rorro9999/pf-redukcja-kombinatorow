@@ -3,4 +3,4 @@ b e = (d e c)
 c e f = d e
 d e g f = c B C a D
 a e f e = c d (E (c b e))
-main = ((d) F a) c G H d (I) c J a d K d L
+main = ((d) F a) c G H d (I J c) a d K d L

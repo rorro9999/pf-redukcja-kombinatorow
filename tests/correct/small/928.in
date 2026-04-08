@@ -1,4 +1,4 @@
 a = c b c
 b f d e = c e a
 c = b b
-main = (a b (A) (c (a B a)) a c) b
+main = (a b (A B (c (a C a)) a c))

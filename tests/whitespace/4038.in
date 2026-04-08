@@ -4,4 +4,4 @@ a  f  g  g   g   =  A  b  B  d  C  e
 e i  f   h g  =  b  c  I   b J   a
 d h g  f =  (G  a   (g) H   e  f   e)
 c   f   g  h  =  b   h
-main = a e  (c  ((K) L  c))   e a   M   N   O d   e a c
+main = a e  (c  ((K L  M   c) N   e   a))   O d   e a c

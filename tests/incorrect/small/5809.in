@@ -1,6 +1,6 @@
-main = O e (P (e d (Q b e c b (a) R d c) d))
-c f = d G H (I) f
-e g f = b (g) M N
-a f g h i = (d b A (B) d c)
-b g h e f = (g C a D (E e)) F
-d d g f d = f d J K e L
+a f g h i = (d b A (B C d))
+b f = ((D (E (c c) F G H)))
+main = d P (e d (Q b e c b (a) R d c) d b)
+e g f h i = i h M N O
+c f g = I J b K f
+d f g i h = c ((h (L c) e) e)

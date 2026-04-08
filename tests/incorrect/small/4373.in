@@ -1,6 +1,6 @@
-c f g h i = e a (d F b) h
-e g h i f = I (J) K L
-a f g = (A c c) e B c
-b g f i h = C c e D a E
-main = M N O (d (P c a b b (d c b) d c) a)
 d f = a G f e H
+e g h i f = I (J K L)
+b g f i h = C c e D a E
+main = M N O P (d (Q c a b b (d c b) d c))
+a f g = (A c c) e B c
+c f g h i = e a (d F b) h

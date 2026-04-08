@@ -1,6 +1,6 @@
-main = d O a P e Q R S T a e e U (V) c
-c = b F G e (H) I e
-d f a g h = a e J c
-e g f = K (L a) M N
-a h f g = g g A g B C
 b i h g f = D i a E (g) e
+c = b F G e (H I J)
+a h f g = g g A g B C
+d g i h f = K L h
+e h f g = M (h g a (N a)) O
+main = P a c Q b R (S T c U) V (W (a) e b)

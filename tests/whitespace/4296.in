@@ -1,7 +1,7 @@
-main   =   e  (Q  ((R (d   c  b e  a))  (S  d a)   T U   a V))
-e  h  g  f  =  K   c  L  c  M  b b
-b  g  h  f  =  c N  O P
-b i f   g   h  =  a  (F  d G  c)   H
-d f   h   g  =  g   c g  a (b   e)
-c g f  h =   d   b   I J
-a  f  g  f   h   = A  B  (C) (D  d E)
+b   g f  h  =  ((F  a   (G d  H  c))  e)
+e   g  f   i   h  =  N  c f  f d
+d   f  h g  =  h  b  e   g  c  (M g)
+main   = S  (T  a  a)  U (V   d  a  (W  X Y  a   Z) AA   c)
+c  i f g   h  =  (I   (J   K  (d a   L  d)))
+a f   g  f  h  =   A   B (C  D  E d)
+e  g  f h =   O   (P   d)   Q  R

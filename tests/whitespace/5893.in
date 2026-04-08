@@ -1,7 +1,7 @@
+main   = c  (L  M  N  O P  Q (c)   (R   S   T  U a   b  d))
 e  g  f  h   =  I c   a  d  J  d  a
 a  f  g  f  = f  c  A  B b   C   e
-b   h  g  i  f =  f (a e   e  g  K  h)
 b g   h  f  =   a  c a D
-main  = c  (L)  M   N   O  P  (c)  (Q   R) S  a  b  d T  c
 c  f h  g  =  e  E b F   G   (h) H
+b   h  g  i  f =  f (a e   e  g  K  h)
 d   g  f   h =  (c)  b  e

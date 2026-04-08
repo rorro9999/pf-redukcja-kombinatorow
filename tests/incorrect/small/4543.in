@@ -1,6 +1,6 @@
-main = c N O P Q (e) R c S (e (T) U c e a)
-a f g = (A c d) f B b e
-d f f = H b b I J K
 e h g f = c d L M b
-b h g f = C (e g a e e d)
+main = c N O P Q (e) R c S (e (T U V c e))
+d f f = H b b I J K
 c f h i g = (b D a) E F G
+a f g = (A c d) f B b e
+b h g f = C (e g a e e d)

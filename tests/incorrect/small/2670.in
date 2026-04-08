@@ -3,4 +3,4 @@ b e = B C D E
 c e f = F G H f d
 d e a = (a) b a I J b
 b e = e K L
-main = c (((M N) O) c) a P (Q) (R) ((S d) T U) (b a)
+main = c (((M N O P Q c) a R (S T U V W d)))

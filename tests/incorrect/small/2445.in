@@ -2,5 +2,5 @@ a f e = A
 b g e f = B C a a
 c f e g h = D E a
 d e f g = b b b F G H
-b = I ((c d)) d
-main = c J b c b b b (d c (K d (L c M a)))
+b = I ((c d) J)
+main = K (d (c b a a a L) M b (d c) d N c)

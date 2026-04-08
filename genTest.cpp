@@ -79,20 +79,19 @@ vector<string> combinate(vector<string> &v, int mx, string comb) {
             if (depth >= (mx-cnt-1))
                 continue;
             tokens.emplace_back("(");
-            ++counter.back().first;
+            ++counter.back().first; //deeper parentheses
             ++depth;
             counter.push_back(make_pair(0, 0));
             continue;
         }
         roll = getRandomDouble(uniR, 0);
-        if (roll < probClose + cum && depth > 0 && !(!counter.back().second && counter.back().first <= 1)) { //)
+        if (roll < probClose + cum && depth > 0 && (counter.back().first >= 2 || counter.back().second >= 1)) { //)
             tokens.emplace_back(")");
             counter.pop_back();
             --depth;
             continue;
         }
         cum += probClose;
-        ++counter.back().second;
         if (roll < probIncorrect + cum) { //constant
             tokens.emplace_back(Const);
             Const = nextString(Const);
@@ -103,10 +102,12 @@ vector<string> combinate(vector<string> &v, int mx, string comb) {
         if (roll < probArgs) { //argument
             if (v.size() <= 0)
                 continue;
+            ++counter.back().second;
             tokens.emplace_back(randomFromVec(v));
         } else { //combinator
             string combi;
             do { combi = combinatorList[getRandomInt(uniKombinator, 0)]; } while (combi == comb); //cant self refer
+            ++counter.back().second;
             tokens.emplace_back(combi);
         }
         ++cnt;

@@ -1,4 +1,4 @@
-main   = c  d c  (I) e (J  e) K L   M   N   O ((d d)  d)
+main   = c  d c  (I J e  (K e)) L   M   N   O ((d d)  d)
 d g   f  =  a   c  e  (e) (b g c)
 c  g   f  h  = E   F a  d
 d  f g   f  h  = (a  h   b)  c

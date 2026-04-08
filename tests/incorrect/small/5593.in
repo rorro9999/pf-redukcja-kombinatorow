@@ -1,4 +1,4 @@
-main = e (a) (K (c)) a (c e) b L M d (e c b e)
+main = e (a) (K (c) L a (c e) b) M d (e c b e)
 a f = A d B
 c f g i h = E F e (e b)
 d f h i g = (b) e c

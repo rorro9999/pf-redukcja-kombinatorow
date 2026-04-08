@@ -1,5 +1,5 @@
 a d e = A B
-b e d f = C c (D) E F
-c d e = G H I d J
-b d e = K e (c a)
-main = c L a c M a c N c O
+b e d f = C c (D E F)
+c = ((G H a))
+c e d f = (I J K)
+main = b (L M (N O (b c b a a)))

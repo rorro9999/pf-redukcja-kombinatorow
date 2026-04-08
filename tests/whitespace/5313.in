@@ -1,7 +1,7 @@
-main  =  (S) T   b  b  c U c   (V  e  d  a  ((b  a  c) b))
-a  g  h  f  =  (b   f)
-e g  f  = N  O
+c g  h   f  = (P  Q  a  f   R  h  b)
 b h  g f   =  A  d  B  C   D   E
 d  g  f  h  =  I b  J K L  M
 c  g  f   =   F   e  G d  a  H g
-c g  h   f  = (P  Q  a  f   R  h  b)
+e g  f  = N  O
+a  g  h  f  =  (b   f)
+main   = (S  T U  b  b  c  V  c  (W  e  d a  b   a c))

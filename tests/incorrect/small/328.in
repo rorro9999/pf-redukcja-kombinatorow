@@ -2,4 +2,4 @@ a = A B
 b d b = C
 c f e d = a a D E
 a e d f = c F (c) b
-main = c b G b (H (I c a c)) J
+main = c b G b (H (I c a c) J)

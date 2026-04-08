@@ -2,5 +2,5 @@ e g f h i = (c (b b c) d c b)
 d g f = f (e (g c) c a)
 c f i h g = i (b e b) b h
 b f g h = ((e) d d (g) (d d)) c
-main = (e d c (A) a B) (C a D d E a e) F a
+main = (e d c (A B a C) (D a E d F a e)) a
 a h g f = e (e (c e c))

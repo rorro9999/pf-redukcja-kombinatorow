@@ -2,4 +2,4 @@ a e h g f = g g c d (d d)
 b h g f e = c d
 c e f g = d a
 d h e f g = a (b b b) c
-main = (A c (b)) a b b B C (D b ((E) F a)) G b
+main = (A c (b)) a b b B C (D b ((E F G a) H))

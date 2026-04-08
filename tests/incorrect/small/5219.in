@@ -1,4 +1,4 @@
-main = Q R b e (S) T (c U (b d) V e) b W b
+main = Q R b e (S T U (c V (b d) W e) b) b
 b f h i g = c (((B c g C c D)))
 c f g f = E d F G H f a
 e f h i g = M N O P g a

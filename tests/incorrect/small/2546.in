@@ -2,5 +2,5 @@ a g e f = (A (d b B))
 b e = C D E F G H
 c e f = a I J K e L
 d e e f = M e e N O P
-d f e = (Q c (R) c b)
-main = S T (a c d U c c (b ((c d a) d c c)))
+d f e = (Q c (R S c))
+main = (c (T (a c d U c c (b (c d a) d c c))))

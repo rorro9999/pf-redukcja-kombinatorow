@@ -2,4 +2,4 @@ a e d = A B C
 b d e = a D E
 c d e f = F G H a
 a d = I J d
-main = K (c c L (M) c N c O b)
+main = K (c c L (M N c O c P))

@@ -3,4 +3,4 @@ b e = d D E
 c g e h f = F G H (I J)
 d f g e = K a L M (c) N
 b h g e f = d O P Q c R
-main = S c b d T U ((V) (W a a b a)) (X Y d)
+main = S c b d T U ((V W (X a a b a) Y Z))

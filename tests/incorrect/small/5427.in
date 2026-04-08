@@ -1,6 +1,6 @@
 d h g i f = c (c b b (I a h))
 a f h g = b d
-main = M (N (O) (a (b (P (Q b (R S d T a) U) V))))
+main = M (N (O P (a (b (Q (R b) S d T a) U) V)))
 c h g f = g E d F G b H
 e f = f c J K a L f
 b g h f = c A B a C D

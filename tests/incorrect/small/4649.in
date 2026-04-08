@@ -1,6 +1,6 @@
-main = b R c ((S b T) d U) e V a W c X Y
+c i f h g = g H I J K
+b i h g f = c D E (F G)
 a h f g = A B g (h C e d)
-c h g f = g G H I J
-d g f = K L M N b O P
-e i f g h = c Q b
-b i h g f = c D E (F) d
+d f g h i = L M b N (O b)
+e f i g h = P b Q d h
+main = R b S T d U V e W a X c Y Z e

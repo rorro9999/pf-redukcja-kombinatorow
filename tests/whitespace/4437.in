@@ -3,5 +3,5 @@ a  h  g   f   i   = i   A   B  C  e
 c  f  g  h  = f  G h  H
 b  g h i  f =   (D  f)  E  F  e
 d  f  h  g i =   I  b  f
-main  =   M  b  (N)  d   O (P)  a   a  Q  R   e S  c   b a
-e i   h  g  f  = (J)   i  K  a b
+main  =   M  b  (N  O   d) (P  Q   a  a)  R   e S  c   b a
+e i   h  g  f  = (J   K  i)  a b

@@ -1,4 +1,4 @@
-c  d   e   = a
-main   a b  c =   b   (G c  b  a   c)  b   a  H  I
+c =   G
 a  =  A   (B  b  C)  c
-b  c  d   = D  a (E) F
+b   c  d  =  D   a (E  F)
+main a   b c =   c H  (((I (J   c   b a  c)  b   a)))

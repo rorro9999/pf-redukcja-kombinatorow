@@ -1,4 +1,4 @@
-main = c F (G (c)) d H a c (d d c (e) I) b c
+main = c F (G (c) H d) a c (d d c (e) I) b c
 c i h f g = A i B
 e g f = c E
 d h f g = C e a a D

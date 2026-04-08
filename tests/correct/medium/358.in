@@ -28,4 +28,4 @@ aa ae ag af ah = c q (af ae)
 ab af ae = y m
 ac ae af ag ah = y i (j h) (q ag)
 ad ah ai ag af ae = x y
-main = A ad B C D h ((((q E a ac k a (F G i (n H a) i) ac) I ((J aa) (((w z K (v (w L f (M (N b) ((s q) O) (P Q u z) b)) aa R c t S aa ((aa b (s d d (((T) g e v b (ab)) o) v f q o ((z U ac (V i) W ((p v ((l k y x z i z) g (X r n)) (w) Y h) ac)) u x ad aa) n Z i b) u) AA r y l AB)))))))))
+main = A ad B C D h ((((q E a ac k a (F G i (n H a) i) ac) I ((J aa) (((w z K (v (w L f (M (N b) ((s q) O P (Q R u z) b)) aa S c t T aa ((aa b (s d d (((U V g e v b (ab)) o) v f q o ((z W ac (X i) Y ((p v ((l k y x z i z) g) r n) Z w) AA h) ac)) u x ad aa) n AB i b) u)) r y l))))))))

@@ -1,6 +1,6 @@
 a ae af ag ah = ad
 b af ai ae aj ag ah = p
-c ai af ae ag ah = (A (h a)) y B C
+c ai af ae ag ah = (A (h a) B y) C
 d ae af = s D y (E i ae q)
 e ae ag af = (ag) u F G r H t
 f ae aj ai ah ag af = I r x ag
@@ -26,6 +26,6 @@ y ah af ae ag = AO d AP AQ z z
 z af ae = g AR AS
 aa ae = ae a r AT y AU r g
 ab ae = AV AW AX
-ac ag ah af ae = v AY ((AZ BA) aa)
-ad ag ae af ah = BB BC o (BD) af b BE
-main = t (h e) ad (e (((i (p)) BF ac) z BG) g x) f BH h BI BJ (BK) BL BM (BN v j) e BO BP m BQ ad BR s i x b b BS BT BU h (BV ((x r BW) j m) (BX (d) (r t (BY (BZ (CA (CB ((CC b d) CD w y c l) j)) j aa (CE) CF ac t (CG ((x q v CH q ad r) ((CI ((a o (aa (CJ u o (CK c r ad)))) aa r)) CL)) CM h) CN) CO o ad) g))) j CP
+ac ag ah af ae = v AY ((AZ BA BB))
+ad ae ai af ah ag = BC
+main = BD o (BE x) n o s t (h e) ad (e (((i (p)) BF ac) z BG) g x) f BH h BI BJ (BK BL BM BN (BO v j) e) BP m BQ ad BR s i x b b BS BT BU h (BV ((x r BW) j m) (BX (d) (r t (BY (BZ (CA (CB ((CC b d) CD w y c l) j) CE j aa (CF CG CH ac t (CI ((x q v CJ q ad r) ((CK (a o aa) u o) c r ad)) CL CM aa r)) CN))))))

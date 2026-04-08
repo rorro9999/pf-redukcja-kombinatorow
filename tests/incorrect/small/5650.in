@@ -1,6 +1,6 @@
-main = P (e d e) (Q d e) (R S) (b e c) (c e a)
-e h g f i = ((b) N (c)) O b a d
 b = E d e F G
 a f h g = A e B (e) C D
 c g h f = H e I J K L
 d h c f g = b M (e) h c g
+main = P (e d e) (Q d e) (R S T (b e c) c e)
+e h g f i = ((b) N (c)) O b a d

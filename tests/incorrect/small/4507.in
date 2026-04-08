@@ -1,6 +1,6 @@
-main = S T b U (c (V)) (W c c ((e) (c) c X b Y))
+c f g = f (e) H I (b) J
 b g h f = g F f (G e h)
-a g f h = A B C b D E
 e h h g f = P (Q R)
 d g f = K L a M N O
-c f g = f (e) H I (b) J
+a g f h = A B C b D E
+main = S T b U (c (V W X (Y c c e) c) c Z)

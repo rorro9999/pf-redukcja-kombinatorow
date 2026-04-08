@@ -1,7 +1,7 @@
-main  = b N   ((O (a   a  a  ((P   c)  Q  c   a e  c)  d)) b)
+main =  b   N   ((O (a a  a  ((P  c)  Q  c   a  e   c)  d)  R))
 b   g  f =   D  e  d   E   (F  a)
-e   i h  f  g =   K   L  a  b
-c  f g  h =  M b  (e  h  (g  h)  e)
 d h  f   i  g   = H (a  e  c   I b)   J
+e   i h  f  g =   K   L  a  b
 a   f  g  f   =  A   B   (f  f c C)
+c  f g  h =  M b  (e  h  (g  h)  e)
 c  f g h  = G  b   b  d

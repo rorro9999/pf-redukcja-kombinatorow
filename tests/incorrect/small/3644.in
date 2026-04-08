@@ -3,4 +3,4 @@ b e f = a C D E f
 c e d g f = e e b b a b
 d f e c = f F G H (c) I
 d g e f = J K b b b
-main = L c M N O P (Q) a a R (c) d S (c) T
+main = L c M N O P (Q R a a) (c) d S (c) T

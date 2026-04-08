@@ -1,4 +1,4 @@
-a d e = (A) b B d
+a d e = (A B b) d
 b e d = c
 c d e = C D b E
 a = b

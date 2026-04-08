@@ -2,5 +2,5 @@ a e = (e A) B
 b = (c d) a a d C
 c f e = b D E
 d e f = F b b G b H
-c e f = I d J K (L) a
-main = M (N a) O a d c b c P (Q) a a R b
+c e f = I d J K (L M)
+main = b N (O a) P a d c b c Q (R S a a)

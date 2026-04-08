@@ -1,6 +1,6 @@
-main = (K a L M a (c (N) O (a ((e a) a e b)) b))
-a g a f h = ((h b (e A) h e e))
 b f = B a (c e e d)
-d g i h f = G h e (H h b) I
-e h g i f = d J b g
 c g f h i = i C D E (a) F
+d g i h f = G h e (H h b) I
+main = (K a L M a (c (N O P (a e a) a e b)))
+e h g i f = d J b g
+a g a f h = ((h b (e A) h e e))

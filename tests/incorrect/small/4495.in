@@ -1,4 +1,4 @@
-main = M N O (P (a) (Q)) e R c (c) S T c (d a)
+main = M N O (P (a) (Q R S e) c (c)) T c (d a)
 c g h f i = D h E e F e
 e h h f g = (J (K (L d) a c))
 a f h g h = A e g ((B c c c))

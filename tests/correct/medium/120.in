@@ -1,4 +1,4 @@
-a = b g (h q ((i s)) (aa f o ac))
+a = b g (h q ((i s) aa f o ac))
 b ae = y (d) w m l g
 c ae = (s s ae)
 d ae af = j ab m (ae ac i (l ae ae g))
@@ -28,4 +28,4 @@ aa ah ai ag af ae = n
 ab af ae = s af f
 ac ae af = e af af
 ad = o
-main = A B ad C x ((ac) x ac ad (d)) D (j j r (x (r ((u ac s (b (ab q ((j) ((ab (t ab q h ((z (n) E (F)) aa p) ab t ac n ((G l) H k z (y l (r)) (((I) r l J (((h) K a (s) o u ad (r) y) L) M ac (N h o)) O b q h x b r k) o y ((P w (Q)) w e)) R (S) l n) aa a c ((T U V) c W p t) r) x h n l g)))))))))
+main = A B ad C x ((ac) x ac ad (d)) D (j j r (x (r ((u ac s (b (ab q ((j) ((ab (t ab q h ((z (n) E (F G H aa p) ab t ac n ((I l) J k z (y l (r)) (((K L r l M (((h) N a (s) o u ad (r) y) O P Q ac (R h o))) b q h x b r k) o y ((S w (T U V w e)) W X Y l n) aa a c) Z AA) c AB p t) r))))))))))))

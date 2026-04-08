@@ -1,6 +1,6 @@
 a e g f = A
 b e f g = (c (e (d B) f g))
-c g e f = (C) d g D E d
+c g e f = (C D d g) E d
 d e = a c F (e c) G
-d e h g f = f ((H) I c J c)
-main = (d (K) (L d a) c b d b ((M c d b) b) d)
+d e h g f = f ((H I J c K))
+main = L (c d a c d a (c b d b (M c d b)))

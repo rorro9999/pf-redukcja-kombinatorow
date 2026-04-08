@@ -1,6 +1,6 @@
 a g f h i = (i ((A c c B C) D))
 c f h g = h a h
 d f h f g = (e a a a b) b b
-b f g h = (E) F G h H I h
+b f g h = (E F G H h) I h
 e h f g i = J a K (h L)
 main = e M N O a (a d) b e P (b Q R b c)

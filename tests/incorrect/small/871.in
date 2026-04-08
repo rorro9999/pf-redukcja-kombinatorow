@@ -2,4 +2,4 @@ a e d = (b) A
 b d = c a d
 c f d e = (b a) d B C
 a e d = b ((D E b))
-main = (c (F)) a c c c a G H b
+main = (c (F G H a c c c a)) b
