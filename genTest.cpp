@@ -139,11 +139,13 @@ string defineCombinator(string comb) {
     string a = nextString(combinatorList.back());
     if (argc)
         argList.push_back(a);
+    a = nextString(a);
     for (int i = 1; i < argc; ++i) {
         if (getRandomDouble(uniR, 0) > probIncorrect) {
             argList.push_back(a);
             a = nextString(a);
         } else {
+            //cerr << "i should not execute\n";
             if (getRandomDouble(uniR, 0) < 0.5) {
                 argList.push_back(randomFromVec(argList)); //not ideal, but works
             } else {
@@ -163,8 +165,6 @@ string makeMain(int len) {
     //of the left probability, we want:
     //probIncorrect = 1 - probComb
     //(1-p)*probComb, probIncorrect (1-p)*(1-probComb)
-    //magic = probability of a constant
-    //magic = (1 - probComb) / p
     probIncorrect = (1 - probComb) * (1 - probOpen - probClose);
     //cerr << "open, close, inc, comb " << probOpen << ' ' << probClose << ' ' << probIncorrect << ' ' << probComb << '\n';
     return tokensToString(tokens + combinate(combinatorList, len, "main"));
@@ -199,16 +199,17 @@ int main(int argc, char *argv[]) {
     probClose = atof(argv[9]);
     //cerr << probIncorrect << ' ' << probOpen << ' ' << probClose << '\n';
     //if propabiliti of opening is close to that of closing, then it's no problem, because there's max length
-    if (probIncorrect + probOpen + probClose >= 0.95) {
-        cerr << "uwazaj, niefajna dystrybucja, sprawdz te konkretnie linie kodu!!!\n" << probIncorrect + probOpen + probClose << '\n';
-        return -1;
-    }
+    /*if (probIncorrect + probOpen + probClose >= 0.95) {
+     *   cerr << "uwazaj, niefajna dystrybucja, sprawdz te konkretnie linie kodu!!!\n" << probIncorrect + probOpen + probClose << '\n';
+     *   return -1;
+    }*/
 
     for (int i = 0; i < atoi(argv[2]); ++i) {
         combinatorDefinitionList.push_back(defineCombinator(combinatorList[i]));
     }
 
     int impostor = atoi(argv[11]);
+    //cerr << impostor << '\n';
     for (int i = 0; i < impostor; ++i) {
         combinatorDefinitionList.push_back(defineCombinator(combinatorList[getRandomInt(uniKombinator, 0)]));
     }
