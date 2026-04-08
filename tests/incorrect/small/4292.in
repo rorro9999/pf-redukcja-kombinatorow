@@ -1,7 +1,7 @@
-e f f = J K c f b
-c f g f = L M N O b b d
-d g f h f = (H ((I e) a a b c))
-a f g f h = A b e c f e
+e f g = J K c f b
+c g h f = L M N O b b d
+d h f i g = (H ((I e) a a b c))
+a f h g i = A b e c g e
 main = c P e ((e Q b R (S (T c b e d U d))))
-c g f f = F (G) (f b)
-b f g f = B C (D) e E
+c h f g = F (G) (g b)
+b g h f = B C (D) e E

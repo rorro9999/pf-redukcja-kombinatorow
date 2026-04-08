@@ -1,4 +1,4 @@
-a e e = (b b) c e b
+a e f = (b b) c f b
 b e = d a c c (a a)
 c e = (a (e d) a) b e
 d e = c (e e)

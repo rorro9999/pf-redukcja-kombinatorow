@@ -1,7 +1,7 @@
 main = O c P Q e b (((a R d e) d (b) e S a))
-d f f g d = a K (b b) L
-e f h g f = b b ((b c) (b c a))
-b f f = (E d) F e (G) (e c)
-a f f g = c A B C D e e
-e g f h f = c d (M d) N d c
-c f g f h = f d H I h b J
+d f g h d = a K (b b) L
+e f i h g = b b ((b c) (b c a))
+b f g = (E d) F e (G) (e c)
+a f g h = c A B C D e e
+e h g i f = c d (M d) N d c
+c g h f i = f d H I i b J

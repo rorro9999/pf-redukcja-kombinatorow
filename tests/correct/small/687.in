@@ -1,4 +1,4 @@
 a = ((b b) b c c)
 b = c
-c d d = (d) b a
+c d e = (e) b a
 main = A b B b C a ((b b a) b)

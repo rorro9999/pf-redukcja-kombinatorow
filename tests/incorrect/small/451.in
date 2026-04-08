@@ -1,5 +1,5 @@
-a d e d = c e A
-b d e d = B (C c) D c
+a d f e = c f A
+b d f e = B (C c) D c
 c d = E F (G H a)
-c d d = (d) I b a
+c e d = (e) I b a
 main = J a K L a M a (c a c)

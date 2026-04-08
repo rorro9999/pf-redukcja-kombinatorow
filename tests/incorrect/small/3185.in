@@ -1,6 +1,6 @@
-a e e = A (b) c B C
-b e e = a ((d) D d E a)
-c e f e = F d G (H) I
-d e e = J b (K) L c
-b f e e d = M N O
+a e f = A (b) c B C
+b f e = a ((d) D d E a)
+c e g f = F d G (H) I
+d f e = J b (K) L c
+b g e f d = M N O
 main = b (P) ((((Q (b c a d b (R b d S b c) a)))))

@@ -1,7 +1,7 @@
-b g f f = (e f) C D E f
-e f f = L c
-a f f g h = b e c A B
-d f g f h = b J K a c (a f)
+b h f g = (e f) C D E f
+e f g = L c
+a g f h i = b e c A B
+d f h g i = b J K a c (a g)
 main = S (T d a e ((U (V (d W)) X b c) Y Z c))
-c f f h g = M N O a P Q R
+c g f i h = M N O a P Q R
 c f a = (a F (e) d G) H I

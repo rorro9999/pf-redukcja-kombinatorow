@@ -1,7 +1,7 @@
 main = J (a a (c c e (b (K (L M a b a a c)))))
-d f g f = a a (e) H
-e f g f f = I f d a d
-b f h g f = (h) D E F (f c)
-c f h f g = (a e a a)
-a f f = A B c C
-c f f g = f a g (a G) e d
+d g h f = a a (e) H
+e g h f f = I f d a d
+b g i h f = (i) D E F (f c)
+c g i f h = (a e a a)
+a f g = A B c C
+c g f h = g a h (a G) e d

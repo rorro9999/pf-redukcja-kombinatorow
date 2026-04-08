@@ -1,6 +1,6 @@
 main = a e e a b c a A d a e (d) a B b
-e g f f = f (b (g) c a) (f g)
-b g f f = (g) a d a e f c
-a h g f f = f
-d g f f = e a b g c c
-c f f h g = d g (f h f b f)
+e h g f = g (b (h) c a) (f h)
+b h f g = (h) a d a e f c
+a i h g f = f
+d h g f = e a b h c c
+c g f i h = d h (f i f b f)

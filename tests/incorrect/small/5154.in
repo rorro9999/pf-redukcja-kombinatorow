@@ -1,7 +1,7 @@
-e f f g h = N (O f a P Q a)
-a f g f = A b c ((B f e))
+e g f h i = N (O g a P Q a)
+a g h f = A b c ((B f e))
 b f = (a C)
 c f = d D E (F d) G
-d f g h f = c a b c (H I) J
+d g h i f = c a b c (H I) J
 main = R d S T ((U V) W (b d) e e (b b a)) b
-e f h g f = K f a L b M b
+e g i h f = K g a L b M b

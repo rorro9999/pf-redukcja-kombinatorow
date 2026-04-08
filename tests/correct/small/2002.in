@@ -1,5 +1,5 @@
-a e e = d (b c) e e
-b e e = e e d a (d) a
-c e e = d d ((b b) d)
-d e f e = b b
+a e f = d (b c) e e
+b e f = f e d a (d) a
+c e f = d d ((b b) d)
+d e g f = b b
 main = c a A (d) b (b (b)) a d B d C d a c

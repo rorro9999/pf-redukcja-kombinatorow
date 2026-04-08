@@ -1,6 +1,6 @@
-a g e f e = A g B C
-b e g e f = c D
-c g f e e = E
+a h e g f = A h B C
+b f h e g = c D
+c h g e f = E
 d = F c (G a) H
-b e e = d I J e K a
+b e f = d I J e K a
 main = L a M N O P ((Q (R a b (a d b b) a)))

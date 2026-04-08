@@ -1,7 +1,7 @@
 main = c M N O P d Q (c R d S) T e e U
-c f f g = F e f e G f e
-e f f h g = J (c d) f
-d f g f = f a H I e
-b g f f = e D f a E
-a f f = A b B C b (c f)
-e f f g = d (K (b b L d b))
+c f g h = F e g e G g e
+e g f i h = J (c d) f
+d f h g = g a H I e
+b h f g = e D f a E
+a g f = A b B C b (c g)
+e f g h = d (K (b b L d b))

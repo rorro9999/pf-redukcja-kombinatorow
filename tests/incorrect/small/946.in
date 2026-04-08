@@ -1,4 +1,4 @@
-a d d e = ((A (B C c b)))
+a e d f = ((A (B C c b)))
 b d = a
 c d = b a
 a d = c d c

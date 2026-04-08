@@ -1,7 +1,7 @@
-a  f  f   =   (c  (e  b d e  d)  f)
-d f  f f   g = C  c   e  a  a
-b  h g  f  f  =  e  a A
-c g f  f   =   (B ((e)  b  a  a  g  d))
-d  f  f  d  g  =   a  a   a  (E   (b   F  d))
-e g d  f  f  =  D  (c)   c
+a  f  g   =   (c  (e  b d e  d)  g)
+d g  g f   h = C  c   e  a  a
+b  i h  f  g  =  e  a A
+c h f  g   =   (B ((e)  b  a  a  h  d))
+d  f  g  d  h  =   a  a   a  (E   (b   F  d))
+e h d  g  f  =  D  (c)   c
 main = b   c   G d d  a H I   b  c (a (J K  d b))

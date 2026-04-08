@@ -1,6 +1,6 @@
-a e e d = (e d A e) e c
-b f e e = d B
-c e g e f = d a C D E F
-d e f e = G H c e I J
-d f e e = b
+a e f d = (e d A f) e c
+b g f e = d B
+c f h e g = d a C D E F
+d e g f = G H c f I J
+d g f e = b
 main = a d b a (a) b c (c K (L)) M N O P a

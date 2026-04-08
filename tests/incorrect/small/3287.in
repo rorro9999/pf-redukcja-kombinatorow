@@ -1,6 +1,6 @@
-a f e e = (A) B C D c
-b e g f e = E a F a G
-c f e e b = H a a I (J) d
-d f e e = e ((b) K c) (L a)
-c f e e = M N O P a b
+a g e f = (A) B C D c
+b e h g f = E a F a G
+c g e f b = H a a I (J) d
+d g f e = e ((b) K c) (L a)
+c g f e = M N O P a b
 main = c Q b R c S b (b c (d a d a d) b)
