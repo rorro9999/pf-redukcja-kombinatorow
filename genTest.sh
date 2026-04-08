@@ -38,11 +38,13 @@ for ((i = 0; i < t; i++)); do
     ./genTest.e $((i))     3 0.7  3 0 5 0 0.2  0.3  10 1 0.1 0.15 0 > tests/incorrect/small/$((i)).in & #basic small
     ./genTest.e $((i+t))   4 0.7  4 1 6 1 0.25 0.35 15 1 0.1 0.25 0 > tests/incorrect/small/$((i+t)).in & #basic small
     ./genTest.e $((i+2*t)) 5 0.75 4 2 7 2 0.2  0.3  15 0 0.1 0.25 1 > tests/incorrect/small/$((i+2*t)).in & #basic small
+    ./genTest.e $((i+3*t)) 3 0.7  3 0 5 0 0.2  0.3  10 0 0.1 0.15 8 > tests/incorrect/small/$((i+3*t)).in & #bad main
     ./genTest.e $((i))     30 0.8 6 0 10 0 0.2 0.3 100 0 0.1 0.15 0 > tests/incorrect/medium/$((i)).in & #basic medium
     ./genTest.e $((i+t))   40 0.8 7 0 13 1 0.2 0.3 100 3 0.1 0.10 1 > tests/incorrect/medium/$((i+t)).in & #basic medium
     ./genTest.e $((i+2*t)) 50 0.8 8 1 16 2 0.2 0.3 100 4 0.1 0.15 0 > tests/incorrect/medium/$((i+2*t)).in & #basic medium
     ./genTest.e $((i+3*t)) 30 0.75 6 0 18 1 0.9 0.6 100 4 0.04 0.05 0 > tests/incorrect/medium/$((i+3*t)).in & #parenthesis hell, very left heavy ((((a) b) c) d (((( ..
     ./genTest.e $((i+4*t)) 30 0.75 6 0 18 1 0.5 0.15 100 4 0.1 0.05 0 > tests/incorrect/medium/$((i+4*t)).in & #parenthesis hell, very right heavy ((((a) b) c) d (((( ..
+    ./genTest.e $((i+5*t)) 30 0.8 6 0 10 0 0.2 0.3 100 0 0.1 0.15 8 > tests/incorrect/medium/$((i+5*t)).in & #bad main
     wait
     ./genTest.e $((i))     3 0.7  3 0 5 0 0.2  0.3  10 1 0.1 0.15 4 > tests/whitespace/$((i)).in & #basic small
     ./genTest.e $((i+t))   4 0.7  4 1 6 1 0.25 0.35 15 1 0.1 0.25 4 > tests/whitespace/$((i+t)).in & #basic small

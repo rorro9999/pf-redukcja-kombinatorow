@@ -1,0 +1,4 @@
+main   a  b c   =  b  (a)   (A  B  c a a  C  a  D)
+a   e  d  f = c
+b   f  d  e =   a
+c  e  d f =  ()

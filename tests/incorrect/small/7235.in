@@ -1,0 +1,4 @@
+main a   b c   =   C   D  (E  (a   c  F b) b  c b)
+b  d   = (A  c B c)
+c  d  = a  b
+a d   =   b
