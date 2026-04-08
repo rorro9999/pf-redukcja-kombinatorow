@@ -154,7 +154,7 @@ string defineCombinator(string comb) {
         }
     }
     shuffle(argList.begin(), argList.end(), rng);
-    vector<string> combinatedStuff = combinate(argList, getRandomInt(uniKombWyn, biasWyn), comb);
+    vector<string> combinatedStuff = combinate(argList, max(1, getRandomInt(uniKombWyn, biasWyn)), comb);
     return tokensToString(vector<string>{comb} + argList + vector<string>{"="} + combinatedStuff);
 }
 
