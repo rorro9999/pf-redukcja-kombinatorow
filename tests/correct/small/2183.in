@@ -1,0 +1,5 @@
+a e e = (e ((b e e b)))
+b e = d e e
+c e e f = d e f d
+d e e = (b c a e e b)
+main = c A B c C b c D (b) a c d a E d

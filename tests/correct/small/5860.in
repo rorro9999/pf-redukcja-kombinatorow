@@ -1,0 +1,6 @@
+b f f g h = f d d a h
+e f h f g = a a (f (f) (c a a))
+c h f f g = f e f d (a f) a
+d f = f f
+a f h f g = e (f f d f d)
+main = A (e a e c c b b e B (a C) a) (D) a

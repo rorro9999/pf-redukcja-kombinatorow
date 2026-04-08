@@ -1,0 +1,7 @@
+d g f f = a b M a
+a g f h f = A B C f D (g h)
+b f h g f = E F ((G f a))
+c f = (H f b f I)
+e f f = (f K a (L b d))
+d f f f g = a J g f
+main = (c a) N O a P b d (d e (Q R) c) S b

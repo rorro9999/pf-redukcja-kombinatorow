@@ -3,13 +3,13 @@ genTest 1[seed] 2[ilosc_kombinatorow] 3[prawdopdobienstwo_kombinatora_main(ulame
 ulamek znaczy zakres [0,1]
 
 ukryte zalozenia(wszystkie sa ukryte, bo to moje testy):
-  - 1e6 >= n >= 2
+  - 2e4 >= n >= 2
   - tylko alfabet angielski
-  - stale z wielkiej litery, kombinatory z malej
+  - stale z wielkich liter, kombinatory z malych
   - kombinatory sa z listy posortowanej leksykograficznie, a, b, c, d, ... aa, ab, ac, ..., wolne zmienne analogicznie A, B, C, ...
-  - kombinator x nie moze uzyc siebie w definicji, np. i x = x i sie NIE pojawi, bo kombinator 'i', uzywa kombinatora 'i' w swojej definicji. ale k x y = x, s x y z = x z (y z), to wtedy moze byc i x = s k k x (co jest rowne k x (k x) -> x)
-  - main nie jest w definicji innych kombinatorow
-  - moga wystepowac dodatkowe zbedne spacje pomiedzy rzeczami, moze byc ((A)) (co i guess oznacza to samo co A)
+  - kombinator x nie moze uzyc siebie w definicji, np. i x = x i sie NIE pojawi, bo kombinator 'i', uzywa kombinatora 'i' w swojej definicji. (ale moga byc cykle definicji np. a = b; b = a)
+  - main nie jest w definicji innych kombinatorow i samym sobie
+  - moga wystepowac dodatkowe zbedne spacje/nawiasy pomiedzy rzeczami, moze byc ((A)) (co i guess oznacza to samo co A)
   - znak '=' nie styka sie z argumentami/zmiennymi/nawiasami
   - niepoprawne testy bede niepoprawne wg definicji z zadania, tych trzech warunkow, nie zawieraja znakow specjalnych itp, sa stricte w formacie [nazwa kombinatora] [zmienne] = [kombinacje zmiennych_i_innych_redeksow(tylko zmiennych i redeksow(poza main), nie ma wyrazow wolnych itp)] [nowa linia], nie bedzie np. inwokacji pana tadeusza
   - main nie musi byc ostatnim kombinatorem

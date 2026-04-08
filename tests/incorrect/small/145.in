@@ -1,0 +1,5 @@
+a d = (b A b) c b
+b = B C D c
+c d = E b a
+b = F
+main = a G a H I J b ((c b b))

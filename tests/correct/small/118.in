@@ -1,0 +1,4 @@
+a = (b) b b
+b d d e = e
+c d e d = d (b) b
+main = a (c a (A a c (a) c a b))

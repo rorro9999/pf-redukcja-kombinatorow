@@ -1,0 +1,6 @@
+a e e = A B ((C e b d))
+b = (d c) a D E a
+c g e f e = F G d e
+d g f e e = H e (I b)
+b e f e = ((e d J a))
+main = K (L) (M) a c N a b c (O P d a d) Q

@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
-#define RANDOM_WHITESPACE string((rng() & 1) & (ugly >= 4) ? " " : "")
+#define RANDOM_WHITESPACE string(((rng() % 2 == 1) && (ugly >= 4)) ? " " : "")
 #define EXPECTED_ARGS (14+1)
 
 using namespace std;
@@ -66,7 +66,8 @@ string randomFromVec(vector<string> &v) {
 
 vector<string> combinate(vector<string> &v, int mx, string comb) {
 
-    vector<pair<int, int>> counter; //per floor <deeper parentheses, tokens> . won't allow the closure of useless parentheses
+    vector<pair<int, int>> counter; //per floor <deeper parentheses, tokens> . won't allow the closure of utterly useless parentheses
+    counter.push_back(make_pair(0, 0));
     vector<string> tokens;
     int cnt = 0;
     size_t depth = 0;
@@ -74,23 +75,23 @@ vector<string> combinate(vector<string> &v, int mx, string comb) {
         double roll = getRandomDouble(uniR, 0);
         double cum = 0; //cumulative probability of events
         if (roll < probOpen) { //(
-            if (depth 
+            if (depth >= (mx-cnt-1))
+                continue;
             tokens.emplace_back("(");
+            ++counter.back().first;
             ++depth;
             counter.push_back(make_pair(0, 0));
             continue;
         }
-        cum += probOpen;
-        if (roll < probClose + cum) { //)
-            if (0 == depth || "(" == tokens.back())
-                continue;
-            if (counter.back().first + counter.back().second <= 1) //this floor does not add anything of value
-                continue
+        roll = getRandomDouble(uniR, 0);
+        if (roll < probClose + cum && depth > 0 && !(!counter.back().second && counter.back().first <= 1)) { //)
             tokens.emplace_back(")");
+            counter.pop_back();
             --depth;
             continue;
         }
         cum += probClose;
+        ++counter.back().second;
         if (roll < probIncorrect + cum) { //constant
             tokens.emplace_back(Const);
             Const = nextString(Const);
@@ -108,23 +109,12 @@ vector<string> combinate(vector<string> &v, int mx, string comb) {
             tokens.emplace_back(combi);
         }
         ++cnt;
-    } while (cnt <= mx);
-    //randomly purges depth "("
-    size_t purged = 0;
-    vector<bool> toPurge(tokens.length(), false);
-    for (size_t j = 0; j < 1e7 && purged < depth; ++j) {
-        j = rng() % purged;
-        if ("(" == tokens[j] && !toPurge[j]) {
-            toPurge[j] = 1;
-            ++purged;
-        }
+    } while (cnt < mx);
+    while (depth > 0) {
+        tokens.push_back(")");
+        --depth;
     }
-    vector<string> ret;
-    for (size_t i = 0; i < tokens.length(); ++i) {
-        if (!toPurge[i])
-            ret.emplace_back(tokens[i]);
-    }
-    return ret;
+    return tokens;
 }
 
 string tokensToString(const vector<string> &v) {
@@ -207,9 +197,11 @@ int main(int argc, char *argv[]) {
     probComb = atof(argv[3]);
     probOpen = atof(argv[8]);
     probClose = atof(argv[9]);
+    //cerr << probIncorrect << ' ' << probOpen << ' ' << probClose << '\n';
     //if propabiliti of opening is close to that of closing, then it's no problem, because there's max length
-    if (probIncorrect + probOpen + probClose >= 0.9) {
+    if (probIncorrect + probOpen + probClose >= 0.95) {
         cerr << "uwazaj, niefajna dystrybucja, sprawdz te konkretnie linie kodu!!!\n" << probIncorrect + probOpen + probClose << '\n';
+        return -1;
     }
 
     for (int i = 0; i < atoi(argv[2]); ++i) {

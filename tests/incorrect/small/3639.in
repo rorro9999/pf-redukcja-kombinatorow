@@ -1,0 +1,6 @@
+a e g e f = A (c (B c) g)
+b e f e b = C D E F
+c e e g f = G a H I
+d e e = b J (e c b K)
+b e e = L d (M) N d
+main = O P b (d (d ((d) (Q (R (d b)) b S b d) b)))

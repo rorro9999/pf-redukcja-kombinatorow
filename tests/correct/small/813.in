@@ -1,0 +1,4 @@
+a e d d = c d
+b d d = c
+c d d = b
+main = c A (B c ((c (C) c b a b)))

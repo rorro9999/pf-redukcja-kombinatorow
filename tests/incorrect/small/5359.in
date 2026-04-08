@@ -1,0 +1,7 @@
+c f f = (f f e a a a)
+c f f g = (e e b b e)
+main = H c e (I) J (K) L M N (O b b) P Q c
+b f g f = c D
+d f f g = b f b E c F
+a f f g = c A B (g) ((b e) C)
+e g f f h = d ((G) f c)
