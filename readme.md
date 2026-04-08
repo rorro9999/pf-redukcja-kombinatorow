@@ -14,5 +14,5 @@ ukryte zalozenia(wszystkie sa ukryte, bo to moje testy):
   - niepoprawne testy bede niepoprawne wg definicji z zadania, tych trzech warunkow, nie zawieraja znakow specjalnych itp, sa stricte w formacie [nazwa kombinatora] [zmienne] = [kombinacje zmiennych_i_innych_redeksow(tylko zmiennych i redeksow(poza main), nie ma wyrazow wolnych itp)] [nowa linia], nie bedzie np. inwokacji pana tadeusza
   - main nie musi byc ostatnim kombinatorem
   - dystrybucja najprostsza mozliwa (tworzenie testu przez tworzenie napisow, nie drzew, latwiej w ten sposob uzyskac malo nawiasow -> duzo redukcji, prawdopodobienstwo kombinatora jest z prawdopobienstwa pozostalego po niewylosowania nawiasow)
-  - main moze sie zaczac od kombinatora lub stalej (ale nigdy od '(', chociaz moga sie konczyc na ')'). na koncu zadnej linii nie ma zbednych bialych znakow
+  - main moze sie zaczac od kombinatora lub stalej, linia chyba moze miec biale znaki na koncu
 
