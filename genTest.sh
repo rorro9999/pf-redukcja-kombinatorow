@@ -31,7 +31,7 @@ for ((i = 0; i < t; i++)); do
     ./genTest.e $((i))     30 0.8 6 0 10 0 0.2 0.3 100 0 -1 0.15 0 > tests/correct/medium/$((i)).in & #basic medium
     ./genTest.e $((i+t))   40 0.8 7 0 13 1 0.2 0.3 100 0 -1 0.10 1 > tests/correct/medium/$((i+t)).in & #basic medium
     ./genTest.e $((i+2*t)) 50 0.8 8 1 16 2 0.2 0.3 100 0 -1 0.15 0 > tests/correct/medium/$((i+2*t)).in & #basic medium
-    ./genTest.e $((i+3*t)) 30 0.75 6 0 18 1 0.7 0.20 100 0 -1 0.05 0 > tests/correct/medium/$((i+3*t)).in & #parenthesis hell, very left heavy ((((a) b) c) d (((( ..
+    ./genTest.e $((i+3*t)) 30 0.75 6 0 18 1 0.9 0.6 100 0 -2 0.05 0 > tests/correct/medium/$((i+3*t)).in & #parenthesis hell, very left heavy ((((a) b) c) d (((( ..
     ./genTest.e $((i+4*t)) 30 0.75 6 0 18 1 0.5 0.15 100 0 -1 0.05 0 > tests/correct/medium/$((i+4*t)).in & #parenthesis hell, very right heavy ((((a) b) c) d (((( ..
     wait
     #incorrect tests, same distributions as the correct ones, but, uuh, not correct
@@ -41,7 +41,7 @@ for ((i = 0; i < t; i++)); do
     ./genTest.e $((i))     30 0.8 6 0 10 0 0.2 0.3 100 3 0.1 0.15 0 > tests/incorrect/medium/$((i)).in & #basic medium
     ./genTest.e $((i+t))   40 0.8 7 0 13 1 0.2 0.3 100 3 0.1 0.10 1 > tests/incorrect/medium/$((i+t)).in & #basic medium
     ./genTest.e $((i+2*t)) 50 0.8 8 1 16 2 0.2 0.3 100 4 0.1 0.15 0 > tests/incorrect/medium/$((i+2*t)).in & #basic medium
-    ./genTest.e $((i+3*t)) 30 0.75 6 0 18 1 0.7 0.20 100 4 0.04 0.05 0 > tests/incorrect/medium/$((i+3*t)).in & #parenthesis hell, very left heavy ((((a) b) c) d (((( ..
+    ./genTest.e $((i+3*t)) 30 0.75 6 0 18 1 0.9 0.6 100 4 0.04 0.05 0 > tests/incorrect/medium/$((i+3*t)).in & #parenthesis hell, very left heavy ((((a) b) c) d (((( ..
     ./genTest.e $((i+4*t)) 30 0.75 6 0 18 1 0.5 0.15 100 4 0.1 0.05 0 > tests/incorrect/medium/$((i+4*t)).in & #parenthesis hell, very right heavy ((((a) b) c) d (((( ..
     wait
     ./genTest.e $((i))     3 0.7  3 0 5 0 0.2  0.3  10 1 0.1 0.15 4 > tests/whitespace/$((i)).in & #basic small
