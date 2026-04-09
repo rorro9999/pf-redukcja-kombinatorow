@@ -16,4 +16,6 @@ ukryte zalozenia(wszystkie sa ukryte, bo to moje testy):
   - dystrybucja najprostsza mozliwa (tworzenie testu przez tworzenie napisow, nie drzew, latwiej w ten sposob uzyskac malo nawiasow -> duzo redukcji, prawdopodobienstwo kombinatora jest z prawdopobienstwa pozostalego po niewylosowania nawiasow)
   - main moze sie zaczac od kombinatora lub stalej, linia chyba moze miec biale znaki na koncu
   - nie ma kombinatorow bez definicji, np a = [nic tu nie ma]
+  - NIE MA keywordow (poza '=') zdefiniowanych wedlug https://web.cs.dal.ca/~nzeh/Teaching/3137/haskell/first_steps/syntax/reserved_words/ oraz https://wiki.haskell.org/index.php?title=Keywords
+
 
