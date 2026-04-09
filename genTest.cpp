@@ -13,6 +13,23 @@ int biasArg, biasWyn; //bias, jak w testlib
 string Const = "A";
 double probComb, probOpen, probClose, probArgs, probIncorrect; //probability of a combinator in main, probability of '(' and ')' in comb/main, percentage of args/(args+combinators) in combinator definitions, probability of an incorrect definition of a combinator
 int ugly;
+static vector<string> keywords{"as", "case", "of", "class", "data", "if", "then", "else", "module", "where", "import", "qualified", "newtype", "type", "let", "in", "do", "instance", "deriving", "family", "default", "forall", "foreign", "hiding", "infix", "infixl", "infixr", "mdo", "proc", "rec", "main"};
+
+//of
+//as og
+//if oh
+//in oj
+//do oi
+//of ok
+//
+
+template<typename T>
+bool inVector(const vector<T>& v, const T &elem) {
+    for (const auto &vElem : v)
+        if (vElem == elem)
+            return true;
+    return false;
+}
 
 template<typename T>
 vector<T> operator+(const vector<T> &lhs, const vector<T> &rhs) {
@@ -36,13 +53,13 @@ string nextString(string s) {
             ++s[i-1];
             for (char &c : s)
                 c += lower;
-            return s;
+            return (inVector(keywords, s) ? nextString(s) : s);
         }
     }
     s += 'A';
     for (char &c : s)
         c += lower;
-    return s;
+    return (inVector(keywords, s) ? nextString(s) : s);
 }
 
 double getRandomDouble(uniform_real_distribution<> &dist, int bias) {
@@ -175,6 +192,19 @@ int main(int argc, char *argv[]) {
         cerr << "przeczytaj readme.md, oczekuje " << EXPECTED_ARGS - 1 << " arguemntow, otrzymalem " << argc - 1 << " argumentow " << '\n';
         return -1;
     }
+
+    {
+        vector<string> temp = keywords;
+        for (string str : temp) {
+            transform(str.begin(), str.end(), str.begin(), ::toupper);
+            keywords.push_back(str);
+        }
+    }
+    //for (string s : keywords)
+    //   cerr << s << '\n';
+
+
+
     rng = mt19937(atoi(argv[1]));
     uniKombArg = uniform_int_distribution<>(0, atoi(argv[4]));
     uniKombWyn = uniform_int_distribution<>(0, atoi(argv[6]));
@@ -185,14 +215,9 @@ int main(int argc, char *argv[]) {
     probIncorrect = atof(argv[12]);
     ugly = atoi(argv[14]);
 
-    combinatorList = {"a"};
-    for (int i = 1; i < atoi(argv[2]); ++i) {
+    combinatorList = {"a"}; //NOT a keyword
+    for (int i = 1; i < atoi(argv[2]); ++i)
         combinatorList.push_back(nextString(combinatorList.back()));
-        if (combinatorList.back() == "main") {
-            cerr << "nie wiem co robisz, ale masz za duzo kombinatorow\n";
-            return -1;
-        }
-    }
 
     probComb = atof(argv[3]);
     probOpen = atof(argv[8]);
