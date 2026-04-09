@@ -1,0 +1,10 @@
+a b
+b d c
+c b
+main A B b a b C (c a) D c
+------------------------------------------------------------
+A B b a b C (c a) D c
+A B b a b C (b a) D c
+A B b a b C c D c
+
+

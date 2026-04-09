@@ -1,0 +1,37 @@
+a b b
+b a
+c a
+main A (B C c (b D E c)) a a
+------------------------------------------------------------
+A (B C c (b D E c)) a a
+A (B C c (a D E c)) a a
+A (B C c (b b D E c)) a a
+A (B C c (a b D E c)) a a
+A (B C c (b b b D E c)) a a
+A (B C c (a b b D E c)) a a
+A (B C c (b b b b D E c)) a a
+A (B C c (a b b b D E c)) a a
+A (B C c (b b b b b D E c)) a a
+A (B C c (a b b b b D E c)) a a
+A (B C c (b b b b b b D E c)) a a
+A (B C c (a b b b b b D E c)) a a
+A (B C c (b b b b b b b D E c)) a a
+A (B C c (a b b b b b b D E c)) a a
+A (B C c (b b b b b b b b D E c)) a a
+A (B C c (a b b b b b b b D E c)) a a
+A (B C c (b b b b b b b b b D E c)) a a
+A (B C c (a b b b b b b b b D E c)) a a
+A (B C c (b b b b b b b b b b D E c)) a a
+A (B C c (a b b b b b b b b b D E c)) a a
+A (B C c (b b b b b b b b b b b D E c)) a a
+A (B C c (a b b b b b b b b b b D E c)) a a
+A (B C c (b b b b b b b b b b b b D E c)) a a
+A (B C c (a b b b b b b b b b b b D E c)) a a
+A (B C c (b b b b b b b b b b b b b D E c)) a a
+A (B C c (a b b b b b b b b b b b b D E c)) a a
+A (B C c (b b b b b b b b b b b b b b D E c)) a a
+A (B C c (a b b b b b b b b b b b b b D E c)) a a
+A (B C c (b b b b b b b b b b b b b b b D E c)) a a
+A (B C c (a b b b b b b b b b b b b b b D E c)) a a
+
+

@@ -1,0 +1,39 @@
+d i g h f e h e b c
+main a a A (b b c) B C a D c e (c e) e
+a f g h c (e (c f e e e))
+e g f c a g g c
+b i f h g h f i h a
+c i g h f d h a b b
+------------------------------------------------------------
+a a A (b b c) B C a D c e (c e) e
+c (e (c a e e e)) B C a D c e (c e) e
+d C a b b D c e (c e) e
+e b e b c D c e (c e) e
+c a b b c b c D c e (c e) e
+d b a b b b c D c e (c e) e
+e b e b c b c D c e (c e) e
+c a b b c b c b c D c e (c e) e
+d b a b b b c b c D c e (c e) e
+e b e b c b c b c D c e (c e) e
+c a b b c b c b c b c D c e (c e) e
+d b a b b b c b c b c D c e (c e) e
+e b e b c b c b c b c D c e (c e) e
+c a b b c b c b c b c b c D c e (c e) e
+d b a b b b c b c b c b c D c e (c e) e
+e b e b c b c b c b c b c D c e (c e) e
+c a b b c b c b c b c b c b c D c e (c e) e
+d b a b b b c b c b c b c b c D c e (c e) e
+e b e b c b c b c b c b c b c D c e (c e) e
+c a b b c b c b c b c b c b c b c D c e (c e) e
+d b a b b b c b c b c b c b c b c D c e (c e) e
+e b e b c b c b c b c b c b c b c D c e (c e) e
+c a b b c b c b c b c b c b c b c b c D c e (c e) e
+d b a b b b c b c b c b c b c b c b c D c e (c e) e
+e b e b c b c b c b c b c b c b c b c D c e (c e) e
+c a b b c b c b c b c b c b c b c b c b c D c e (c e) e
+d b a b b b c b c b c b c b c b c b c b c D c e (c e) e
+e b e b c b c b c b c b c b c b c b c b c D c e (c e) e
+c a b b c b c b c b c b c b c b c b c b c b c D c e (c e) e
+d b a b b b c b c b c b c b c b c b c b c b c D c e (c e) e
+
+

@@ -1,0 +1,37 @@
+a c c c
+b d e a a c
+c b b a
+main a A B (C D E F (G H c))
+------------------------------------------------------------
+a A B (C D E F (G H c))
+c c c A B (C D E F (G H c))
+b b a c c A B (C D E F (G H c))
+a a c c c A B (C D E F (G H c))
+c c c a c c c A B (C D E F (G H c))
+b b a c c a c c c A B (C D E F (G H c))
+a a c c c a c c c A B (C D E F (G H c))
+c c c a c c c a c c c A B (C D E F (G H c))
+b b a c c a c c c a c c c A B (C D E F (G H c))
+a a c c c a c c c a c c c A B (C D E F (G H c))
+c c c a c c c a c c c a c c c A B (C D E F (G H c))
+b b a c c a c c c a c c c a c c c A B (C D E F (G H c))
+a a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+b b a c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+a a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+b b a c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+a a c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+c c c a c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+b b a c c a c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+a a c c c a c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+c c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+b b a c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+a a c c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+c c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+b b a c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+a a c c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+c c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+b b a c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c a c c c A B (C D E F (G H c))
+
+

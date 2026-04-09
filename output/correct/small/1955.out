@@ -1,0 +1,34 @@
+a d e f b c
+b d f e c c
+c a a b a
+main c A c c c c B a C D
+------------------------------------------------------------
+c A c c c c B a C D
+a a b a A c c c c B a C D
+b c A c c c c B a C D
+c c c c c B a C D
+a a b a c c c c B a C D
+b c c c c c B a C D
+c c c c B a C D
+a a b a c c c B a C D
+b c c c c B a C D
+c c c B a C D
+a a b a c c B a C D
+b c c c B a C D
+c c B a C D
+a a b a c B a C D
+b c c B a C D
+c c a C D
+a a b a c a C D
+b c c a C D
+c c C D
+a a b a c C D
+b c c C D
+c c D
+a a b a c D
+b c c D
+c c
+a a b a c
+b c c
+
+

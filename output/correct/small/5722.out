@@ -1,0 +1,39 @@
+main A B (d (e a (b C e c e c) c d) e) D
+e g h f a g c b c c g
+b f g g e a f c (d d)
+c f g e
+a f g h c e h c e (d d)
+d g f b e a a (c a e)
+------------------------------------------------------------
+A B (d (e a (b C e c e c) c d) e) D
+A B (b e a a (c a e)) D
+A B (a e a e c (d d) a (c a e)) D
+A B (c e e c e (d d) c (d d) a (c a e)) D
+A B (e c e (d d) c (d d) a (c a e)) D
+A B (a c c b c c c c (d d) a (c a e)) D
+A B (c e b c e (d d) c c c c (d d) a (c a e)) D
+A B (e c e (d d) c c c c (d d) a (c a e)) D
+A B (a c c b c c c c c c c (d d) a (c a e)) D
+A B (c e b c e (d d) c c c c c c c (d d) a (c a e)) D
+A B (e c e (d d) c c c c c c c (d d) a (c a e)) D
+A B (a c c b c c c c c c c c c c (d d) a (c a e)) D
+A B (c e b c e (d d) c c c c c c c c c c (d d) a (c a e)) D
+A B (e c e (d d) c c c c c c c c c c (d d) a (c a e)) D
+A B (a c c b c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (c e b c e (d d) c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (e c e (d d) c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (a c c b c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (c e b c e (d d) c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (e c e (d d) c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (a c c b c c c c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (c e b c e (d d) c c c c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (e c e (d d) c c c c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (a c c b c c c c c c c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (c e b c e (d d) c c c c c c c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (e c e (d d) c c c c c c c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (a c c b c c c c c c c c c c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (c e b c e (d d) c c c c c c c c c c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (e c e (d d) c c c c c c c c c c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+A B (a c c b c c c c c c c c c c c c c c c c c c c c c c c c c c c c (d d) a (c a e)) D
+
+

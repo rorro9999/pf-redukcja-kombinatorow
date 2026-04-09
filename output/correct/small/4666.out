@@ -1,0 +1,39 @@
+c h i f g e a e f a
+b f g a d a e g d d
+a f h g i c d d
+e f g i h i a c (b d a c)
+main c A e (B d a) c e (C D E a) F G a
+d h g f c a b b c (a a)
+------------------------------------------------------------
+c A e (B d a) c e (C D E a) F G a
+e a e (B d a) a e (C D E a) F G a
+B d a a c (b d a c) e (C D E a) F G a
+B d a a c (a d a e a d d c) e (C D E a) F G a
+B d a a c (c d d d d c) e (C D E a) F G a
+B d a a c (e a e d a c) e (C D E a) F G a
+B d a a c (d a c (b d a c) c) e (C D E a) F G a
+B d a a c (c a b b c (a a) c) e (C D E a) F G a
+B d a a c (e a e b a (a a) c) e (C D E a) F G a
+B d a a c (b a c (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (a d a e c d d (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (c d d d d (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (e a e d a (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (d a c (b d a c) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (c a b b c (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (e a e b a (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (b a c (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (a d a e c d d (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (c d d d d (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (e a e d a (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (d a c (b d a c) (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (c a b b c (a a) (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (e a e b a (a a) (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (b a c (b d a c) (a a) (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (a d a e c d d (b d a c) (a a) (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (c d d d d (b d a c) (a a) (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (e a e d a (b d a c) (a a) (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (d a c (b d a c) (b d a c) (a a) (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (c a b b c (a a) (b d a c) (a a) (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+B d a a c (e a e b a (a a) (b d a c) (a a) (b d a c) (a a) (b d a c) (a a) c) e (C D E a) F G a
+
+

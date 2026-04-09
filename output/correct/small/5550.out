@@ -1,0 +1,39 @@
+b f g h i c a
+e h g f b (a d d) c d b
+c g f a (b g (e g)) f
+a f c (d c e)
+d h f i g e c i c a
+main b c e A B C d D e a a E F a c
+------------------------------------------------------------
+b c e A B C d D e a a E F a c
+c a C d D e a a E F a c
+a (b a (e a)) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+a (b (d c e) (e (d c e))) C d D e a a E F a c
+c (d c e) C d D e a a E F a c
+
+

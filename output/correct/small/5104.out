@@ -1,0 +1,12 @@
+d h g f i e e
+a g h i f h b e b h f
+e g i f h b (b (a f f) a)
+b g i f h f (d (d h) e h a)
+c h f g b a (h a h a)
+main e a e (A e a b a b (c (e e b) e e))
+------------------------------------------------------------
+e a e (A e a b a b (c (e e b) e e))
+e a e (A e a b a b (b a (e e b a (e e b) a)))
+e a e (A e a b a b (b a (b (b (a a a) a) a)))
+
+

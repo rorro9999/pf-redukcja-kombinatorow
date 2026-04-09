@@ -1,0 +1,38 @@
+a e f g f b d b b
+b c d
+c f e f (b e f)
+d h e f g b
+main b A B C b (D (E a) F c G d d d b)
+------------------------------------------------------------
+b A B C b (D (E a) F c G d d d b)
+c d A B C b (D (E a) F c G d d d b)
+d (b A d) B C b (D (E a) F c G d d d b)
+b (D (E a) F c G d d d b)
+c d (D (E a) F c G d d d b)
+d (b (D (E a) F c G d d d b) d)
+d (c d (D (E a) F c G d d d b) d)
+d (d (b (D (E a) F c G d d d b) d) d)
+d (d (c d (D (E a) F c G d d d b) d) d)
+d (d (d (b (D (E a) F c G d d d b) d) d) d)
+d (d (d (c d (D (E a) F c G d d d b) d) d) d)
+d (d (d (d (b (D (E a) F c G d d d b) d) d) d) d)
+d (d (d (d (c d (D (E a) F c G d d d b) d) d) d) d)
+d (d (d (d (d (b (D (E a) F c G d d d b) d) d) d) d) d)
+d (d (d (d (d (c d (D (E a) F c G d d d b) d) d) d) d) d)
+d (d (d (d (d (d (b (D (E a) F c G d d d b) d) d) d) d) d) d)
+d (d (d (d (d (d (c d (D (E a) F c G d d d b) d) d) d) d) d) d)
+d (d (d (d (d (d (d (b (D (E a) F c G d d d b) d) d) d) d) d) d) d)
+d (d (d (d (d (d (d (c d (D (E a) F c G d d d b) d) d) d) d) d) d) d)
+d (d (d (d (d (d (d (d (b (D (E a) F c G d d d b) d) d) d) d) d) d) d) d)
+d (d (d (d (d (d (d (d (c d (D (E a) F c G d d d b) d) d) d) d) d) d) d) d)
+d (d (d (d (d (d (d (d (d (b (D (E a) F c G d d d b) d) d) d) d) d) d) d) d) d)
+d (d (d (d (d (d (d (d (d (c d (D (E a) F c G d d d b) d) d) d) d) d) d) d) d) d)
+d (d (d (d (d (d (d (d (d (d (b (D (E a) F c G d d d b) d) d) d) d) d) d) d) d) d) d)
+d (d (d (d (d (d (d (d (d (d (c d (D (E a) F c G d d d b) d) d) d) d) d) d) d) d) d) d)
+d (d (d (d (d (d (d (d (d (d (d (b (D (E a) F c G d d d b) d) d) d) d) d) d) d) d) d) d) d)
+d (d (d (d (d (d (d (d (d (d (d (c d (D (E a) F c G d d d b) d) d) d) d) d) d) d) d) d) d) d)
+d (d (d (d (d (d (d (d (d (d (d (d (b (D (E a) F c G d d d b) d) d) d) d) d) d) d) d) d) d) d) d)
+d (d (d (d (d (d (d (d (d (d (d (d (c d (D (E a) F c G d d d b) d) d) d) d) d) d) d) d) d) d) d) d)
+d (d (d (d (d (d (d (d (d (d (d (d (d (b (D (E a) F c G d d d b) d) d) d) d) d) d) d) d) d) d) d) d) d)
+
+

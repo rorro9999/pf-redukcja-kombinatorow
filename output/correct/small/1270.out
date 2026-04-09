@@ -1,0 +1,37 @@
+a e d b b c
+b d c a a d d
+c d a a a b
+main A c a c a b (c (B c) c)
+------------------------------------------------------------
+A c a c a b (c (B c) c)
+A c a c a b (a a a b c)
+A c a c a b (b b c b c)
+A c a c a b (c a a b b c b c)
+A c a c a b (a a a b a b b c b c)
+A c a c a b (b b c b a b b c b c)
+A c a c a b (c a a b b c b a b b c b c)
+A c a c a b (a a a b a b b c b a b b c b c)
+A c a c a b (b b c b a b b c b a b b c b c)
+A c a c a b (c a a b b c b a b b c b a b b c b c)
+A c a c a b (a a a b a b b c b a b b c b a b b c b c)
+A c a c a b (b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (c a a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (a a a b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (c a a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (a a a b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (c a a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (a a a b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (c a a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (a a a b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (c a a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (a a a b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (c a a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (a a a b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+A c a c a b (b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b a b b c b c)
+
+

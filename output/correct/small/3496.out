@@ -1,0 +1,9 @@
+a f e g d e b c c
+b h f g e d c c
+c f e g b b
+d f e b
+main A B C D (E d F (G c) (H b d b)) I J
+------------------------------------------------------------
+A B C D (E d F (G c) (H b d b)) I J
+
+

@@ -1,0 +1,39 @@
+a f g i h e b f e (e c)
+b f h g i a e a e c c d
+c f g e b d f a e d
+main a b a A B (C (D e) a (E F G e c H))
+e i f g h c a c d
+d i h f g b a f b c b
+------------------------------------------------------------
+a b a A B (C (D e) a (E F G e c H))
+e b b e (e c) (C (D e) a (E F G e c H))
+c a c d (C (D e) a (E F G e c H))
+e b d a a e d d (C (D e) a (E F G e c H))
+c a c d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d (C (D e) a (E F G e c H))
+c a c d e d d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d e d d (C (D e) a (E F G e c H))
+c a c d e d d e d d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d e d d e d d (C (D e) a (E F G e c H))
+c a c d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+c a c d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+c a c d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+c a c d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+c a c d e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+c a c d e d d e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+c a c d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+c a c d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+c a c d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+c a c d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+e b d a a e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d e d d (C (D e) a (E F G e c H))
+
+

@@ -1,0 +1,22 @@
+a e g f c b b
+b e f a c d d c
+c f g e d a b
+d g e f c a e
+main b A a d B C (D d d) E F b d c d
+------------------------------------------------------------
+b A a d B C (D d d) E F b d c d
+a c d d c d B C (D d d) E F b d c d
+c b b c d B C (D d d) E F b d c d
+d a b d B C (D d d) E F b d c d
+c a b B C (D d d) E F b d c d
+d a b C (D d d) E F b d c d
+c a b (D d d) E F b d c d
+d a b E F b d c d
+c a b F b d c d
+d a b b d c d
+c a b d c d
+d a b c d
+c a b d
+d a b
+
+

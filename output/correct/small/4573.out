@@ -1,0 +1,39 @@
+b g f h e (e d c a d a)
+a f h g e e d e b f c
+c h f g d d d d g a d
+d f g c (g f) f g
+main b e A a b (b b e c (B b C c c D))
+e g f h c g a a b
+------------------------------------------------------------
+b e A a b (b b e c (B b C c c D))
+e (e d c a d a) b (b b e c (B b C c c D))
+c (e d c a d a) a a b
+d d d d a a d b
+c (d d) d d d a a d b
+d d d d d a d d a a d b
+c (d d) d d d d a d d a a d b
+d d d d d a d d d a d d a a d b
+c (d d) d d d d a d d d a d d a a d b
+d d d d d a d d d a d d d a d d a a d b
+c (d d) d d d d a d d d a d d d a d d a a d b
+d d d d d a d d d a d d d a d d d a d d a a d b
+c (d d) d d d d a d d d a d d d a d d d a d d a a d b
+d d d d d a d d d a d d d a d d d a d d d a d d a a d b
+c (d d) d d d d a d d d a d d d a d d d a d d d a d d a a d b
+d d d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+c (d d) d d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+d d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+c (d d) d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+d d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+c (d d) d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+d d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+c (d d) d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+d d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+c (d d) d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+d d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+c (d d) d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+d d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+c (d d) d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+d d d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d d a d d a a d b
+
+

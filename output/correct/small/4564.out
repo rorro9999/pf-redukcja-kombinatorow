@@ -1,0 +1,39 @@
+d f h g b (f a c c) a c
+main b (A a a B d) C D E F G H a e a
+a g h f i b c b b (c c)
+b h g f d a f c c c a
+c i f g h i b a d d
+e g f b c d f a b c
+------------------------------------------------------------
+b (A a a B d) C D E F G H a e a
+d a D c c c a E F G H a e a
+b (a a c c) a c c c a E F G H a e a
+d a c c c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a E F G H a e a
+d a c c c c a c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a c c a E F G H a e a
+d a c c c c a c c a c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a c c a c c a E F G H a e a
+d a c c c c a c c a c c a c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a c c a c c a c c a E F G H a e a
+d a c c c c a c c a c c a c c a c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a c c a c c a c c a c c a E F G H a e a
+d a c c c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+d a c c c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+d a c c c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+d a c c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+d a c c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+d a c c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+d a c c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+d a c c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+b (a a c c) a c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+d a c c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a E F G H a e a
+
+

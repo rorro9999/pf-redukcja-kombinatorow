@@ -1,0 +1,37 @@
+a d f e c
+b a a a a c
+c b b b a a
+main a A b B b b C b b D
+------------------------------------------------------------
+a A b B b b C b b D
+c b b C b b D
+b b b a a b b C b b D
+a a a a c b b a a b b C b b D
+c c b b a a b b C b b D
+b b b a a c b b a a b b C b b D
+a a a a c b b a a c b b a a b b C b b D
+c c b b a a c b b a a b b C b b D
+b b b a a c b b a a c b b a a b b C b b D
+a a a a c b b a a c b b a a c b b a a b b C b b D
+c c b b a a c b b a a c b b a a b b C b b D
+b b b a a c b b a a c b b a a c b b a a b b C b b D
+a a a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+c c b b a a c b b a a c b b a a c b b a a b b C b b D
+b b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+a a a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+c c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+b b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+a a a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+c c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+b b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+a a a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+c c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+b b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+a a a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+c c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+b b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+a a a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+c c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+b b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a c b b a a b b C b b D
+
+

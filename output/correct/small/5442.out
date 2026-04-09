@@ -1,0 +1,21 @@
+main A B b d C (c b D d e a b c) E F
+a h i g f g e (e (b f d d))
+d f i h g e e (g e a h)
+e h f i g a g h d a b b
+c f g d a b e e f
+b f g h i e a f e
+------------------------------------------------------------
+A B b d C (c b D d e a b c) E F
+A B b d C (d a b e e b d e a b c) E F
+A B b d C (e e (e e a e) b d e a b c) E F
+A B b d C (a d e d a b b e a b c) E F
+A B b d C (d e (e (b a d d)) b b e a b c) E F
+A B b d C (e e (b e a b) e a b c) E F
+A B b d C (a a e d a b b b c) E F
+A B b d C (d e (e (b a d d)) b b b c) E F
+A B b d C (e e (b e a b) b c) E F
+A B b d C (a c e d a b b) E F
+A B b d C (d e (e (b a d d)) b b) E F
+A B b d C (e e (b e a b)) E F
+
+

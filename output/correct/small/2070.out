@@ -1,0 +1,38 @@
+a g e f c g c b d g
+b f e g d c d e c
+c e h f g b b d e
+d e h g f a (a f) c a b
+main A b (B (b d c) (d (C d) a (c b a d a)))
+------------------------------------------------------------
+A b (B (b d c) (d (C d) a (c b a d a)))
+A b (B (b d c) (d (C d) a (b b d b)))
+A b (B (b d c) (d (C d) a (d c d d c)))
+A b (B (b d c) (d (C d) a (a (a c) c a b)))
+A b (B (b d c) (d (C d) a (c (a c) c b d (a c) b)))
+A b (B (b d c) (d (C d) a (b b d (a c) (a c) b)))
+A b (B (b d c) (d (C d) a (d c d d c (a c) b)))
+A b (B (b d c) (d (C d) a (a (a c) c a b (a c) b)))
+A b (B (b d c) (d (C d) a (c (a c) c b d (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (b b d (a c) (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (d c d d c (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (a (a c) c a b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (c (a c) c b d (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (b b d (a c) (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (d c d d c (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (a (a c) c a b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (c (a c) c b d (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (b b d (a c) (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (d c d d c (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (a (a c) c a b (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (c (a c) c b d (a c) b (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (b b d (a c) (a c) b (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (d c d d c (a c) b (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (a (a c) c a b (a c) b (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (c (a c) c b d (a c) b (a c) b (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (b b d (a c) (a c) b (a c) b (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (d c d d c (a c) b (a c) b (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (a (a c) c a b (a c) b (a c) b (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (c (a c) c b d (a c) b (a c) b (a c) b (a c) b (a c) b (a c) b (a c) b)))
+A b (B (b d c) (d (C d) a (b b d (a c) (a c) b (a c) b (a c) b (a c) b (a c) b (a c) b (a c) b)))
+
+

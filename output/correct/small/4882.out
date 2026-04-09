@@ -1,0 +1,39 @@
+b i f g h e f (e f) a d
+e g h f c d d c
+d h g f i b b (g b) b b
+c f g d d f d e a
+main c A c B (c C (D b e) (E F (G H I J)))
+a f d f f b b
+------------------------------------------------------------
+c A c B (c C (D b e) (E F (G H I J)))
+d d A d e a B (c C (D b e) (E F (G H I J)))
+b b (A b) b b a B (c C (D b e) (E F (G H I J)))
+e (A b) (e (A b)) a d a B (c C (D b e) (E F (G H I J)))
+c d d c d a B (c C (D b e) (E F (G H I J)))
+d d d d e a c d a B (c C (D b e) (E F (G H I J)))
+b b (d b) b b a c d a B (c C (D b e) (E F (G H I J)))
+e (d b) (e (d b)) a d a c d a B (c C (D b e) (E F (G H I J)))
+c d d c d a c d a B (c C (D b e) (E F (G H I J)))
+d d d d e a c d a c d a B (c C (D b e) (E F (G H I J)))
+b b (d b) b b a c d a c d a B (c C (D b e) (E F (G H I J)))
+e (d b) (e (d b)) a d a c d a c d a B (c C (D b e) (E F (G H I J)))
+c d d c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+d d d d e a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+b b (d b) b b a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+e (d b) (e (d b)) a d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+c d d c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+d d d d e a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+b b (d b) b b a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+e (d b) (e (d b)) a d a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+c d d c d a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+d d d d e a c d a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+b b (d b) b b a c d a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+e (d b) (e (d b)) a d a c d a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+c d d c d a c d a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+d d d d e a c d a c d a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+b b (d b) b b a c d a c d a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+e (d b) (e (d b)) a d a c d a c d a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+c d d c d a c d a c d a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+d d d d e a c d a c d a c d a c d a c d a c d a c d a B (c C (D b e) (E F (G H I J)))
+
+

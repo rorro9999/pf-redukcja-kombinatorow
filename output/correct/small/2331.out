@@ -1,0 +1,38 @@
+a h g e f c b d
+b f g e c g d
+c e g f b a d b d a
+d e h f g c b c a h a
+main d d a d A (d (B a (a (C D E c a a))))
+------------------------------------------------------------
+d d a d A (d (B a (a (C D E c a a))))
+c b c a a a (d (B a (a (C D E c a a))))
+b a d b d a a a (d (B a (a (C D E c a a))))
+c d d d a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a a a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a a a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a a a a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a a a a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a a a a a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a a a a a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a a a a a a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a a a a a a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a a a a a a a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a a a a a a a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a a a a a a a a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a a a a a a a a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a a a a a a a a a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a a a a a a a a a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a a a a a a a a a a a a (d (B a (a (C D E c a a))))
+b a d b d a a a a a a a a a a a a a a a a (d (B a (a (C D E c a a))))
+c d d d a a a a a a a a a a a a a a a a (d (B a (a (C D E c a a))))
+
+

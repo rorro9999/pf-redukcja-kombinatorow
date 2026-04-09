@@ -1,0 +1,38 @@
+a e e b c c
+b f g e a (c a d)
+c e b b d
+d e f h g h b a
+main a b d d A c B b C D E a d (F c)
+------------------------------------------------------------
+a b d d A c B b C D E a d (F c)
+b b c c d d A c B b C D E a d (F c)
+a (c a d) d d A c B b C D E a d (F c)
+c a d b c c d d A c B b C D E a d (F c)
+b b d d b c c d d A c B b C D E a d (F c)
+a (c a d) b c c d d A c B b C D E a d (F c)
+c a d b c c b c c d d A c B b C D E a d (F c)
+b b d d b c c b c c d d A c B b C D E a d (F c)
+a (c a d) b c c b c c d d A c B b C D E a d (F c)
+c a d b c c b c c b c c d d A c B b C D E a d (F c)
+b b d d b c c b c c b c c d d A c B b C D E a d (F c)
+a (c a d) b c c b c c b c c d d A c B b C D E a d (F c)
+c a d b c c b c c b c c b c c d d A c B b C D E a d (F c)
+b b d d b c c b c c b c c b c c d d A c B b C D E a d (F c)
+a (c a d) b c c b c c b c c b c c d d A c B b C D E a d (F c)
+c a d b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+b b d d b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+a (c a d) b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+c a d b c c b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+b b d d b c c b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+a (c a d) b c c b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+c a d b c c b c c b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+b b d d b c c b c c b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+a (c a d) b c c b c c b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+c a d b c c b c c b c c b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+b b d d b c c b c c b c c b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+a (c a d) b c c b c c b c c b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+c a d b c c b c c b c c b c c b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+b b d d b c c b c c b c c b c c b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+a (c a d) b c c b c c b c c b c c b c c b c c b c c b c c b c c d d A c B b C D E a d (F c)
+
+

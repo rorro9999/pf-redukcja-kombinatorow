@@ -1,0 +1,14 @@
+main A (c B C c (D e d a (b a c b e E)))
+c i h g f a b b g (d a) a
+a g h f b f
+b h g f d d a g (c g)
+d i h f g a c i
+e g h f d (h h b g) d
+------------------------------------------------------------
+A (c B C c (D e d a (b a c b e E)))
+A (a b b c (d a) a)
+A (b c (d a) a)
+A (d d a (d a) (c (d a)))
+A (a c d)
+
+

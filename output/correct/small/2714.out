@@ -1,0 +1,38 @@
+a f h e g c e
+b g f e d f e d a
+c e g f h b
+d e g f h b c b b a c
+main A c (B c (c (d (C c c) D c c b d E)))
+------------------------------------------------------------
+A c (B c (c (d (C c c) D c c b d E)))
+A c (B c (c (b c b b a c b d E)))
+A c (B c (c (d b b d a a c b d E)))
+A c (B c (c (b c b b a c a c b d E)))
+A c (B c (c (d b b d a a c a c b d E)))
+A c (B c (c (b c b b a c a c a c b d E)))
+A c (B c (c (d b b d a a c a c a c b d E)))
+A c (B c (c (b c b b a c a c a c a c b d E)))
+A c (B c (c (d b b d a a c a c a c a c b d E)))
+A c (B c (c (b c b b a c a c a c a c a c b d E)))
+A c (B c (c (d b b d a a c a c a c a c a c b d E)))
+A c (B c (c (b c b b a c a c a c a c a c a c b d E)))
+A c (B c (c (d b b d a a c a c a c a c a c a c b d E)))
+A c (B c (c (b c b b a c a c a c a c a c a c a c b d E)))
+A c (B c (c (d b b d a a c a c a c a c a c a c a c b d E)))
+A c (B c (c (b c b b a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (d b b d a a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (b c b b a c a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (d b b d a a c a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (b c b b a c a c a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (d b b d a a c a c a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (b c b b a c a c a c a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (d b b d a a c a c a c a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (b c b b a c a c a c a c a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (d b b d a a c a c a c a c a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (b c b b a c a c a c a c a c a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (d b b d a a c a c a c a c a c a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (b c b b a c a c a c a c a c a c a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (d b b d a a c a c a c a c a c a c a c a c a c a c a c a c a c a c b d E)))
+A c (B c (c (b c b b a c a c a c a c a c a c a c a c a c a c a c a c a c a c a c b d E)))
+
+

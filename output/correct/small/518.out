@@ -1,0 +1,37 @@
+a d b b (b c) c
+b c c c c a
+c d b
+main c A a c b a (b c) c B
+------------------------------------------------------------
+c A a c b a (b c) c B
+b a c b a (b c) c B
+c c c c a a c b a (b c) c B
+b c c a a c b a (b c) c B
+c c c c a c c a a c b a (b c) c B
+b c c a c c a a c b a (b c) c B
+c c c c a c c a c c a a c b a (b c) c B
+b c c a c c a c c a a c b a (b c) c B
+c c c c a c c a c c a c c a a c b a (b c) c B
+b c c a c c a c c a c c a a c b a (b c) c B
+c c c c a c c a c c a c c a c c a a c b a (b c) c B
+b c c a c c a c c a c c a c c a a c b a (b c) c B
+c c c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+b c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+c c c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+b c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+c c c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+b c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+c c c c a c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+b c c a c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+c c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+b c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+c c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+b c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+c c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+b c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+c c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+b c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+c c c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+b c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a c c a a c b a (b c) c B
+
+

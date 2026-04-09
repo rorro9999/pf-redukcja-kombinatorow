@@ -1,0 +1,39 @@
+main c a b A (c (a B e C c (e a D d E)))
+e i h f g g c d b c a g
+a g f h e f b g c
+b h f g i c f e a e c a
+d f g h b c (b (c c)) a
+c g h f a (e g d h d)
+------------------------------------------------------------
+c a b A (c (a B e C c (e a D d E)))
+a (e a d b d) (c (a B e C c (e a D d E)))
+a (d c d b c a d) (c (a B e C c (e a D d E)))
+a (b c (b (c c)) a c a d) (c (a B e C c (e a D d E)))
+a (c (b (c c)) e a e c a a d) (c (a B e C c (e a D d E)))
+a (a (e (b (c c)) d e d) e c a a d) (c (a B e C c (e a D d E)))
+a (e e b (e (b (c c)) d e d) c a a d) (c (a B e C c (e a D d E)))
+a (c c d b c a c a a d) (c (a B e C c (e a D d E)))
+a (a (e c d d d) c a c a a d) (c (a B e C c (e a D d E)))
+a (e c b (e c d d d) c c a a d) (c (a B e C c (e a D d E)))
+a (c c d b c a c c a a d) (c (a B e C c (e a D d E)))
+a (a (e c d d d) c a c c a a d) (c (a B e C c (e a D d E)))
+a (e c b (e c d d d) c c c a a d) (c (a B e C c (e a D d E)))
+a (c c d b c a c c c a a d) (c (a B e C c (e a D d E)))
+a (a (e c d d d) c a c c c a a d) (c (a B e C c (e a D d E)))
+a (e c b (e c d d d) c c c c a a d) (c (a B e C c (e a D d E)))
+a (c c d b c a c c c c a a d) (c (a B e C c (e a D d E)))
+a (a (e c d d d) c a c c c c a a d) (c (a B e C c (e a D d E)))
+a (e c b (e c d d d) c c c c c a a d) (c (a B e C c (e a D d E)))
+a (c c d b c a c c c c c a a d) (c (a B e C c (e a D d E)))
+a (a (e c d d d) c a c c c c c a a d) (c (a B e C c (e a D d E)))
+a (e c b (e c d d d) c c c c c c a a d) (c (a B e C c (e a D d E)))
+a (c c d b c a c c c c c c a a d) (c (a B e C c (e a D d E)))
+a (a (e c d d d) c a c c c c c c a a d) (c (a B e C c (e a D d E)))
+a (e c b (e c d d d) c c c c c c c a a d) (c (a B e C c (e a D d E)))
+a (c c d b c a c c c c c c c a a d) (c (a B e C c (e a D d E)))
+a (a (e c d d d) c a c c c c c c c a a d) (c (a B e C c (e a D d E)))
+a (e c b (e c d d d) c c c c c c c c a a d) (c (a B e C c (e a D d E)))
+a (c c d b c a c c c c c c c c a a d) (c (a B e C c (e a D d E)))
+a (a (e c d d d) c a c c c c c c c c a a d) (c (a B e C c (e a D d E)))
+
+

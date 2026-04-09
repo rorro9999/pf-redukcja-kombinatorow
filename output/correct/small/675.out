@@ -1,0 +1,37 @@
+a d b
+b d c a a c
+c a b a
+main a A B c C D E b b F
+------------------------------------------------------------
+a A B c C D E b b F
+b B c C D E b b F
+c a a c c C D E b b F
+a b a a a c c C D E b b F
+b a a a c c C D E b b F
+c a a c a a c c C D E b b F
+a b a a a c a a c c C D E b b F
+b a a a c a a c c C D E b b F
+c a a c a a c a a c c C D E b b F
+a b a a a c a a c a a c c C D E b b F
+b a a a c a a c a a c c C D E b b F
+c a a c a a c a a c a a c c C D E b b F
+a b a a a c a a c a a c a a c c C D E b b F
+b a a a c a a c a a c a a c c C D E b b F
+c a a c a a c a a c a a c a a c c C D E b b F
+a b a a a c a a c a a c a a c a a c c C D E b b F
+b a a a c a a c a a c a a c a a c c C D E b b F
+c a a c a a c a a c a a c a a c a a c c C D E b b F
+a b a a a c a a c a a c a a c a a c a a c c C D E b b F
+b a a a c a a c a a c a a c a a c a a c c C D E b b F
+c a a c a a c a a c a a c a a c a a c a a c c C D E b b F
+a b a a a c a a c a a c a a c a a c a a c a a c c C D E b b F
+b a a a c a a c a a c a a c a a c a a c a a c c C D E b b F
+c a a c a a c a a c a a c a a c a a c a a c a a c c C D E b b F
+a b a a a c a a c a a c a a c a a c a a c a a c a a c c C D E b b F
+b a a a c a a c a a c a a c a a c a a c a a c a a c c C D E b b F
+c a a c a a c a a c a a c a a c a a c a a c a a c a a c c C D E b b F
+a b a a a c a a c a a c a a c a a c a a c a a c a a c a a c c C D E b b F
+b a a a c a a c a a c a a c a a c a a c a a c a a c a a c c C D E b b F
+c a a c a a c a a c a a c a a c a a c a a c a a c a a c a a c c C D E b b F
+
+

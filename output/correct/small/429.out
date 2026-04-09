@@ -1,0 +1,11 @@
+a d e f b e
+b d a
+c d b b b
+main b (A a B b C) D E b c
+------------------------------------------------------------
+b (A a B b C) D E b c
+a D E b c
+b E c
+a c
+
+

@@ -1,0 +1,39 @@
+main c d d b A B (d C e a) c d D d a
+d i g h f a c (f e e h a)
+c f h g b a b b a
+a f g b e b (d d f)
+b h f i g h a a a
+e h g f c f (a h a)
+------------------------------------------------------------
+c d d b A B (d C e a) c d D d a
+b a b b a A B (d C e a) c d D d a
+a a a a A B (d C e a) c d D d a
+b e b (d d a) a A B (d C e a) c d D d a
+e a a a A B (d C e a) c d D d a
+c a (a a a) A B (d C e a) c d D d a
+b a b b a B (d C e a) c d D d a
+a a a a B (d C e a) c d D d a
+b e b (d d a) a B (d C e a) c d D d a
+e a a a B (d C e a) c d D d a
+c a (a a a) B (d C e a) c d D d a
+b a b b a (d C e a) c d D d a
+a a a a (d C e a) c d D d a
+b e b (d d a) a (d C e a) c d D d a
+e a a a (d C e a) c d D d a
+c a (a a a) (d C e a) c d D d a
+b a b b a c d D d a
+a a a a c d D d a
+b e b (d d a) a c d D d a
+e a a a c d D d a
+c a (a a a) c d D d a
+b a b b a d D d a
+a a a a d D d a
+b e b (d d a) a d D d a
+e a a a d D d a
+c a (a a a) d D d a
+b a b b a D d a
+a a a a D d a
+b e b (d d a) a D d a
+e a a a D d a
+
+

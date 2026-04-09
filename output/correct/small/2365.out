@@ -1,0 +1,20 @@
+a h f g e d c e c
+b f h e g a f e
+c f e b d b e a
+d h e g f c
+main c a b c c A a B d a d C c c D
+------------------------------------------------------------
+c a b c c A a B d a d C c c D
+b d b b a c c A a B d a d C c c D
+a d b c c A a B d a d C c c D
+d c c c A a B d a d C c c D
+c a B d a d C c c D
+b d b B a d a d C c c D
+a d B d a d C c c D
+d c a c d C c c D
+c C c c D
+b d b c a c D
+a d c c D
+d c D c
+
+

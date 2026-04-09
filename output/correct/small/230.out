@@ -1,0 +1,37 @@
+a c
+b d c
+c d b b a
+main c A B a a a (c b a) C
+------------------------------------------------------------
+c A B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+c a B a a a (c b a) C
+b b a B a a a (c b a) C
+
+

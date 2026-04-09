@@ -1,0 +1,37 @@
+a b b b b
+b d a
+c b
+main A B a b (b C D E b) F
+------------------------------------------------------------
+A B a b (b C D E b) F
+A B a b (a D E b) F
+A B a b (b b b b D E b) F
+A B a b (a b b D E b) F
+A B a b (b b b b b b D E b) F
+A B a b (a b b b b D E b) F
+A B a b (b b b b b b b b D E b) F
+A B a b (a b b b b b b D E b) F
+A B a b (b b b b b b b b b b D E b) F
+A B a b (a b b b b b b b b D E b) F
+A B a b (b b b b b b b b b b b b D E b) F
+A B a b (a b b b b b b b b b b D E b) F
+A B a b (b b b b b b b b b b b b b b D E b) F
+A B a b (a b b b b b b b b b b b b D E b) F
+A B a b (b b b b b b b b b b b b b b b b D E b) F
+A B a b (a b b b b b b b b b b b b b b D E b) F
+A B a b (b b b b b b b b b b b b b b b b b b D E b) F
+A B a b (a b b b b b b b b b b b b b b b b D E b) F
+A B a b (b b b b b b b b b b b b b b b b b b b b D E b) F
+A B a b (a b b b b b b b b b b b b b b b b b b D E b) F
+A B a b (b b b b b b b b b b b b b b b b b b b b b b D E b) F
+A B a b (a b b b b b b b b b b b b b b b b b b b b D E b) F
+A B a b (b b b b b b b b b b b b b b b b b b b b b b b b D E b) F
+A B a b (a b b b b b b b b b b b b b b b b b b b b b b D E b) F
+A B a b (b b b b b b b b b b b b b b b b b b b b b b b b b b D E b) F
+A B a b (a b b b b b b b b b b b b b b b b b b b b b b b b D E b) F
+A B a b (b b b b b b b b b b b b b b b b b b b b b b b b b b b b D E b) F
+A B a b (a b b b b b b b b b b b b b b b b b b b b b b b b b b D E b) F
+A B a b (b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b D E b) F
+A B a b (a b b b b b b b b b b b b b b b b b b b b b b b b b b b b D E b) F
+
+

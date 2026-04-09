@@ -1,0 +1,38 @@
+a f e d b b c
+b g e f a (d c a) c f
+c e e d a a
+d e f g a e a
+main A b B C (b b (a (d a b a a c D E)))
+------------------------------------------------------------
+A b B C (b b (a (d a b a a c D E)))
+A b B C (b b (a (a a a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+A b B C (b b (a (d b b c a c D E)))
+A b B C (b b (a (a b a a c D E)))
+
+

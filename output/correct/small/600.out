@@ -1,0 +1,37 @@
+a c b c
+b e d a d a a
+c d f e b
+main a A B C b a (D (E F b))
+------------------------------------------------------------
+a A B C b a (D (E F b))
+c b c A B C b a (D (E F b))
+b B C b a (D (E F b))
+a C a a b a (D (E F b))
+c b c C a a b a (D (E F b))
+b a a b a (D (E F b))
+a a a a b a (D (E F b))
+c b c a a a b a (D (E F b))
+b a a b a (D (E F b))
+a a a a b a (D (E F b))
+c b c a a a b a (D (E F b))
+b a a b a (D (E F b))
+a a a a b a (D (E F b))
+c b c a a a b a (D (E F b))
+b a a b a (D (E F b))
+a a a a b a (D (E F b))
+c b c a a a b a (D (E F b))
+b a a b a (D (E F b))
+a a a a b a (D (E F b))
+c b c a a a b a (D (E F b))
+b a a b a (D (E F b))
+a a a a b a (D (E F b))
+c b c a a a b a (D (E F b))
+b a a b a (D (E F b))
+a a a a b a (D (E F b))
+c b c a a a b a (D (E F b))
+b a a b a (D (E F b))
+a a a a b a (D (E F b))
+c b c a a a b a (D (E F b))
+b a a b a (D (E F b))
+
+

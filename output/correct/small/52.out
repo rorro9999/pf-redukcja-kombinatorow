@@ -1,0 +1,37 @@
+a d c b c c
+b e d a c c a c
+c e d f f a d a a
+main b b c A (B C a D E b)
+------------------------------------------------------------
+b b c A (B C a D E b)
+a c c a c A (B C a D E b)
+c b c c c a c A (B C a D E b)
+c a c a a c a c A (B C a D E b)
+a a c a a a c a c A (B C a D E b)
+c b c c c a a a c a c A (B C a D E b)
+c a c a a c a a a c a c A (B C a D E b)
+a a c a a a c a a a c a c A (B C a D E b)
+c b c c c a a a c a a a c a c A (B C a D E b)
+c a c a a c a a a c a a a c a c A (B C a D E b)
+a a c a a a c a a a c a a a c a c A (B C a D E b)
+c b c c c a a a c a a a c a a a c a c A (B C a D E b)
+c a c a a c a a a c a a a c a a a c a c A (B C a D E b)
+a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+c b c c c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+c a c a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+c b c c c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+c a c a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+a a c a a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+c b c c c a a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+c a c a a c a a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+a a c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+c b c c c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+c a c a a c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+a a c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+c b c c c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+c a c a a c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+a a c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+c b c c c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a a a c a c A (B C a D E b)
+
+

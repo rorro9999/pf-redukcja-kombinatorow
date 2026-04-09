@@ -1,0 +1,38 @@
+a e b
+b e a c (c (c c a))
+c f e d b
+d f e b
+main d (b c (A (B a a) C D (E b d a b a)))
+------------------------------------------------------------
+d (b c (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (b (c (c c a)) (A (B a a) C D (E b d a b a)))
+d (a c (c (c c a)) (A (B a a) C D (E b d a b a)))
+
+

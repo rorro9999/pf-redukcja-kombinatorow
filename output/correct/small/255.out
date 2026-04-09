@@ -1,0 +1,17 @@
+a e f d c
+b d e e a a c
+c d f e a a a a b
+main b A b c a b c B C D
+------------------------------------------------------------
+b A b c a b c B C D
+b a a c c a b c B C D
+a a a c c c a b c B C D
+c c c a b c B C D
+a a a a b b c B C D
+c b b c B C D
+a a a a b B C D
+c b B C D
+a a a a b D
+c b D
+
+

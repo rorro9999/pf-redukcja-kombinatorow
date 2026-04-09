@@ -1,0 +1,37 @@
+a d c d b b c
+b d e c a a c
+c d e a
+main c a A c b b a b B C
+------------------------------------------------------------
+c a A c b b a b B C
+a c b b a b B C
+c c b b c b b a b B C
+a b c b b a b B C
+c b b b c c b b a b B C
+a b c c b b a b B C
+c b b b c c c b b a b B C
+a b c c c b b a b B C
+c b b b c c c c b b a b B C
+a b c c c c b b a b B C
+c b b b c c c c c b b a b B C
+a b c c c c c b b a b B C
+c b b b c c c c c c b b a b B C
+a b c c c c c c b b a b B C
+c b b b c c c c c c c b b a b B C
+a b c c c c c c c b b a b B C
+c b b b c c c c c c c c b b a b B C
+a b c c c c c c c c b b a b B C
+c b b b c c c c c c c c c b b a b B C
+a b c c c c c c c c c b b a b B C
+c b b b c c c c c c c c c c b b a b B C
+a b c c c c c c c c c c b b a b B C
+c b b b c c c c c c c c c c c b b a b B C
+a b c c c c c c c c c c c b b a b B C
+c b b b c c c c c c c c c c c c b b a b B C
+a b c c c c c c c c c c c c b b a b B C
+c b b b c c c c c c c c c c c c c b b a b B C
+a b c c c c c c c c c c c c c b b a b B C
+c b b b c c c c c c c c c c c c c c b b a b B C
+a b c c c c c c c c c c c c c c b b a b B C
+
+

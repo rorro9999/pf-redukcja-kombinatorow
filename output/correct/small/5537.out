@@ -1,0 +1,39 @@
+e g h f g b h a b c c
+c f i h g b b (e (e d d f))
+d i h f g b g (b a) a
+main d c A (B d C D E c) b (F d (e G)) d
+a i g f h c (g c) c d h
+b f h g g c c d e e c
+------------------------------------------------------------
+d c A (B d C D E c) b (F d (e G)) d
+b b (b a) a (F d (e G)) d
+a c c d e e c (F d (e G)) d
+c (c c) c d e e c (F d (e G)) d
+b b (e (e d d (c c))) e c (F d (e G)) d
+e c c d e e c c (F d (e G)) d
+c b c a b c c e e c c (F d (e G)) d
+b b (e (e d d b)) c c e e c c (F d (e G)) d
+c c c d e e c c e e c c (F d (e G)) d
+b b (e (e d d c)) e c c e e c c (F d (e G)) d
+e c c d e e c c c e e c c (F d (e G)) d
+c b c a b c c e e c c c e e c c (F d (e G)) d
+b b (e (e d d b)) c c e e c c c e e c c (F d (e G)) d
+c c c d e e c c e e c c c e e c c (F d (e G)) d
+b b (e (e d d c)) e c c e e c c c e e c c (F d (e G)) d
+e c c d e e c c c e e c c c e e c c (F d (e G)) d
+c b c a b c c e e c c c e e c c c e e c c (F d (e G)) d
+b b (e (e d d b)) c c e e c c c e e c c c e e c c (F d (e G)) d
+c c c d e e c c e e c c c e e c c c e e c c (F d (e G)) d
+b b (e (e d d c)) e c c e e c c c e e c c c e e c c (F d (e G)) d
+e c c d e e c c c e e c c c e e c c c e e c c (F d (e G)) d
+c b c a b c c e e c c c e e c c c e e c c c e e c c (F d (e G)) d
+b b (e (e d d b)) c c e e c c c e e c c c e e c c c e e c c (F d (e G)) d
+c c c d e e c c e e c c c e e c c c e e c c c e e c c (F d (e G)) d
+b b (e (e d d c)) e c c e e c c c e e c c c e e c c c e e c c (F d (e G)) d
+e c c d e e c c c e e c c c e e c c c e e c c c e e c c (F d (e G)) d
+c b c a b c c e e c c c e e c c c e e c c c e e c c c e e c c (F d (e G)) d
+b b (e (e d d b)) c c e e c c c e e c c c e e c c c e e c c c e e c c (F d (e G)) d
+c c c d e e c c e e c c c e e c c c e e c c c e e c c c e e c c (F d (e G)) d
+b b (e (e d d c)) e c c e e c c c e e c c c e e c c c e e c c c e e c c (F d (e G)) d
+
+

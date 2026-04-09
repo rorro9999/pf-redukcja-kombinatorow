@@ -1,0 +1,15 @@
+main d A B C b (b c d (d d)) d D e E e
+e f h g c (b g c g)
+c f g i h e b (i g e g) d
+a i h f g d i (b b) (e f)
+b i f h g f i d (a d a a)
+d f g h i c b
+------------------------------------------------------------
+d A B C b (b c d (d d)) d D e E e
+c b (b c d (d d)) d D e E e
+e b (d (b c d (d d)) e (b c d (d d))) d e E e
+c (b d c d) e E e
+e b (E e e e) d
+c (b d c d)
+
+

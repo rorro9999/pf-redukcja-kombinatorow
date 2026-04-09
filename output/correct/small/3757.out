@@ -1,0 +1,10 @@
+a e g f b d d
+b g f e a (c g a)
+c e b d (b e a)
+d g f h e a
+main d a A B (C (c (D b) (E F d b d G c)))
+------------------------------------------------------------
+d a A B (C (c (D b) (E F d b d G c)))
+a
+
+

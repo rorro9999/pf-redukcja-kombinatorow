@@ -1,0 +1,28 @@
+a f g e d d f (d g)
+b e h f g a a a e
+c g e f b f a
+d f e c b b (c c f)
+main A B (a C D E d a a (d (F a d) G d))
+------------------------------------------------------------
+A B (a C D E d a a (d (F a d) G d))
+A B (d d C (d D) d a a (d (F a d) G d))
+A B (c b b (c c d) (d D) d a a (d (F a d) G d))
+A B (b (c c d) a (d D) d a a (d (F a d) G d))
+A B (a a a (c c d) a a (d (F a d) G d))
+A B (d d a (d a) a a (d (F a d) G d))
+A B (c b b (c c d) (d a) a a (d (F a d) G d))
+A B (b (c c d) a (d a) a a (d (F a d) G d))
+A B (a a a (c c d) a (d (F a d) G d))
+A B (d d a (d a) a (d (F a d) G d))
+A B (c b b (c c d) (d a) a (d (F a d) G d))
+A B (b (c c d) a (d a) a (d (F a d) G d))
+A B (a a a (c c d) (d (F a d) G d))
+A B (d d a (d a) (d (F a d) G d))
+A B (c b b (c c d) (d a) (d (F a d) G d))
+A B (b (c c d) a (d a) (d (F a d) G d))
+A B (a a a (c c d))
+A B (d d a (d a))
+A B (c b b (c c d) (d a))
+A B (b (c c d) a (d a))
+
+

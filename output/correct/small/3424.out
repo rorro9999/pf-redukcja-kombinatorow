@@ -1,0 +1,38 @@
+a e c e b c c e
+b e d d e (c c)
+c f e g b a d b b d
+d h e g f a a e a
+main A a B C D E F a G (a a (d d H)) I
+------------------------------------------------------------
+A a B C D E F a G (a a (d d H)) I
+A a B C D E F a G (c a b c c a (d d H)) I
+A a B C D E F a G (b a d b b d c a (d d H)) I
+A a B C D E F a G (d d a (c c) d b b d c a (d d H)) I
+A a B C D E F a G (a a a a b b d c a (d d H)) I
+A a B C D E F a G (c a b c c a a a b b d c a (d d H)) I
+A a B C D E F a G (b a d b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (d d a (c c) d b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (a a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (c a b c c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (b a d b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (d d a (c c) d b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (a a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (c a b c c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (b a d b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (d d a (c c) d b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (a a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (c a b c c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (b a d b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (d d a (c c) d b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (a a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (c a b c c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (b a d b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (d d a (c c) d b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (a a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (c a b c c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (b a d b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (d d a (c c) d b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (a a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+A a B C D E F a G (c a b c c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a a a b b d c a (d d H)) I
+
+

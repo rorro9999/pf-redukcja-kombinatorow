@@ -1,0 +1,14 @@
+a b
+b e d a
+c e d a
+main b A c B b C a (D E F)
+------------------------------------------------------------
+b A c B b C a (D E F)
+a B b C a (D E F)
+b B b C a (D E F)
+a C a (D E F)
+b C a (D E F)
+a (D E F)
+b (D E F)
+
+

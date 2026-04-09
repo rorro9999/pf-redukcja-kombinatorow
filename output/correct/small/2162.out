@@ -1,0 +1,38 @@
+a f e b d f d d
+b f e f a
+c e d d (e d a b)
+d e e e a b c c
+main a a (A c (d a d (B C c c c d c) D))
+------------------------------------------------------------
+a a (A c (d a d (B C c c c d c) D))
+b d a d d
+d a d d
+a a a b c c d d
+b d a d d b c c d d
+d a d d b c c d d
+a a a b c c d d b c c d d
+b d a d d b c c d d b c c d d
+d a d d b c c d d b c c d d
+a a a b c c d d b c c d d b c c d d
+b d a d d b c c d d b c c d d b c c d d
+d a d d b c c d d b c c d d b c c d d
+a a a b c c d d b c c d d b c c d d b c c d d
+b d a d d b c c d d b c c d d b c c d d b c c d d
+d a d d b c c d d b c c d d b c c d d b c c d d
+a a a b c c d d b c c d d b c c d d b c c d d b c c d d
+b d a d d b c c d d b c c d d b c c d d b c c d d b c c d d
+d a d d b c c d d b c c d d b c c d d b c c d d b c c d d
+a a a b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d
+b d a d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d
+d a d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d
+a a a b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d
+b d a d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d
+d a d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d
+a a a b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d
+b d a d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d
+d a d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d
+a a a b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d
+b d a d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d
+d a d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d b c c d d
+
+

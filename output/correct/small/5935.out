@@ -1,0 +1,39 @@
+b f h g e d a a e
+a g f h g h h b h
+d h i g f h e b b b b
+main A (c (e (b a (d c) (B C D c e) e c) e))
+c h f g a d a g
+e g f h i c c c (h i)
+------------------------------------------------------------
+A (c (e (b a (d c) (B C D c e) e c) e))
+A (c (e (e d a a e e c) e))
+A (c (e (c c c (a e) e c) e))
+A (c (e (a d a (a e) e c) e))
+A (c (e (d (a e) (a e) b (a e) e c) e))
+A (c (e (a e e b b b b e c) e))
+A (c (e (e b b b b b b b e c) e))
+A (c (e (c c c (b b) b b b e c) e))
+A (c (e (a d a (b b) b b b e c) e))
+A (c (e (d (b b) (b b) b (b b) b b b e c) e))
+A (c (e (b b e b b b b b b b e c) e))
+A (c (e (e d a a e b b b b b b e c) e))
+A (c (e (c c c (a e) b b b b b b e c) e))
+A (c (e (a d a (a e) b b b b b b e c) e))
+A (c (e (d (a e) (a e) b (a e) b b b b b b e c) e))
+A (c (e (a e e b b b b b b b b b b e c) e))
+A (c (e (e b b b b b b b b b b b b b e c) e))
+A (c (e (c c c (b b) b b b b b b b b b e c) e))
+A (c (e (a d a (b b) b b b b b b b b b e c) e))
+A (c (e (d (b b) (b b) b (b b) b b b b b b b b b e c) e))
+A (c (e (b b e b b b b b b b b b b b b b e c) e))
+A (c (e (e d a a e b b b b b b b b b b b b e c) e))
+A (c (e (c c c (a e) b b b b b b b b b b b b e c) e))
+A (c (e (a d a (a e) b b b b b b b b b b b b e c) e))
+A (c (e (d (a e) (a e) b (a e) b b b b b b b b b b b b e c) e))
+A (c (e (a e e b b b b b b b b b b b b b b b b e c) e))
+A (c (e (e b b b b b b b b b b b b b b b b b b b e c) e))
+A (c (e (c c c (b b) b b b b b b b b b b b b b b b e c) e))
+A (c (e (a d a (b b) b b b b b b b b b b b b b b b e c) e))
+A (c (e (d (b b) (b b) b (b b) b b b b b b b b b b b b b b b e c) e))
+
+

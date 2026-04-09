@@ -1,0 +1,39 @@
+a f f f b c b
+b g f h e h a (e a f)
+e i g f h b c (c b b b)
+c h g f a a g e a (a a)
+main b b a b (A d) B a e c C D c E F
+d h g f b c (g (e c c) a)
+------------------------------------------------------------
+b b a b (A d) B a e c C D c E F
+e b a (e a a) (A d) B a e c C D c E F
+b c (c b b b) B a e c C D c E F
+e B a (e a (c b b b)) a e c C D c E F
+b c (c b b b) e c C D c E F
+e e a (e a (c b b b)) c C D c E F
+b c (c b b b) C D c E F
+e C a (e a (c b b b)) D c E F
+b c (c b b b) c E F
+e c a (e a (c b b b)) E F
+b c (c b b b) F
+e F a (e a (c b b b))
+e F a (e a (a a b e a (a a)))
+e F a (e a (a a b c b b e a (a a)))
+e F a (e a (a a b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b e a (a a)))
+e F a (e a (a a b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b c b b e a (a a)))
+
+

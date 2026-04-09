@@ -1,0 +1,38 @@
+a h g f e e c b h c b
+b h g e f a f a a
+c e a b a b d
+d f e g h b b h c a h
+main c a (A b a (c b c (c c (B C d D E))))
+------------------------------------------------------------
+c a (A b a (c b c (c c (B C d D E))))
+a b a b d (A b a (c b c (c c (B C d D E))))
+d c b b c b (A b a (c b c (c c (B C d D E))))
+b b c c a c b (A b a (c b c (c c (B C d D E))))
+a a a a c b (A b a (c b c (c c (B C d D E))))
+c c b a c b b (A b a (c b c (c c (B C d D E))))
+a b a b d b a c b b (A b a (c b c (c c (B C d D E))))
+d c b b c b b a c b b (A b a (c b c (c c (B C d D E))))
+b b c c a c b b a c b b (A b a (c b c (c c (B C d D E))))
+a a a a c b b a c b b (A b a (c b c (c c (B C d D E))))
+c c b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+a b a b d b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+d c b b c b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+b b c c a c b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+a a a a c b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+c c b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+a b a b d b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+d c b b c b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+b b c c a c b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+a a a a c b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+c c b a c b b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+a b a b d b a c b b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+d c b b c b b a c b b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+b b c c a c b b a c b b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+a a a a c b b a c b b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+c c b a c b b b a c b b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+a b a b d b a c b b b a c b b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+d c b b c b b a c b b b a c b b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+b b c c a c b b a c b b b a c b b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+a a a a c b b a c b b b a c b b b a c b b b a c b b b a c b b (A b a (c b c (c c (B C d D E))))
+
+

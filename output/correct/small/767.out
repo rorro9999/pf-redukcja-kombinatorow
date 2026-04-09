@@ -1,0 +1,37 @@
+a c c b
+b a c c
+c d e f b a a b a
+main A (a b b) B (C D a E c)
+------------------------------------------------------------
+A (a b b) B (C D a E c)
+A (c c b b b) B (C D a E c)
+A (b a a b a b) B (C D a E c)
+A (a c c a a b a b) B (C D a E c)
+A (c c b c c a a b a b) B (C D a E c)
+A (b a a b a c a a b a b) B (C D a E c)
+A (a c c a a b a c a a b a b) B (C D a E c)
+A (c c b c c a a b a c a a b a b) B (C D a E c)
+A (b a a b a c a a b a c a a b a b) B (C D a E c)
+A (a c c a a b a c a a b a c a a b a b) B (C D a E c)
+A (c c b c c a a b a c a a b a c a a b a b) B (C D a E c)
+A (b a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (a c c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (c c b c c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (b a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (a c c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (c c b c c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (b a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (a c c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (c c b c c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (b a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (a c c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (c c b c c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (b a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (a c c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (c c b c c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (b a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (a c c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (c c b c c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+A (b a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a c a a b a b) B (C D a E c)
+
+

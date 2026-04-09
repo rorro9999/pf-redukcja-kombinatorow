@@ -1,0 +1,39 @@
+b h g f i a e
+d f g h f (c a g) e g
+a f b d e e f e e
+main A (B (b d d e (C b c D c b e a a)))
+c g i h f h d b b e a e
+e h f g i f (i d g c)
+------------------------------------------------------------
+A (B (b d d e (C b c D c b e a a)))
+A (B (a e))
+A (B (b d e e e e e))
+A (B (a e e e))
+A (B (b d e e e e e e e))
+A (B (a e e e e e))
+A (B (b d e e e e e e e e e))
+A (B (a e e e e e e e))
+A (B (b d e e e e e e e e e e e))
+A (B (a e e e e e e e e e))
+A (B (b d e e e e e e e e e e e e e))
+A (B (a e e e e e e e e e e e))
+A (B (b d e e e e e e e e e e e e e e e))
+A (B (a e e e e e e e e e e e e e))
+A (B (b d e e e e e e e e e e e e e e e e e))
+A (B (a e e e e e e e e e e e e e e e))
+A (B (b d e e e e e e e e e e e e e e e e e e e))
+A (B (a e e e e e e e e e e e e e e e e e))
+A (B (b d e e e e e e e e e e e e e e e e e e e e e))
+A (B (a e e e e e e e e e e e e e e e e e e e))
+A (B (b d e e e e e e e e e e e e e e e e e e e e e e e))
+A (B (a e e e e e e e e e e e e e e e e e e e e e))
+A (B (b d e e e e e e e e e e e e e e e e e e e e e e e e e))
+A (B (a e e e e e e e e e e e e e e e e e e e e e e e))
+A (B (b d e e e e e e e e e e e e e e e e e e e e e e e e e e e))
+A (B (a e e e e e e e e e e e e e e e e e e e e e e e e e))
+A (B (b d e e e e e e e e e e e e e e e e e e e e e e e e e e e e e))
+A (B (a e e e e e e e e e e e e e e e e e e e e e e e e e e e))
+A (B (b d e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e))
+A (B (a e e e e e e e e e e e e e e e e e e e e e e e e e e e e e))
+
+

@@ -1,0 +1,20 @@
+main e A a B b (C D E F c e G) b c c
+e h f g i a (b i) d h
+d f g h i a b b i c i
+a f g e b (c b)
+c h i f g b (b (e h f b) e)
+b g h f c d e c a
+------------------------------------------------------------
+e A a B b (C D E F c e G) b c c
+a (b b) d A (C D E F c e G) b c c
+e b (c b) A (C D E F c e G) b c c
+a (b (C D E F c e G)) d b b c c
+e b (c b) b b c c
+a (b b) d b c c
+e b (c b) b c c
+a (b c) d b c
+e b (c b) b c
+a (b c) d b
+e b (c b) b
+
+

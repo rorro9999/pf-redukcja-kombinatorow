@@ -1,0 +1,39 @@
+a g f c c d c b f
+main e e b A B C D E F G b c (H I J)
+d f g c b (c b)
+b g f h c c g
+c f g h e b a d d a f
+e f h g b b a c h
+------------------------------------------------------------
+e e b A B C D E F G b c (H I J)
+b b a c b B C D E F G b c (H I J)
+c c b b B C D E F G b c (H I J)
+e b a d d a c B C D E F G b c (H I J)
+b b a c a d a c B C D E F G b c (H I J)
+c c b a d a c B C D E F G b c (H I J)
+e b a d d a c d a c B C D E F G b c (H I J)
+b b a c a d a c d a c B C D E F G b c (H I J)
+c c b a d a c d a c B C D E F G b c (H I J)
+e b a d d a c d a c d a c B C D E F G b c (H I J)
+b b a c a d a c d a c d a c B C D E F G b c (H I J)
+c c b a d a c d a c d a c B C D E F G b c (H I J)
+e b a d d a c d a c d a c d a c B C D E F G b c (H I J)
+b b a c a d a c d a c d a c d a c B C D E F G b c (H I J)
+c c b a d a c d a c d a c d a c B C D E F G b c (H I J)
+e b a d d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+b b a c a d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+c c b a d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+e b a d d a c d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+b b a c a d a c d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+c c b a d a c d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+e b a d d a c d a c d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+b b a c a d a c d a c d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+c c b a d a c d a c d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+e b a d d a c d a c d a c d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+b b a c a d a c d a c d a c d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+c c b a d a c d a c d a c d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+e b a d d a c d a c d a c d a c d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+b b a c a d a c d a c d a c d a c d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+c c b a d a c d a c d a c d a c d a c d a c d a c d a c d a c B C D E F G b c (H I J)
+
+

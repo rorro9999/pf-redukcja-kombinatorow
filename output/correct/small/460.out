@@ -1,0 +1,18 @@
+a e d c e
+b d a c
+c a
+main A a (c (B (b C c c a c)))
+------------------------------------------------------------
+A a (c (B (b C c c a c)))
+A a (a (B (b C c c a c)))
+A a (a (B (a c c c a c)))
+A a (a (B (c c c a c)))
+A a (a (B (a c c a c)))
+A a (a (B (c c a c)))
+A a (a (B (a c a c)))
+A a (a (B (c c c)))
+A a (a (B (a c c)))
+A a (a (B (c c)))
+A a (a (B (a c)))
+
+

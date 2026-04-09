@@ -1,0 +1,11 @@
+main e (A B e b a b (C D E F G e) b) H
+c g f a (b f) g
+a f g h d h (b d) b
+e f g b b g c
+b h f i g c c a a c d
+d h f g i b c a f a b b
+------------------------------------------------------------
+e (A B e b a b (C D E F G e) b) H
+b b H c
+
+

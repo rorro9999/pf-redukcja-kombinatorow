@@ -1,0 +1,14 @@
+b g i f h a (c (e c a a) a)
+a h g f i c (b c)
+e g i h f i d c d
+main d A B C a D E e e F a (b (d b d))
+c g i f h b g g d b
+d i h f g g b a
+------------------------------------------------------------
+d A B C a D E e e F a (b (d b d))
+a b a D E e e F a (b (d b d))
+c (b c) e e F a (b (d b d))
+b (b c) (b c) d b a (b (d b d))
+a (c (e c a a) a) a (b (d b d))
+
+

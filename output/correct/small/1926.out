@@ -1,0 +1,37 @@
+a c b b c
+b d a a
+c f d e a b
+main c (a b c (A (B C b c a)))
+------------------------------------------------------------
+c (a b c (A (B C b c a)))
+c (c b b c b c (A (B C b c a)))
+c (a b b c (A (B C b c a)))
+c (c b b c b b c (A (B C b c a)))
+c (a b b b c (A (B C b c a)))
+c (c b b c b b b c (A (B C b c a)))
+c (a b b b b c (A (B C b c a)))
+c (c b b c b b b b c (A (B C b c a)))
+c (a b b b b b c (A (B C b c a)))
+c (c b b c b b b b b c (A (B C b c a)))
+c (a b b b b b b c (A (B C b c a)))
+c (c b b c b b b b b b c (A (B C b c a)))
+c (a b b b b b b b c (A (B C b c a)))
+c (c b b c b b b b b b b c (A (B C b c a)))
+c (a b b b b b b b b c (A (B C b c a)))
+c (c b b c b b b b b b b b c (A (B C b c a)))
+c (a b b b b b b b b b c (A (B C b c a)))
+c (c b b c b b b b b b b b b c (A (B C b c a)))
+c (a b b b b b b b b b b c (A (B C b c a)))
+c (c b b c b b b b b b b b b b c (A (B C b c a)))
+c (a b b b b b b b b b b b c (A (B C b c a)))
+c (c b b c b b b b b b b b b b b c (A (B C b c a)))
+c (a b b b b b b b b b b b b c (A (B C b c a)))
+c (c b b c b b b b b b b b b b b b c (A (B C b c a)))
+c (a b b b b b b b b b b b b b c (A (B C b c a)))
+c (c b b c b b b b b b b b b b b b b c (A (B C b c a)))
+c (a b b b b b b b b b b b b b b c (A (B C b c a)))
+c (c b b c b b b b b b b b b b b b b b c (A (B C b c a)))
+c (a b b b b b b b b b b b b b b b c (A (B C b c a)))
+c (c b b c b b b b b b b b b b b b b b b c (A (B C b c a)))
+
+

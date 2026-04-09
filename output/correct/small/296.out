@@ -1,0 +1,28 @@
+a b c b
+b e f d c
+c f e d a b b a
+main a b c c a b a b A a
+------------------------------------------------------------
+a b c c a b a b A a
+b c b b c c a b a b A a
+c c c a b a b A a
+a b b a b a b A a
+b c b b b a b a b A a
+c b a b a b A a
+a b b a a b A a
+b c b b b a a b A a
+c b a a b A a
+a b b a b A a
+b c b b b a b A a
+c b a b A a
+a b b a A a
+b c b b b a A a
+c b a A a
+a b b a a
+b c b b b a a
+c b a a
+a b b a
+b c b b b a
+c b a
+
+

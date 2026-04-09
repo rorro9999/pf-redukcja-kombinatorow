@@ -1,0 +1,38 @@
+a g e f c
+b h f e g g a a c d
+c e h f g a (b (e a b d))
+d e b b a a a c
+main d a A (B c b (b C a c d c D a E))
+------------------------------------------------------------
+d a A (B c b (b C a c d c D a E))
+b b a a a c A (B c b (b C a c d c D a E))
+a a a c d c A (B c b (b C a c d c D a E))
+c d c A (B c b (b C a c d c D a E))
+a (b (d a b d))
+a (b (b b a a a c b d))
+a (b (a a a c d c b d))
+a (b (c d c b d))
+a (b (a (b (d a b d))))
+a (b (a (b (b b a a a c b d))))
+a (b (a (b (a a a c d c b d))))
+a (b (a (b (c d c b d))))
+a (b (a (b (a (b (d a b d))))))
+a (b (a (b (a (b (b b a a a c b d))))))
+a (b (a (b (a (b (a a a c d c b d))))))
+a (b (a (b (a (b (c d c b d))))))
+a (b (a (b (a (b (a (b (d a b d))))))))
+a (b (a (b (a (b (a (b (b b a a a c b d))))))))
+a (b (a (b (a (b (a (b (a a a c d c b d))))))))
+a (b (a (b (a (b (a (b (c d c b d))))))))
+a (b (a (b (a (b (a (b (a (b (d a b d))))))))))
+a (b (a (b (a (b (a (b (a (b (b b a a a c b d))))))))))
+a (b (a (b (a (b (a (b (a (b (a a a c d c b d))))))))))
+a (b (a (b (a (b (a (b (a (b (c d c b d))))))))))
+a (b (a (b (a (b (a (b (a (b (a (b (d a b d))))))))))))
+a (b (a (b (a (b (a (b (a (b (a (b (b b a a a c b d))))))))))))
+a (b (a (b (a (b (a (b (a (b (a (b (a a a c d c b d))))))))))))
+a (b (a (b (a (b (a (b (a (b (a (b (c d c b d))))))))))))
+a (b (a (b (a (b (a (b (a (b (a (b (a (b (d a b d))))))))))))))
+a (b (a (b (a (b (a (b (a (b (a (b (a (b (b b a a a c b d))))))))))))))
+
+
