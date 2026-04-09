@@ -1,7 +1,7 @@
-a d e b c b b
-b d a d c a d
-c d a a b a
-main A (b (B C a a D b a c))
+a d e = b c b b
+b d = a d c a d
+c d = a a b a
+main = A (b (B C a a D b a c))
 ------------------------------------------------------------
 A (b (B C a a D b a c))
 A (a (B C a a D b a c) c a (B C a a D b a c))

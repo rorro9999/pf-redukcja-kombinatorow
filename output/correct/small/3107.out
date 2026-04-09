@@ -1,8 +1,8 @@
-a f e c b e e
-b g e f c c c f
-c f e g h b (d (d b d))
-d f e g e a c a
-main b b b A (a a B d) c C (D E (F b) G)
+a f e = c b e e
+b g e f = c c c f
+c f e g h = b (d (d b d))
+d f e g = e a c a
+main = b b b A (a a B d) c C (D E (F b) G)
 ------------------------------------------------------------
 b b b A (a a B d) c C (D E (F b) G)
 c c c A (a a B d) c C (D E (F b) G)

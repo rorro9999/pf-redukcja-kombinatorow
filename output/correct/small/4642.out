@@ -1,9 +1,9 @@
-a f i g h d g e e c h d
-b g f h f c g c c a d
-d g i f h b b f h g i
-main e b c b (A (c (B (a a a b d) d a C)))
-e g f h i d b b b f d b
-c g f a e b g b e d
+a f i g h = d g e e c h d
+b g f h = f c g c c a d
+d g i f h = b b f h g i
+main = e b c b (A (c (B (a a a b d) d a C)))
+e g f h i = d b b b f d b
+c g f = a e b g b e d
 ------------------------------------------------------------
 e b c b (A (c (B (a a a b d) d a C)))
 d b b b c d b

@@ -1,9 +1,9 @@
-a f g i h h e e e b
-e g i h f c (d h a i)
-c h f g i a b d e
-main A B c C c e a (D E b c a) e (F G)
-d g h i f a b e a a i i
-b g h f g f e a d a d
+a f g i h = h e e e b
+e g i h f = c (d h a i)
+c h f g i = a b d e
+main = A B c C c e a (D E b c a) e (F G)
+d g h i f = a b e a a i i
+b g h f = g f e a d a d
 ------------------------------------------------------------
 A B c C c e a (D E b c a) e (F G)
 

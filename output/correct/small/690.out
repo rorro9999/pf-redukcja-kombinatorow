@@ -1,7 +1,7 @@
-a f d e b
-b a
-c a a b b
-main A B (c (c c b c b b a))
+a f d e = b
+b = a
+c = a a b b
+main = A B (c (c c b c b b a))
 ------------------------------------------------------------
 A B (c (c c b c b b a))
 A B (a a b b (c c b c b b a))

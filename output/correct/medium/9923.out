@@ -1,34 +1,34 @@
-a l (q x) (q ad l (k x j r ab v w y t))
-b n (p (p (aa (y q (i d u k k j j c i u x ad)))))
-c ag af ae b (t (q u (d (b (ac ab j e y f e m g w z)))))
-d ae af ag b r e b f y
-e ag af ae aj ai ah v ag (w (k ac c g g o f v c r af aa v ab))
-f af ae ab s x (w aa ab)
-g ag ai ah af ae aj x a (w a i ab)
-h ag ae ah ai af q (e (ai j j (u ac d j ab ae p u ah)))
-i ai aj ae ag af ah d b (t (h (w (d y d p o ad aj))))
-j ae ag af ai ah z (e f v u (s (n (u ab z ai q s n w e ad w))))
-k ae af ag p q (t (z x (aa g) h o ac w x e r))
-l ah ag ae af z s (ah (e (d (n (j (t t t z aa a k u u q))))))
-m ac ab d (u ab (u (s (r (w w aa ad) u i aa) aa q)) t)
-n ag ah ae af p (r h (m z f) f) b p x
-o ae ag ai af ah n d n r q (ad q w n ab)
-p ad (h h t) b o ac f
-q ae af ac y (w l i u d c (a s x aa g p u j k))
-r ae n o h a s
-s af ae ah ag d b w m
-t af ag ae ac f (aa (y i q f))
-u af ae p r t (l x e af) y aa l l s
-v af ae af a (z z ab (g g o ad o c))
-w ae af v (j ad ab) h (c u h f af (z q s ad b g aa))
-x ae n (g k ae t ad r (a p (o l q e b o q e)))
-y ah af ag ae ai l w (l (i aa p d aa))
-z af ae ag ah b (aa j (u c t ab s h u ae))
-aa ae ad (i (i q e (v w ad n f j ad h) z r))
-ab x (u (r n (b o (l d p b f m j x d))))
-ac af ag ae s c (l (r ad c t k n y ag k))
-ad ai ah ag af ae i ac j (c q (ac (b (p h ah) h) v h k))
-main t A (p y (g B b i k (j ab (k ac w (C (n (r i m (o u (m (p (d (p y ab m (f (D E (F d (ab g u (w d p q (G (H I (d ac w (J ab (K L e ad v u b ad) w c p M ac N u O ad h g z x n x q i n i l u) P k Q R p u S T) aa u U p g w w j V t m k W z w)))))))))))))))))))
+a = l (q x) (q ad l (k x j r ab v w y t))
+b = n (p (p (aa (y q (i d u k k j j c i u x ad)))))
+c ag af ae = b (t (q u (d (b (ac ab j e y f e m g w z)))))
+d ae af ag = b r e b f y
+e ag af ae aj ai ah = v ag (w (k ac c g g o f v c r af aa v ab))
+f af ae = ab s x (w aa ab)
+g ag ai ah af ae aj = x a (w a i ab)
+h ag ae ah ai af = q (e (ai j j (u ac d j ab ae p u ah)))
+i ai aj ae ag af ah = d b (t (h (w (d y d p o ad aj))))
+j ae ag af ai ah = z (e f v u (s (n (u ab z ai q s n w e ad w))))
+k ae af ag = p q (t (z x (aa g) h o ac w x e r))
+l ah ag ae af = z s (ah (e (d (n (j (t t t z aa a k u u q))))))
+m = ac ab d (u ab (u (s (r (w w aa ad) u i aa) aa q)) t)
+n ag ah ae af = p (r h (m z f) f) b p x
+o ae ag ai af ah = n d n r q (ad q w n ab)
+p = ad (h h t) b o ac f
+q ae af = ac y (w l i u d c (a s x aa g p u j k))
+r ae = n o h a s
+s af ae ah ag = d b w m
+t af ag ae = ac f (aa (y i q f))
+u af ae = p r t (l x e af) y aa l l s
+v af ae = af a (z z ab (g g o ad o c))
+w ae af = v (j ad ab) h (c u h f af (z q s ad b g aa))
+x ae = n (g k ae t ad r (a p (o l q e b o q e)))
+y ah af ag ae ai = l w (l (i aa p d aa))
+z af ae ag ah = b (aa j (u c t ab s h u ae))
+aa ae = ad (i (i q e (v w ad n f j ad h) z r))
+ab = x (u (r n (b o (l d p b f m j x d))))
+ac af ag ae = s c (l (r ad c t k n y ag k))
+ad ai ah ag af ae = i ac j (c q (ac (b (p h ah) h) v h k))
+main = t A (p y (g B b i k (j ab (k ac w (C (n (r i m (o u (m (p (d (p y ab m (f (D E (F d (ab g u (w d p q (G (H I (d ac w (J ab (K L e ad v u b ad) w c p M ac N u O ad h g z x n x q i n i l u) P k Q R p u S T) aa u U p g w w j V t m k W z w)))))))))))))))))))
 ------------------------------------------------------------
 t A (p y (g B b i k (j ab (k ac w (C (n (r i m (o u (m (p (d (p y ab m (f (D E (F d (ab g u (w d p q (G (H I (d ac w (J ab (K L e ad v u b ad) w c p M ac N u O ad h g z x n x q i n i l u) P k Q R p u S T) aa u U p g w w j V t m k W z w)))))))))))))))))))
 t A (ad (h h t) b o ac f y (g B b i k (j ab (k ac w (C (n (r i m (o u (m (p (d (p y ab m (f (D E (F d (ab g u (w d p q (G (H I (d ac w (J ab (K L e ad v u b ad) w c p M ac N u O ad h g z x n x q i n i l u) P k Q R p u S T) aa u U p g w w j V t m k W z w)))))))))))))))))))

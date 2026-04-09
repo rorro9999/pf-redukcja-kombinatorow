@@ -1,8 +1,8 @@
-a e h f g b h (b c c) c
-b f e g d f a d d d
-c g h e f d h a d d
-d h f g e h a a
-main A B (C c a D b E F a (G H I J K))
+a e h f g = b h (b c c) c
+b f e g = d f a d d d
+c g h e f = d h a d d
+d h f g e = h a a
+main = A B (C c a D b E F a (G H I J K))
 ------------------------------------------------------------
 A B (C c a D b E F a (G H I J K))
 

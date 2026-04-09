@@ -1,7 +1,7 @@
-a d e d c e c
-b c c c
-c d a a a
-main b c a A a b c a B c
+a d e = d c e c
+b = c c c
+c d = a a a
+main = b c a A a b c a B c
 ------------------------------------------------------------
 b c a A a b c a B c
 c c c c a A a b c a B c

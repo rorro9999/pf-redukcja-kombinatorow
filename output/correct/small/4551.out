@@ -1,9 +1,9 @@
-main A (B b c b (a b c C d b D c)) b a
-c g f b a g b
-d b c (e e c a)
-a i f h g b i
-e f g g c d a b b c
-b i h g f i c d d e
+main = A (B b c b (a b c C d b D c)) b a
+c g f = b a g b
+d = b c (e e c a)
+a i f h g = b i
+e f g = g c d a b b c
+b i h g f = i c d d e
 ------------------------------------------------------------
 A (B b c b (a b c C d b D c)) b a
 A (B b c b (b b b D c)) b a

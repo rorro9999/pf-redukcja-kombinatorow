@@ -1,7 +1,7 @@
-a b c
-b d f e a
-c d a
-main a a A b B C D E (F G)
+a = b c
+b d f e = a
+c d = a
+main = a a A b B C D E (F G)
 ------------------------------------------------------------
 a a A b B C D E (F G)
 b c a A b B C D E (F G)

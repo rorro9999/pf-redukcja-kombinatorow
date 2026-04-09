@@ -1,7 +1,7 @@
-a d e f b c (c c b)
-b e d c
-c e d a a
-main A a B c a C b b D c
+a d e f = b c (c c b)
+b e d = c
+c e d = a a
+main = A a B c a C b b D c
 ------------------------------------------------------------
 A a B c a C b b D c
 

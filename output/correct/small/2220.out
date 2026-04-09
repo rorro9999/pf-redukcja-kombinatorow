@@ -1,8 +1,8 @@
-a h e f g d c c b d
-b e h g f a a d d c d
-c f g e d d g b
-d g f e b b b f
-main c (A B C D E F (G (H I b b b) J K))
+a h e f g = d c c b d
+b e h g f = a a d d c d
+c f g e = d d g b
+d g f e = b b b f
+main = c (A B C D E F (G (H I b b b) J K))
 ------------------------------------------------------------
 c (A B C D E F (G (H I b b b) J K))
 
