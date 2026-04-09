@@ -1,0 +1,39 @@
+b f g = e e (c g) e g d
+main = A (c (b b b B C D E b a (b e e c)))
+d i h g f = a c c e g
+c g h f = e (f a) e g
+e f g h = g (b d c) f
+a g f h = f b b c f d d
+------------------------------------------------------------
+A (c (b b b B C D E b a (b e e c)))
+A (c (e e (c b) e b d B C D E b a (b e e c)))
+A (c (c b (b d c) e b d B C D E b a (b e e c)))
+A (c (e (e a) e b b d B C D E b a (b e e c)))
+A (c (e (b d c) (e a) b d B C D E b a (b e e c)))
+A (c (e a (b d c) (b d c) d B C D E b a (b e e c)))
+A (c (b d c (b d c) a d B C D E b a (b e e c)))
+A (c (e e (c c) e c d (b d c) a d B C D E b a (b e e c)))
+A (c (c c (b d c) e c d (b d c) a d B C D E b a (b e e c)))
+A (c (e (e a) e c c d (b d c) a d B C D E b a (b e e c)))
+A (c (e (b d c) (e a) c d (b d c) a d B C D E b a (b e e c)))
+A (c (e a (b d c) (b d c) d (b d c) a d B C D E b a (b e e c)))
+A (c (b d c (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (e e (c c) e c d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (c c (b d c) e c d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (e (e a) e c c d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (e (b d c) (e a) c d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (e a (b d c) (b d c) d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (b d c (b d c) a d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (e e (c c) e c d (b d c) a d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (c c (b d c) e c d (b d c) a d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (e (e a) e c c d (b d c) a d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (e (b d c) (e a) c d (b d c) a d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (e a (b d c) (b d c) d (b d c) a d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (b d c (b d c) a d (b d c) a d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (e e (c c) e c d (b d c) a d (b d c) a d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (c c (b d c) e c d (b d c) a d (b d c) a d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (e (e a) e c c d (b d c) a d (b d c) a d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (e (b d c) (e a) c d (b d c) a d (b d c) a d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+A (c (e a (b d c) (b d c) d (b d c) a d (b d c) a d (b d c) a d (b d c) a d B C D E b a (b e e c)))
+
+

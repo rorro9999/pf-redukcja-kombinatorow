@@ -1,0 +1,33 @@
+a e = b (c b)
+b e = c a d d d
+c e f h g = d b
+d g f h e = b h b b
+main = a A (a b b) B c C (D d d) E b F G
+------------------------------------------------------------
+a A (a b b) B c C (D d d) E b F G
+b (c b) (a b b) B c C (D d d) E b F G
+c a d d d (a b b) B c C (D d d) E b F G
+d b (a b b) B c C (D d d) E b F G
+b B b b C (D d d) E b F G
+c a d d d b b C (D d d) E b F G
+d b b b C (D d d) E b F G
+b b b b (D d d) E b F G
+c a d d d b b (D d d) E b F G
+d b b b (D d d) E b F G
+b b b b E b F G
+c a d d d b b E b F G
+d b b b E b F G
+b b b b b F G
+c a d d d b b b F G
+d b b b b F G
+b b b b F G
+c a d d d b b F G
+d b b b F G
+b b b b G
+c a d d d b b G
+d b b b G
+b b b b
+c a d d d b b
+d b b b
+
+

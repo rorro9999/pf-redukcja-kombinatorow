@@ -1,0 +1,39 @@
+c f g h = b d e (d e a g)
+main = e A B (C d) (D d e) a (E F c d) G H
+d f g = c a (e c g b)
+a g h f = c e c h f
+b g f = f (c d d)
+e f g h = d b d (d a) g
+------------------------------------------------------------
+e A B (C d) (D d e) a (E F c d) G H
+d b d (d a) B (D d e) a (E F c d) G H
+c a (e c d b) (d a) B (D d e) a (E F c d) G H
+b d e (d e a (e c d b)) B (D d e) a (E F c d) G H
+e (c d d) (d e a (e c d b)) B (D d e) a (E F c d) G H
+d b d (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+c a (e c d b) (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+b d e (d e a (e c d b)) (d e a (e c d b)) (D d e) a (E F c d) G H
+e (c d d) (d e a (e c d b)) (d e a (e c d b)) (D d e) a (E F c d) G H
+d b d (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+c a (e c d b) (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+b d e (d e a (e c d b)) (d e a (e c d b)) (D d e) a (E F c d) G H
+e (c d d) (d e a (e c d b)) (d e a (e c d b)) (D d e) a (E F c d) G H
+d b d (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+c a (e c d b) (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+b d e (d e a (e c d b)) (d e a (e c d b)) (D d e) a (E F c d) G H
+e (c d d) (d e a (e c d b)) (d e a (e c d b)) (D d e) a (E F c d) G H
+d b d (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+c a (e c d b) (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+b d e (d e a (e c d b)) (d e a (e c d b)) (D d e) a (E F c d) G H
+e (c d d) (d e a (e c d b)) (d e a (e c d b)) (D d e) a (E F c d) G H
+d b d (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+c a (e c d b) (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+b d e (d e a (e c d b)) (d e a (e c d b)) (D d e) a (E F c d) G H
+e (c d d) (d e a (e c d b)) (d e a (e c d b)) (D d e) a (E F c d) G H
+d b d (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+c a (e c d b) (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+b d e (d e a (e c d b)) (d e a (e c d b)) (D d e) a (E F c d) G H
+e (c d d) (d e a (e c d b)) (d e a (e c d b)) (D d e) a (E F c d) G H
+d b d (d a) (d e a (e c d b)) (D d e) a (E F c d) G H
+
+

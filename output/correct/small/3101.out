@@ -1,0 +1,38 @@
+a g h f e = d d h c g c
+b f e = c c c (c c d)
+c g e h f = b f a d a e
+d e f = a c f a b
+main = A B (a a b (a a d) a (C D E F c d))
+------------------------------------------------------------
+A B (a a b (a a d) a (C D E F c d))
+A B (d d b c a c (C D E F c d))
+A B (a c b a b c a c (C D E F c d))
+A B (d d b c c c c a c (C D E F c d))
+A B (a c b a b c c c c a c (C D E F c d))
+A B (d d b c c c c c c c a c (C D E F c d))
+A B (a c b a b c c c c c c c a c (C D E F c d))
+A B (d d b c c c c c c c c c c a c (C D E F c d))
+A B (a c b a b c c c c c c c c c c a c (C D E F c d))
+A B (d d b c c c c c c c c c c c c c a c (C D E F c d))
+A B (a c b a b c c c c c c c c c c c c c a c (C D E F c d))
+A B (d d b c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (a c b a b c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (d d b c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (a c b a b c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (d d b c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (a c b a b c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (d d b c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (a c b a b c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (d d b c c c c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (a c b a b c c c c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (d d b c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (a c b a b c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (d d b c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (a c b a b c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (d d b c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (a c b a b c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (d d b c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (a c b a b c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+A B (d d b c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c a c (C D E F c d))
+
+

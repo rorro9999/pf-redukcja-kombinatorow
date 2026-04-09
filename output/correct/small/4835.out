@@ -1,0 +1,39 @@
+c g f = f (a b a) f
+b g i h f = a h c e d g
+a h f g = e f (g d) c d b
+e h i g f = c i a
+main = a A e e c a d (b e e) e B b C d
+d f g h = b c (h e c c) a
+------------------------------------------------------------
+a A e e c a d (b e e) e B b C d
+e e (e d) c d b c a d (b e e) e B b C d
+c (e d) a b c a d (b e e) e B b C d
+a (a b a) a b c a d (b e e) e B b C d
+e a (b d) c d b c a d (b e e) e B b C d
+c (b d) a b c a d (b e e) e B b C d
+a (a b a) a b c a d (b e e) e B b C d
+e a (b d) c d b c a d (b e e) e B b C d
+c (b d) a b c a d (b e e) e B b C d
+a (a b a) a b c a d (b e e) e B b C d
+e a (b d) c d b c a d (b e e) e B b C d
+c (b d) a b c a d (b e e) e B b C d
+a (a b a) a b c a d (b e e) e B b C d
+e a (b d) c d b c a d (b e e) e B b C d
+c (b d) a b c a d (b e e) e B b C d
+a (a b a) a b c a d (b e e) e B b C d
+e a (b d) c d b c a d (b e e) e B b C d
+c (b d) a b c a d (b e e) e B b C d
+a (a b a) a b c a d (b e e) e B b C d
+e a (b d) c d b c a d (b e e) e B b C d
+c (b d) a b c a d (b e e) e B b C d
+a (a b a) a b c a d (b e e) e B b C d
+e a (b d) c d b c a d (b e e) e B b C d
+c (b d) a b c a d (b e e) e B b C d
+a (a b a) a b c a d (b e e) e B b C d
+e a (b d) c d b c a d (b e e) e B b C d
+c (b d) a b c a d (b e e) e B b C d
+a (a b a) a b c a d (b e e) e B b C d
+e a (b d) c d b c a d (b e e) e B b C d
+c (b d) a b c a d (b e e) e B b C d
+
+

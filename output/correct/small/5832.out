@@ -1,0 +1,39 @@
+b f = e (a f) f f
+main = c A B c C (c b D c a c E e c e)
+d f g i h = e b e e c
+e h g f = h
+a f h g = b b b d (c f)
+c f h g = e e a a
+------------------------------------------------------------
+c A B c C (c b D c a c E e c e)
+e e a a C (c b D c a c E e c e)
+e C (c b D c a c E e c e)
+e C (e e a a a c E e c e)
+e C (e a c E e c e)
+e C (a e c e)
+e C (b b b d (c e))
+e C (e (a b) b b b d (c e))
+e C (a b b d (c e))
+e C (b b b d (c b) (c e))
+e C (e (a b) b b b d (c b) (c e))
+e C (a b b d (c b) (c e))
+e C (b b b d (c b) (c b) (c e))
+e C (e (a b) b b b d (c b) (c b) (c e))
+e C (a b b d (c b) (c b) (c e))
+e C (b b b d (c b) (c b) (c b) (c e))
+e C (e (a b) b b b d (c b) (c b) (c b) (c e))
+e C (a b b d (c b) (c b) (c b) (c e))
+e C (b b b d (c b) (c b) (c b) (c b) (c e))
+e C (e (a b) b b b d (c b) (c b) (c b) (c b) (c e))
+e C (a b b d (c b) (c b) (c b) (c b) (c e))
+e C (b b b d (c b) (c b) (c b) (c b) (c b) (c e))
+e C (e (a b) b b b d (c b) (c b) (c b) (c b) (c b) (c e))
+e C (a b b d (c b) (c b) (c b) (c b) (c b) (c e))
+e C (b b b d (c b) (c b) (c b) (c b) (c b) (c b) (c e))
+e C (e (a b) b b b d (c b) (c b) (c b) (c b) (c b) (c b) (c e))
+e C (a b b d (c b) (c b) (c b) (c b) (c b) (c b) (c e))
+e C (b b b d (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c e))
+e C (e (a b) b b b d (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c e))
+e C (a b b d (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c e))
+
+

@@ -1,0 +1,38 @@
+a e f = b c e d b
+b = d (c c)
+c = b d
+d f e = e (c c (c e f))
+main = b d c A (c c d c) B b b C (D c) b
+------------------------------------------------------------
+b d c A (c c d c) B b b C (D c) b
+d (c c) d c A (c c d c) B b b C (D c) b
+d (c c (c d (c c))) c A (c c d c) B b b C (D c) b
+c (c c (c c (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+b d (c c (c c (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c) d (c c (c c (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c (c d (c c))) (c c (c c (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+c c (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+b d c (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c) d c (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c (c d (c c))) c (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+c (c c (c c (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+b d (c c (c c (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c) d (c c (c c (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c (c d (c c))) (c c (c c (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+c c (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+b d c (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c) d c (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c (c d (c c))) c (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+c (c c (c c (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+b d (c c (c c (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c) d (c c (c c (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c (c d (c c))) (c c (c c (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+c c (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+b d c (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c) d c (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c (c d (c c))) c (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+c (c c (c c (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+b d (c c (c c (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+d (c c) d (c c (c c (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) (c c (c c (c d (c c)))) (c c (c (c c (c c (c c (c d (c c))))) (c c (c d (c c))))) A (c c d c) B b b C (D c) b
+
+

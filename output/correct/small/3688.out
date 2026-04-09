@@ -1,0 +1,38 @@
+a f h e g = d g
+b e g h f = d
+c e = b d
+d e = a e b c c a
+main = A (a a (a c) a B (C D a)) (E b) F G H
+------------------------------------------------------------
+A (a a (a c) a B (C D a)) (E b) F G H
+A (d B (C D a)) (E b) F G H
+A (a B b c c a (C D a)) (E b) F G H
+A (d c a (C D a)) (E b) F G H
+A (a c b c c a a (C D a)) (E b) F G H
+A (d c a a (C D a)) (E b) F G H
+A (a c b c c a a a (C D a)) (E b) F G H
+A (d c a a a (C D a)) (E b) F G H
+A (a c b c c a a a a (C D a)) (E b) F G H
+A (d c a a a a (C D a)) (E b) F G H
+A (a c b c c a a a a a (C D a)) (E b) F G H
+A (d c a a a a a (C D a)) (E b) F G H
+A (a c b c c a a a a a a (C D a)) (E b) F G H
+A (d c a a a a a a (C D a)) (E b) F G H
+A (a c b c c a a a a a a a (C D a)) (E b) F G H
+A (d c a a a a a a a (C D a)) (E b) F G H
+A (a c b c c a a a a a a a a (C D a)) (E b) F G H
+A (d c a a a a a a a a (C D a)) (E b) F G H
+A (a c b c c a a a a a a a a a (C D a)) (E b) F G H
+A (d c a a a a a a a a a (C D a)) (E b) F G H
+A (a c b c c a a a a a a a a a a (C D a)) (E b) F G H
+A (d c a a a a a a a a a a (C D a)) (E b) F G H
+A (a c b c c a a a a a a a a a a a (C D a)) (E b) F G H
+A (d c a a a a a a a a a a a (C D a)) (E b) F G H
+A (a c b c c a a a a a a a a a a a a (C D a)) (E b) F G H
+A (d c a a a a a a a a a a a a (C D a)) (E b) F G H
+A (a c b c c a a a a a a a a a a a a a (C D a)) (E b) F G H
+A (d c a a a a a a a a a a a a a (C D a)) (E b) F G H
+A (a c b c c a a a a a a a a a a a a a a (C D a)) (E b) F G H
+A (d c a a a a a a a a a a a a a a (C D a)) (E b) F G H
+
+

@@ -1,0 +1,39 @@
+e g i h f = h b d g b a
+c h f g i = e g d i e a f
+main = d c b (A B C a e d c e a D) E F
+b h g f i = c (e d g g a)
+a f = d d c f b c e
+d g f h i = b b b (c c c c)
+------------------------------------------------------------
+d c b (A B C a e d c e a D) E F
+b b b (c c c c) F
+c (e d b b a)
+c (b b d d b a)
+c (c (e d d d a) a)
+c (c (d b d d b a) a)
+c (c (b b b (c c c c) a) a)
+c (c (c (e d b b a)) a)
+c (c (c (b b d d b a)) a)
+c (c (c (c (e d d d a) a)) a)
+c (c (c (c (d b d d b a) a)) a)
+c (c (c (c (b b b (c c c c) a) a)) a)
+c (c (c (c (c (e d b b a)) a)) a)
+c (c (c (c (c (b b d d b a)) a)) a)
+c (c (c (c (c (c (e d d d a) a)) a)) a)
+c (c (c (c (c (c (d b d d b a) a)) a)) a)
+c (c (c (c (c (c (b b b (c c c c) a) a)) a)) a)
+c (c (c (c (c (c (c (e d b b a)) a)) a)) a)
+c (c (c (c (c (c (c (b b d d b a)) a)) a)) a)
+c (c (c (c (c (c (c (c (e d d d a) a)) a)) a)) a)
+c (c (c (c (c (c (c (c (d b d d b a) a)) a)) a)) a)
+c (c (c (c (c (c (c (c (b b b (c c c c) a) a)) a)) a)) a)
+c (c (c (c (c (c (c (c (c (e d b b a)) a)) a)) a)) a)
+c (c (c (c (c (c (c (c (c (b b d d b a)) a)) a)) a)) a)
+c (c (c (c (c (c (c (c (c (c (e d d d a) a)) a)) a)) a)) a)
+c (c (c (c (c (c (c (c (c (c (d b d d b a) a)) a)) a)) a)) a)
+c (c (c (c (c (c (c (c (c (c (b b b (c c c c) a) a)) a)) a)) a)) a)
+c (c (c (c (c (c (c (c (c (c (c (e d b b a)) a)) a)) a)) a)) a)
+c (c (c (c (c (c (c (c (c (c (c (b b d d b a)) a)) a)) a)) a)) a)
+c (c (c (c (c (c (c (c (c (c (c (c (e d d d a) a)) a)) a)) a)) a)) a)
+
+

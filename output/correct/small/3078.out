@@ -1,0 +1,38 @@
+a h e g f = c g d c
+b e h f g = g d c d g c
+c f h e g = d f g g d d
+d f e = b (c e f c) b
+main = A B c b C (D (E (d d (a a a a b a))))
+------------------------------------------------------------
+A B c b C (D (E (d d (a a a a b a))))
+A B c b C (D (E (b (c (a a a a b a) d c) b)))
+A B c b C (D (E (b (c (c a d c a) d c) b)))
+A B c b C (D (E (b (c (d a a a d d) d c) b)))
+A B c b C (D (E (b (c (b (c a a c) b a d d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c d) d c) b)))
+A B c b C (D (E (b (c (b (c c d c) b d d c d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c c d) d c) b)))
+A B c b C (D (E (b (c (b (c c d c) b d d c c d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c c c d) d c) b)))
+A B c b C (D (E (b (c (b (c c d c) b d d c c c d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c c c c d) d c) b)))
+A B c b C (D (E (b (c (b (c c d c) b d d c c c c d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c c c c c d) d c) b)))
+A B c b C (D (E (b (c (b (c c d c) b d d c c c c c d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (b (c c d c) b d d c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (b (c c d c) b d d c c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c c c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (b (c c d c) b d d c c c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c c c c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (b (c c d c) b d d c c c c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c c c c c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (b (c c d c) b d d c c c c c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c c c c c c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (b (c c d c) b d d c c c c c c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c c c c c c c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (b (c c d c) b d d c c c c c c c c c c c c d) d c) b)))
+A B c b C (D (E (b (c (d d c d d c c c c c c c c c c c c c d) d c) b)))
+
+

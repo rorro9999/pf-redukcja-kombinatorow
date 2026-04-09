@@ -1,0 +1,38 @@
+a f e g = c (c d (e f)) e
+b g h e f = c d c d d e
+c e = e d b
+d f e = c (c f c)
+main = A (B C D b b a) (d (c d) E (F c G c))
+------------------------------------------------------------
+A (B C D b b a) (d (c d) E (F c G c))
+A (B C D b b a) (c (c (c d) c) (F c G c))
+A (B C D b b a) (c (c d) c d b (F c G c))
+A (B C D b b a) (c d d b c d b (F c G c))
+A (B C D b b a) (d d b d b c d b (F c G c))
+A (B C D b b a) (c (c d c) d b c d b (F c G c))
+A (B C D b b a) (c d c d b d b c d b (F c G c))
+A (B C D b b a) (d d b c d b d b c d b (F c G c))
+A (B C D b b a) (c (c d c) c d b d b c d b (F c G c))
+A (B C D b b a) (c d c d b c d b d b c d b (F c G c))
+A (B C D b b a) (d d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c (c d c) c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c d c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (d d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c (c d c) c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c d c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (d d b c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c (c d c) c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c d c d b c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (d d b c d b c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c (c d c) c d b c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c d c d b c d b c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (d d b c d b c d b c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c (c d c) c d b c d b c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c d c d b c d b c d b c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (d d b c d b c d b c d b c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c (c d c) c d b c d b c d b c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c d c d b c d b c d b c d b c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (d d b c d b c d b c d b c d b c d b c d b c d b c d b d b c d b (F c G c))
+A (B C D b b a) (c (c d c) c d b c d b c d b c d b c d b c d b c d b c d b d b c d b (F c G c))
+
+

@@ -1,0 +1,38 @@
+a e f = f d d b (d b)
+b f h e g = a a c d d c
+c f e = a f d d e
+d g f e h = a c a
+main = A (b d) b (a a (b B) a) C d d D E F
+------------------------------------------------------------
+A (b d) b (a a (b B) a) C d d D E F
+A (b d) b (b B d d b (d b) a) C d d D E F
+A (b d) b (a a c d d c (d b) a) C d d D E F
+A (b d) b (c d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a d d d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (d d d b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a c a d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a d d b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (d d d b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a c a b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a d d b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (d d d b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a c a b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a d d b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (d d d b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a c a b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a d d b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (d d d b (d b) b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a c a b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a d d b (d b) b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (d d d b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a c a b (d b) b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a d d b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (d d d b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a c a b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a d d b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (d d d b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a c a b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (a d d b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+A (b d) b (d d d b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) b (d b) d d b (d b) d d c (d b) a) C d d D E F
+
+

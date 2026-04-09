@@ -1,0 +1,39 @@
+e g f i h = a d d d
+main = c (a a A B c b) b e a C (D c c e)
+c f g i h = a h (g i a) b g
+a h g i f = b d b d c
+d f g = c b c e f g f
+b g f = c f e g c c f
+------------------------------------------------------------
+c (a a A B c b) b e a C (D c c e)
+a a (b e a) b b C (D c c e)
+b d b d c C (D c c e)
+c b e d c c b d c C (D c c e)
+a c (e d a) b e c b d c C (D c c e)
+b d b d c c b d c C (D c c e)
+c b e d c c b d c c b d c C (D c c e)
+a c (e d a) b e c b d c c b d c C (D c c e)
+b d b d c c b d c c b d c C (D c c e)
+c b e d c c b d c c b d c c b d c C (D c c e)
+a c (e d a) b e c b d c c b d c c b d c C (D c c e)
+b d b d c c b d c c b d c c b d c C (D c c e)
+c b e d c c b d c c b d c c b d c c b d c C (D c c e)
+a c (e d a) b e c b d c c b d c c b d c c b d c C (D c c e)
+b d b d c c b d c c b d c c b d c c b d c C (D c c e)
+c b e d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+a c (e d a) b e c b d c c b d c c b d c c b d c c b d c C (D c c e)
+b d b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+c b e d c c b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+a c (e d a) b e c b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+b d b d c c b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+c b e d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+a c (e d a) b e c b d c c b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+b d b d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+c b e d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+a c (e d a) b e c b d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+b d b d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+c b e d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+a c (e d a) b e c b d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+b d b d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c c b d c C (D c c e)
+
+

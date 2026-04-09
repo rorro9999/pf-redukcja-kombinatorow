@@ -1,0 +1,39 @@
+a h g f = d g b d
+d f = e (f b c f)
+c g h f = g b h h d
+e h i g f = b c (a a c)
+main = b e (c e A c a c e d B a b) c c
+b i f g h = d (e e h e)
+------------------------------------------------------------
+b e (c e A c a c e d B a b) c c
+d (e e c e)
+e (e e c e b c (e e c e))
+e (b c (a a c) c (e e c e))
+e (d (e e (e e c e) e))
+e (e (e e (e e c e) e b c (e e (e e c e) e)))
+e (e (b c (a a c) c (e e (e e c e) e)))
+e (e (d (e e (e e (e e c e) e) e)))
+e (e (e (e e (e e (e e c e) e) e b c (e e (e e (e e c e) e) e))))
+e (e (e (b c (a a c) c (e e (e e (e e c e) e) e))))
+e (e (e (d (e e (e e (e e (e e c e) e) e) e))))
+e (e (e (e (e e (e e (e e (e e c e) e) e) e b c (e e (e e (e e (e e c e) e) e) e)))))
+e (e (e (e (b c (a a c) c (e e (e e (e e (e e c e) e) e) e)))))
+e (e (e (e (d (e e (e e (e e (e e (e e c e) e) e) e) e)))))
+e (e (e (e (e (e e (e e (e e (e e (e e c e) e) e) e) e b c (e e (e e (e e (e e (e e c e) e) e) e) e))))))
+e (e (e (e (e (b c (a a c) c (e e (e e (e e (e e (e e c e) e) e) e) e))))))
+e (e (e (e (e (d (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e))))))
+e (e (e (e (e (e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e b c (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e)))))))
+e (e (e (e (e (e (b c (a a c) c (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e)))))))
+e (e (e (e (e (e (d (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e)))))))
+e (e (e (e (e (e (e (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e b c (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e))))))))
+e (e (e (e (e (e (e (b c (a a c) c (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e))))))))
+e (e (e (e (e (e (e (d (e e (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e) e))))))))
+e (e (e (e (e (e (e (e (e e (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e) e b c (e e (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e) e)))))))))
+e (e (e (e (e (e (e (e (b c (a a c) c (e e (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e) e)))))))))
+e (e (e (e (e (e (e (e (d (e e (e e (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e) e) e)))))))))
+e (e (e (e (e (e (e (e (e (e e (e e (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e) e) e b c (e e (e e (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e) e) e))))))))))
+e (e (e (e (e (e (e (e (e (b c (a a c) c (e e (e e (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e) e) e))))))))))
+e (e (e (e (e (e (e (e (e (d (e e (e e (e e (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e) e) e) e))))))))))
+e (e (e (e (e (e (e (e (e (e (e e (e e (e e (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e) e) e) e b c (e e (e e (e e (e e (e e (e e (e e (e e (e e (e e c e) e) e) e) e) e) e) e) e) e)))))))))))
+
+

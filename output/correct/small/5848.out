@@ -1,0 +1,39 @@
+main = A (e d d b d c d a) d a B (C e D)
+b i h f g = a a e d c
+c h f g = d (d e a) e
+d g f = c b g g g
+e g f = f b g f c
+a f h g = b b h h b c h
+------------------------------------------------------------
+A (e d d b d c d a) d a B (C e D)
+A (d b d d c b d c d a) d a B (C e D)
+A (c b b b b d c b d c d a) d a B (C e D)
+A (d (d e a) e b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (c b (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+A (d (d e a) e (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) (d e a) b d c b d c d a) d a B (C e D)
+
+

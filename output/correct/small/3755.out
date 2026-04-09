@@ -1,0 +1,38 @@
+a f e h g = c h
+b g f e = a (a c e c) c
+c e = d d d b a
+d h g f e = b b e g a
+main = A B (C (D E (c c F G d b c H c c)))
+------------------------------------------------------------
+A B (C (D E (c c F G d b c H c c)))
+A B (C (D E (d d d b a F G d b c H c c)))
+A B (C (D E (b b a d a F G d b c H c c)))
+A B (C (D E (a (a c d c) c a F G d b c H c c)))
+A B (C (D E (c a G d b c H c c)))
+A B (C (D E (d d d b a G d b c H c c)))
+A B (C (D E (b b a d a G d b c H c c)))
+A B (C (D E (a (a c d c) c a G d b c H c c)))
+A B (C (D E (c a d b c H c c)))
+A B (C (D E (d d d b a d b c H c c)))
+A B (C (D E (b b a d a d b c H c c)))
+A B (C (D E (a (a c d c) c a d b c H c c)))
+A B (C (D E (c a b c H c c)))
+A B (C (D E (d d d b a b c H c c)))
+A B (C (D E (b b a d a b c H c c)))
+A B (C (D E (a (a c d c) c a b c H c c)))
+A B (C (D E (c a c H c c)))
+A B (C (D E (d d d b a c H c c)))
+A B (C (D E (b b a d a c H c c)))
+A B (C (D E (a (a c d c) c a c H c c)))
+A B (C (D E (c a H c c)))
+A B (C (D E (d d d b a H c c)))
+A B (C (D E (b b a d a H c c)))
+A B (C (D E (a (a c d c) c a H c c)))
+A B (C (D E (c a c c)))
+A B (C (D E (d d d b a c c)))
+A B (C (D E (b b a d a c c)))
+A B (C (D E (a (a c d c) c a c c)))
+A B (C (D E (c a c)))
+A B (C (D E (d d d b a c)))
+
+

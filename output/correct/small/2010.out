@@ -1,0 +1,38 @@
+a = d b b (b b d)
+b e g f = a (a (a a e f))
+c f h g e = b a (a a) d a
+d g e f = c g b g a
+main = d (A c c a a B C D E a c F) G H
+------------------------------------------------------------
+d (A c c a a B C D E a c F) G H
+c (A c c a a B C D E a c F) b (A c c a a B C D E a c F) a
+b a (a a) d a
+a (a (a a a d)) a
+d b b (b b d) (a (a a a d)) a
+c b b b a (a (a a a d)) a
+b a (a a) d a (a (a a a d)) a
+a (a (a a a d)) a (a (a a a d)) a
+d b b (b b d) (a (a a a d)) a (a (a a a d)) a
+c b b b a (a (a a a d)) a (a (a a a d)) a
+b a (a a) d a (a (a a a d)) a (a (a a a d)) a
+a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+d b b (b b d) (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+c b b b a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+b a (a a) d a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+d b b (b b d) (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+c b b b a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+b a (a a) d a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+d b b (b b d) (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+c b b b a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+b a (a a) d a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+d b b (b b d) (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+c b b b a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+b a (a a) d a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+d b b (b b d) (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+c b b b a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a (a (a a a d)) a
+
+

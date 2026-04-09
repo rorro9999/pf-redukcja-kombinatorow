@@ -1,0 +1,38 @@
+a e h f g = d d
+b e = c a d
+c e f g = d g (d d) d
+d e = c b (c a) e
+main = b A d B d (C D (a (E d F G c H c)))
+------------------------------------------------------------
+b A d B d (C D (a (E d F G c H c)))
+c a d d B d (C D (a (E d F G c H c)))
+d d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+d d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+c b (c a) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d (d d) d B d (C D (a (E d F G c H c)))
+
+

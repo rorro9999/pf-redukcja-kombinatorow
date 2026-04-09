@@ -1,0 +1,39 @@
+c i g h f = b h b i f h
+b = c a d e
+d g i h f = i g f a c b e
+main = A (d (B C (d (D E F (b G e) e e b H))))
+e g i f h = b (a c a)
+a g i h f = e g b c b
+------------------------------------------------------------
+A (d (B C (d (D E F (b G e) e e b H))))
+A (d (B C (d (D E F (c a d e G e) e e b H))))
+A (d (B C (d (D E F (b e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (b e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+A (d (B C (d (D E F (c a d e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a e e b a G e e) e e b H))))
+
+

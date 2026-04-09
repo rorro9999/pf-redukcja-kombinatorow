@@ -1,0 +1,39 @@
+main = b A d (d (B d (c b d (C e a c) e d)))
+e h f g i = g b i (c c i) b
+a g f = e c b f
+c g h f = a e a b b e
+d g f h i = e a b (a c) b
+b g f h i = c c (f i c c) c
+------------------------------------------------------------
+b A d (d (B d (c b d (C e a c) e d)))
+b A d (d (B d (a e a b b e e d)))
+b A d (d (B d (e c b a b b e e d)))
+b A d (d (B d (a b b (c c b) b b e e d)))
+b A d (d (B d (e c b b (c c b) b b e e d)))
+b A d (d (B d (b b (c c b) (c c (c c b)) b b b e e d)))
+b A d (d (B d (c c (c c b b c c) c b b e e d)))
+b A d (d (B d (a e a b b e b b e e d)))
+b A d (d (B d (e c b a b b e b b e e d)))
+b A d (d (B d (a b b (c c b) b b e b b e e d)))
+b A d (d (B d (e c b b (c c b) b b e b b e e d)))
+b A d (d (B d (b b (c c b) (c c (c c b)) b b b e b b e e d)))
+b A d (d (B d (c c (c c b b c c) c b b e b b e e d)))
+b A d (d (B d (a e a b b e b b e b b e e d)))
+b A d (d (B d (e c b a b b e b b e b b e e d)))
+b A d (d (B d (a b b (c c b) b b e b b e b b e e d)))
+b A d (d (B d (e c b b (c c b) b b e b b e b b e e d)))
+b A d (d (B d (b b (c c b) (c c (c c b)) b b b e b b e b b e e d)))
+b A d (d (B d (c c (c c b b c c) c b b e b b e b b e e d)))
+b A d (d (B d (a e a b b e b b e b b e b b e e d)))
+b A d (d (B d (e c b a b b e b b e b b e b b e e d)))
+b A d (d (B d (a b b (c c b) b b e b b e b b e b b e e d)))
+b A d (d (B d (e c b b (c c b) b b e b b e b b e b b e e d)))
+b A d (d (B d (b b (c c b) (c c (c c b)) b b b e b b e b b e b b e e d)))
+b A d (d (B d (c c (c c b b c c) c b b e b b e b b e b b e e d)))
+b A d (d (B d (a e a b b e b b e b b e b b e b b e e d)))
+b A d (d (B d (e c b a b b e b b e b b e b b e b b e e d)))
+b A d (d (B d (a b b (c c b) b b e b b e b b e b b e b b e e d)))
+b A d (d (B d (e c b b (c c b) b b e b b e b b e b b e b b e e d)))
+b A d (d (B d (b b (c c b) (c c (c c b)) b b b e b b e b b e b b e b b e e d)))
+
+

@@ -1,0 +1,16 @@
+a f e = b b c c
+b f g h e = e h g c h e
+c e f g = e a g
+d = c c b b
+main = a A d B a C (d b D) E a c (F G d)
+------------------------------------------------------------
+a A d B a C (d b D) E a c (F G d)
+b b c c B a C (d b D) E a c (F G d)
+B c c c c B a C (d b D) E a c (F G d)
+B c c c c B a C (c c b b b D) E a c (F G d)
+B c c c c B a C (c a b b D) E a c (F G d)
+B c c c c B a C (a a b D) E a c (F G d)
+B c c c c B a C (b b c c D) E a c (F G d)
+B c c c c B a C (D c c c c D) E a c (F G d)
+
+

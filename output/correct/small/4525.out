@@ -1,0 +1,39 @@
+c g f i h = e (d a a) f
+e i g h f = b a b c b
+d h g f i = i c
+b g h f = g a c g c h
+main = c A b e B C D E d F c (G d e a)
+a g i h f = d h d g e c
+------------------------------------------------------------
+c A b e B C D E d F c (G d e a)
+e (d a a) b C D E d F c (G d e a)
+b a b c b E d F c (G d e a)
+a a c a c b b E d F c (G d e a)
+d a d a e c b b E d F c (G d e a)
+e c c b b E d F c (G d e a)
+b a b c b E d F c (G d e a)
+a a c a c b b E d F c (G d e a)
+d a d a e c b b E d F c (G d e a)
+e c c b b E d F c (G d e a)
+b a b c b E d F c (G d e a)
+a a c a c b b E d F c (G d e a)
+d a d a e c b b E d F c (G d e a)
+e c c b b E d F c (G d e a)
+b a b c b E d F c (G d e a)
+a a c a c b b E d F c (G d e a)
+d a d a e c b b E d F c (G d e a)
+e c c b b E d F c (G d e a)
+b a b c b E d F c (G d e a)
+a a c a c b b E d F c (G d e a)
+d a d a e c b b E d F c (G d e a)
+e c c b b E d F c (G d e a)
+b a b c b E d F c (G d e a)
+a a c a c b b E d F c (G d e a)
+d a d a e c b b E d F c (G d e a)
+e c c b b E d F c (G d e a)
+b a b c b E d F c (G d e a)
+a a c a c b b E d F c (G d e a)
+d a d a e c b b E d F c (G d e a)
+e c c b b E d F c (G d e a)
+
+

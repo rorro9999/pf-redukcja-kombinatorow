@@ -1,0 +1,37 @@
+a d = d d b
+b d f e = c (a c)
+c = b b a a
+main = a A (a B (C b)) D (c E) c
+------------------------------------------------------------
+a A (a B (C b)) D (c E) c
+A A b (a B (C b)) D (c E) c
+A A b (B B b (C b)) D (c E) c
+A A b (B B b (C b)) D (b b a a E) c
+A A b (B B b (C b)) D (c (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) E) c
+A A b (B B b (C b)) D (c (a c) (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) (a c) E) c
+A A b (B B b (C b)) D (c (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (c (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (c (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (c (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (c (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (c (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (c (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (c (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (c (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (c (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (c (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+A A b (B B b (C b)) D (b b a a (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) (a c) E) c
+
+

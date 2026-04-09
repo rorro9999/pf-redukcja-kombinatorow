@@ -1,0 +1,18 @@
+a = c
+b e f d = c a a f
+c d e = b b
+main = b A (B C c) D E F G H
+------------------------------------------------------------
+b A (B C c) D E F G H
+c a a (B C c) E F G H
+b b (B C c) E F G H
+c a a (B C c) F G H
+b b (B C c) F G H
+c a a (B C c) G H
+b b (B C c) G H
+c a a (B C c) H
+b b (B C c) H
+c a a (B C c)
+b b (B C c)
+
+

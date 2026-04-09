@@ -1,0 +1,39 @@
+e g h f i = g g f c (b g)
+main = b b c a (a e (A d d) c) B C a b a
+d f = b e b f a f f
+a f h i g = e e d d e
+b h g f i = d d (e d c c a)
+c f h g i = a e d d d (e e)
+------------------------------------------------------------
+b b c a (a e (A d d) c) B C a b a
+d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+b e b d a d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) d d (e d c c a) B C a b a
+
+

@@ -1,0 +1,38 @@
+a e = c b b b c
+b f h e g = c a a d d c
+c e f = b d b
+d f g e h = c c h
+main = A B c (a a C d d) a b a D E c F
+------------------------------------------------------------
+A B c (a a C d d) a b a D E c F
+A B c (c b b b c C d d) a b a D E c F
+A B c (b d b b c C d d) a b a D E c F
+A B c (c a a d d c C d d) a b a D E c F
+A B c (b d b d d c C d d) a b a D E c F
+A B c (c a a d d c c C d d) a b a D E c F
+A B c (b d b d d c c C d d) a b a D E c F
+A B c (c a a d d c c c C d d) a b a D E c F
+A B c (b d b d d c c c C d d) a b a D E c F
+A B c (c a a d d c c c c C d d) a b a D E c F
+A B c (b d b d d c c c c C d d) a b a D E c F
+A B c (c a a d d c c c c c C d d) a b a D E c F
+A B c (b d b d d c c c c c C d d) a b a D E c F
+A B c (c a a d d c c c c c c C d d) a b a D E c F
+A B c (b d b d d c c c c c c C d d) a b a D E c F
+A B c (c a a d d c c c c c c c C d d) a b a D E c F
+A B c (b d b d d c c c c c c c C d d) a b a D E c F
+A B c (c a a d d c c c c c c c c C d d) a b a D E c F
+A B c (b d b d d c c c c c c c c C d d) a b a D E c F
+A B c (c a a d d c c c c c c c c c C d d) a b a D E c F
+A B c (b d b d d c c c c c c c c c C d d) a b a D E c F
+A B c (c a a d d c c c c c c c c c c C d d) a b a D E c F
+A B c (b d b d d c c c c c c c c c c C d d) a b a D E c F
+A B c (c a a d d c c c c c c c c c c c C d d) a b a D E c F
+A B c (b d b d d c c c c c c c c c c c C d d) a b a D E c F
+A B c (c a a d d c c c c c c c c c c c c C d d) a b a D E c F
+A B c (b d b d d c c c c c c c c c c c c C d d) a b a D E c F
+A B c (c a a d d c c c c c c c c c c c c c C d d) a b a D E c F
+A B c (b d b d d c c c c c c c c c c c c c C d d) a b a D E c F
+A B c (c a a d d c c c c c c c c c c c c c c C d d) a b a D E c F
+
+

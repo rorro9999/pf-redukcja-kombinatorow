@@ -1,0 +1,20 @@
+a f e = b e d d
+b e f = d e
+c = b (a b a d) b
+d e f = a (e c b)
+main = A d a d B (b C b D c a (E d F b))
+------------------------------------------------------------
+A d a d B (b C b D c a (E d F b))
+A d a d B (d C D c a (E d F b))
+A d a d B (a (C c b) c a (E d F b))
+A d a d B (b c d d a (E d F b))
+A d a d B (d c d a (E d F b))
+A d a d B (a (c c b) a (E d F b))
+A d a d B (b a d d (E d F b))
+A d a d B (d a d (E d F b))
+A d a d B (a (a c b) (E d F b))
+A d a d B (b (E d F b) d d)
+A d a d B (d (E d F b) d)
+A d a d B (a (E d F b c b))
+
+

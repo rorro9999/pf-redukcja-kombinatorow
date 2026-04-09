@@ -1,0 +1,37 @@
+a = b b c
+b = c
+c d = b b d
+main = c a A a B c C D a E
+------------------------------------------------------------
+c a A a B c C D a E
+b b a A a B c C D a E
+c b a A a B c C D a E
+b b b a A a B c C D a E
+c b b a A a B c C D a E
+b b b b a A a B c C D a E
+c b b b a A a B c C D a E
+b b b b b a A a B c C D a E
+c b b b b a A a B c C D a E
+b b b b b b a A a B c C D a E
+c b b b b b a A a B c C D a E
+b b b b b b b a A a B c C D a E
+c b b b b b b a A a B c C D a E
+b b b b b b b b a A a B c C D a E
+c b b b b b b b a A a B c C D a E
+b b b b b b b b b a A a B c C D a E
+c b b b b b b b b a A a B c C D a E
+b b b b b b b b b b a A a B c C D a E
+c b b b b b b b b b a A a B c C D a E
+b b b b b b b b b b b a A a B c C D a E
+c b b b b b b b b b b a A a B c C D a E
+b b b b b b b b b b b b a A a B c C D a E
+c b b b b b b b b b b b a A a B c C D a E
+b b b b b b b b b b b b b a A a B c C D a E
+c b b b b b b b b b b b b a A a B c C D a E
+b b b b b b b b b b b b b b a A a B c C D a E
+c b b b b b b b b b b b b b a A a B c C D a E
+b b b b b b b b b b b b b b b a A a B c C D a E
+c b b b b b b b b b b b b b b a A a B c C D a E
+b b b b b b b b b b b b b b b b a A a B c C D a E
+
+

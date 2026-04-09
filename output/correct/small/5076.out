@@ -1,0 +1,39 @@
+main = a A a d B C (D (a E F G H I e b))
+a h i g f = e c e g i c
+d h i g f = a e a f b a
+c g i f h = f b d b a
+b i g f h = a i (a a g d)
+e f i g h = d a a c i b a
+------------------------------------------------------------
+a A a d B C (D (a E F G H I e b))
+e c e d a c C (D (a E F G H I e b))
+d a a c e b a c C (D (a E F G H I e b))
+a e a e b a b a c C (D (a E F G H I e b))
+e c e e a c a b a c C (D (a E F G H I e b))
+d a a c e b a c a b a c C (D (a E F G H I e b))
+a e a e b a b a c a b a c C (D (a E F G H I e b))
+e c e e a c a b a c a b a c C (D (a E F G H I e b))
+d a a c e b a c a b a c a b a c C (D (a E F G H I e b))
+a e a e b a b a c a b a c a b a c C (D (a E F G H I e b))
+e c e e a c a b a c a b a c a b a c C (D (a E F G H I e b))
+d a a c e b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+a e a e b a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+e c e e a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+d a a c e b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+a e a e b a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+e c e e a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+d a a c e b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+a e a e b a b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+e c e e a c a b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+d a a c e b a c a b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+a e a e b a b a c a b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+e c e e a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+d a a c e b a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+a e a e b a b a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+e c e e a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+d a a c e b a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+a e a e b a b a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+e c e e a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+d a a c e b a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c a b a c C (D (a E F G H I e b))
+
+

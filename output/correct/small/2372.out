@@ -1,0 +1,38 @@
+a f g e = e d d (f c)
+b f e = e c c
+c f e g = a f
+d e = a b a b
+main = b c d a d A B C d c (d b (D b)) E
+------------------------------------------------------------
+b c d a d A B C d c (d b (D b)) E
+d c c a d A B C d c (d b (D b)) E
+a b a b c a d A B C d c (d b (D b)) E
+b d d (b c) c a d A B C d c (d b (D b)) E
+d c c (b c) c a d A B C d c (d b (D b)) E
+a b a b c (b c) c a d A B C d c (d b (D b)) E
+b d d (b c) c (b c) c a d A B C d c (d b (D b)) E
+d c c (b c) c (b c) c a d A B C d c (d b (D b)) E
+a b a b c (b c) c (b c) c a d A B C d c (d b (D b)) E
+b d d (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+d c c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+a b a b c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+b d d (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+d c c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+a b a b c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+b d d (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+d c c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+a b a b c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+b d d (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+d c c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+a b a b c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+b d d (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+d c c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+a b a b c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+b d d (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+d c c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+a b a b c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+b d d (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+d c c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+a b a b c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c (b c) c a d A B C d c (d b (D b)) E
+
+

@@ -1,0 +1,16 @@
+e f g h = b b d a
+main = e (c d a a) A c c d B b d a c e
+b f i g h = e c
+c g f i h = e (a e)
+d h f g i = g b e b b c e
+a h g f = b d e d d g b
+------------------------------------------------------------
+e (c d a a) A c c d B b d a c e
+b b d a c d B b d a c e
+e c d B b d a c e
+b b d a b d a c e
+e c d a c e
+b b d a c e
+e c e
+
+

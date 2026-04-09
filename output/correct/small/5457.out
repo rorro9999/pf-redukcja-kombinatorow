@@ -1,0 +1,14 @@
+e i g f h = a c a a
+a h i g f = b (i f e) c h
+c i h g f = d
+d f = c e (c f) f
+main = b a (A b c d (e (b e (B d e) b a C)))
+b h g f = c h h f d
+------------------------------------------------------------
+b a (A b c d (e (b e (B d e) b a C)))
+b a (A b c d (e (c e e b d a C)))
+b a (A b c d (e (d a C)))
+b a (A b c d (e (c e (c a) a C)))
+b a (A b c d (e d))
+
+

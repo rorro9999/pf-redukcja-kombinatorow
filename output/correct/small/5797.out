@@ -1,0 +1,39 @@
+main = a c A B a d a b C c a b D c E
+a f h g = b d b b
+b g f h = h h a f c
+e g f h = g c
+d g h f = c c (c a e)
+c f g = e (e d a) e g
+------------------------------------------------------------
+a c A B a d a b C c a b D c E
+b d b b a d a b C c a b D c E
+b b a b c a d a b C c a b D c E
+b b a a c c a d a b C c a b D c E
+a a a a c c c a d a b C c a b D c E
+b d b b c c c a d a b C c a b D c E
+b b a b c c c c a d a b C c a b D c E
+b b a a c c c c c a d a b C c a b D c E
+a a a a c c c c c c a d a b C c a b D c E
+b d b b c c c c c c a d a b C c a b D c E
+b b a b c c c c c c c a d a b C c a b D c E
+b b a a c c c c c c c c a d a b C c a b D c E
+a a a a c c c c c c c c c a d a b C c a b D c E
+b d b b c c c c c c c c c a d a b C c a b D c E
+b b a b c c c c c c c c c c a d a b C c a b D c E
+b b a a c c c c c c c c c c c a d a b C c a b D c E
+a a a a c c c c c c c c c c c c a d a b C c a b D c E
+b d b b c c c c c c c c c c c c a d a b C c a b D c E
+b b a b c c c c c c c c c c c c c a d a b C c a b D c E
+b b a a c c c c c c c c c c c c c c a d a b C c a b D c E
+a a a a c c c c c c c c c c c c c c c a d a b C c a b D c E
+b d b b c c c c c c c c c c c c c c c a d a b C c a b D c E
+b b a b c c c c c c c c c c c c c c c c a d a b C c a b D c E
+b b a a c c c c c c c c c c c c c c c c c a d a b C c a b D c E
+a a a a c c c c c c c c c c c c c c c c c c a d a b C c a b D c E
+b d b b c c c c c c c c c c c c c c c c c c a d a b C c a b D c E
+b b a b c c c c c c c c c c c c c c c c c c c a d a b C c a b D c E
+b b a a c c c c c c c c c c c c c c c c c c c c a d a b C c a b D c E
+a a a a c c c c c c c c c c c c c c c c c c c c c a d a b C c a b D c E
+b d b b c c c c c c c c c c c c c c c c c c c c c a d a b C c a b D c E
+
+

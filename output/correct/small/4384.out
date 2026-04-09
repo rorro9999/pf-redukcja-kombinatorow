@@ -1,0 +1,39 @@
+c i f g h = e e a h d e i
+main = e e e A c (B C D e d E d a a) F
+b i g h f = c d c a (c a) c
+d g f = c b a g
+a f h g = g f g
+e f g h = a (d a c g)
+------------------------------------------------------------
+e e e A c (B C D e d E d a a) F
+a (d a c e) c (B C D e d E d a a) F
+B C D e d E d a a (d a c e) (B C D e d E d a a) F
+B C D e d E d a a (c b a a e) (B C D e d E d a a) F
+B C D e d E d a a (e e a e d e b) (B C D e d E d a a) F
+B C D e d E d a a (a (d a c a) d e b) (B C D e d E d a a) F
+B C D e d E d a a (e (d a c a) e b) (B C D e d E d a a) F
+B C D e d E d a a (a (d a c e)) (B C D e d E d a a) F
+B C D e d E d a a (a (c b a a e)) (B C D e d E d a a) F
+B C D e d E d a a (a (e e a e d e b)) (B C D e d E d a a) F
+B C D e d E d a a (a (a (d a c a) d e b)) (B C D e d E d a a) F
+B C D e d E d a a (a (e (d a c a) e b)) (B C D e d E d a a) F
+B C D e d E d a a (a (a (d a c e))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (c b a a e))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (e e a e d e b))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (d a c a) d e b))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (e (d a c a) e b))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (d a c e)))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (c b a a e)))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (e e a e d e b)))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (a (d a c a) d e b)))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (e (d a c a) e b)))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (a (d a c e))))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (a (c b a a e))))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (a (e e a e d e b))))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (a (a (d a c a) d e b))))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (a (e (d a c a) e b))))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (a (a (d a c e)))))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (a (a (c b a a e)))))) (B C D e d E d a a) F
+B C D e d E d a a (a (a (a (a (a (e e a e d e b)))))) (B C D e d E d a a) F
+
+

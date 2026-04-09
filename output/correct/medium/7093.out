@@ -1,0 +1,64 @@
+a = n ad x ac
+b af ae = q v l z k t e ad
+c ag af ah ai ae aj = t t o x j x i d t y v
+d af ag ae = ac (l r ab ae p n f) a t s ag ab
+e af ae = ab a
+f ae = a g
+g ag af ae = o (ac (j k z n i j r ac d d h v) ac s d)
+h af ae = g (n a j o a r d r i)
+i ag af ae ah = aa (s ac y)
+j = m e e
+k af ag ae = d (q i r r e w h r b q)
+l ah ae af ai ag = j (aa ai t z q q r) h w i ac b j x ac j ac
+m ae = y (t (n (s q s g w y e k b n ab) ad r s aa))
+n ae = k w m k d
+o ae = e (z m (n w l s k) s aa ab) aa w l s
+p ae ag ai af ah = d (o (h f n k g h) l g ab t r n) i u
+q af ae = t (h (r f x ac d ab m n d x c y g r ad m))
+r ae = z (b (y f b z) aa ad ab h z i v e h y)
+s ah ae ag ai af = aa (t ag h y v j r r x ae r c f ab u)
+t af ag ae = b z w v v d m ac
+u ag af ah ae = h (c (t aa ac d)) p
+v ae af ag = f x t n o
+w = i (ab m aa e i ab t d z d d y aa u j u b)
+x ae af ag = ab (ae ab b p ac p k) j d a
+y ae ag af = v k ae p ad c j j k aa
+z ai ah af ag ae = d (ac (n h n o d ae p p h t p ac u) q)
+aa = t (e (j j z a o d r r j)) p w ac ad b l
+ab ae af = r (s e af k p z m m ac) j l y
+ac ae = g (p ae (ab (q (x g i v v ae i ae) g)))
+ad af ag ae ah = b (ah (b m h r q af b))
+main = g (t (A (B (C (D (e (n (z (w (h o E F b b u d e G aa h H s f m I J i y c u r ad c K c) L o M N O n s ad P g k Q a R S T U V W b aa n b u a w p s X Y Z AA f AB AC o AD AE v AF AG ad f a AH j AI s AJ i aa AK AL AM b b) c a AN AO ad e) AP)))))))
+------------------------------------------------------------
+g (t (A (B (C (D (e (n (z (w (h o E F b b u d e G aa h H s f m I J i y c u r ad c K c) L o M N O n s ad P g k Q a R S T U V W b aa n b u a w p s X Y Z AA f AB AC o AD AE v AF AG ad f a AH j AI s AJ i aa AK AL AM b b) c a AN AO ad e) AP)))))))
+g (t (A (B (C (D (e (k w m k d AP)))))))
+g (t (A (B (C (D (e (d (q i r r e w h r b q) d AP)))))))
+g (t (A (B (C (D (e (ac (l r ab AP p n f) a t s d ab)))))))
+g (t (A (B (C (D (e (g (p (l r ab AP p n f) (ab (q (x g i v v (l r ab AP p n f) i (l r ab AP p n f)) g))) a t s d ab)))))))
+g (t (A (B (C (D (e (o (ac (j k z n i j r ac d d h v) ac s d) s d ab)))))))
+g (t (A (B (C (D (e (e (z m (n w l s k) s aa ab) aa w l s s d ab)))))))
+g (t (A (B (C (D (e (ab a w l s s d ab)))))))
+g (t (A (B (C (D (e (r (s e w k p z m m ac) j l y l s s d ab)))))))
+g (t (A (B (C (D (e (z (b (y f b z) aa ad ab h z i v e h y) j l y l s s d ab)))))))
+g (t (A (B (C (D (e (d (ac (n h n o d l p p h t p ac u) q) s s d ab)))))))
+g (t (A (B (C (D (e (ac (l r ab s p n f) a t s s ab d ab)))))))
+g (t (A (B (C (D (e (g (p (l r ab s p n f) (ab (q (x g i v v (l r ab s p n f) i (l r ab s p n f)) g))) a t s s ab d ab)))))))
+g (t (A (B (C (D (e (o (ac (j k z n i j r ac d d h v) ac s d) s s ab d ab)))))))
+g (t (A (B (C (D (e (e (z m (n w l s k) s aa ab) aa w l s s s ab d ab)))))))
+g (t (A (B (C (D (e (ab a w l s s s ab d ab)))))))
+g (t (A (B (C (D (e (r (s e w k p z m m ac) j l y l s s s ab d ab)))))))
+g (t (A (B (C (D (e (z (b (y f b z) aa ad ab h z i v e h y) j l y l s s s ab d ab)))))))
+g (t (A (B (C (D (e (d (ac (n h n o d l p p h t p ac u) q) s s s ab d ab)))))))
+g (t (A (B (C (D (e (ac (l r ab s p n f) a t s s ab s ab d ab)))))))
+g (t (A (B (C (D (e (g (p (l r ab s p n f) (ab (q (x g i v v (l r ab s p n f) i (l r ab s p n f)) g))) a t s s ab s ab d ab)))))))
+g (t (A (B (C (D (e (o (ac (j k z n i j r ac d d h v) ac s d) s s ab s ab d ab)))))))
+g (t (A (B (C (D (e (e (z m (n w l s k) s aa ab) aa w l s s s ab s ab d ab)))))))
+g (t (A (B (C (D (e (ab a w l s s s ab s ab d ab)))))))
+g (t (A (B (C (D (e (r (s e w k p z m m ac) j l y l s s s ab s ab d ab)))))))
+g (t (A (B (C (D (e (z (b (y f b z) aa ad ab h z i v e h y) j l y l s s s ab s ab d ab)))))))
+g (t (A (B (C (D (e (d (ac (n h n o d l p p h t p ac u) q) s s s ab s ab d ab)))))))
+g (t (A (B (C (D (e (ac (l r ab s p n f) a t s s ab s ab s ab d ab)))))))
+g (t (A (B (C (D (e (g (p (l r ab s p n f) (ab (q (x g i v v (l r ab s p n f) i (l r ab s p n f)) g))) a t s s ab s ab s ab d ab)))))))
+g (t (A (B (C (D (e (o (ac (j k z n i j r ac d d h v) ac s d) s s ab s ab s ab d ab)))))))
+
+

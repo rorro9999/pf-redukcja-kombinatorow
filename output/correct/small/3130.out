@@ -1,0 +1,16 @@
+a f e h g = d b b e d b
+b f g h e = e g c c
+c = a
+d g h e f = a (f a)
+main = d (d d A) B C D E F c d G c (b a)
+------------------------------------------------------------
+d (d d A) B C D E F c d G c (b a)
+a (D a) E F c d G c (b a)
+d b b E d b d G c (b a)
+a (d a) b d G c (b a)
+d b b b d b c (b a)
+a (d a) b c (b a)
+d b b b d b
+a (d a) b
+
+

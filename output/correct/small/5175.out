@@ -1,0 +1,39 @@
+a i g h f = c d b
+d h f g = a f f a c a
+e g f h = c b c g a d
+b i g h f = d d c c d f
+main = d (A e (B C b c c e) D (c E b d)) b
+c f g = d (b f g) b d b
+------------------------------------------------------------
+d (A e (B C b c c e) D (c E b d)) b
+d (A e (B C b c c e) D (d (b E b) b d b d)) b
+d (A e (B C b c c e) D (a b b a c a b d)) b
+d (A e (B C b c c e) D (c d b a b d)) b
+d (A e (B C b c c e) D (d (b d b) b d b a b d)) b
+d (A e (B C b c c e) D (a b b a c a b a b d)) b
+d (A e (B C b c c e) D (c d b a b a b d)) b
+d (A e (B C b c c e) D (d (b d b) b d b a b a b d)) b
+d (A e (B C b c c e) D (a b b a c a b a b a b d)) b
+d (A e (B C b c c e) D (c d b a b a b a b d)) b
+d (A e (B C b c c e) D (d (b d b) b d b a b a b a b d)) b
+d (A e (B C b c c e) D (a b b a c a b a b a b a b d)) b
+d (A e (B C b c c e) D (c d b a b a b a b a b d)) b
+d (A e (B C b c c e) D (d (b d b) b d b a b a b a b a b d)) b
+d (A e (B C b c c e) D (a b b a c a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (c d b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (d (b d b) b d b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (a b b a c a b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (c d b a b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (d (b d b) b d b a b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (a b b a c a b a b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (c d b a b a b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (d (b d b) b d b a b a b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (a b b a c a b a b a b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (c d b a b a b a b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (d (b d b) b d b a b a b a b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (a b b a c a b a b a b a b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (c d b a b a b a b a b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (d (b d b) b d b a b a b a b a b a b a b a b a b a b d)) b
+d (A e (B C b c c e) D (a b b a c a b a b a b a b a b a b a b a b a b a b d)) b
+
+

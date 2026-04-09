@@ -1,0 +1,38 @@
+a e = d d c b c b
+b e f = a a a a c a
+c e = a e d a e d
+d g e h f = a (b b e)
+main = A (c c d (a B b (c C D E F G d H)))
+------------------------------------------------------------
+A (c c d (a B b (c C D E F G d H)))
+A (a c d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b b b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b b b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b b b b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b b b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b b b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b b b b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b b b b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b b b b b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b b b b b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (d d c b c b b b b b b b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+A (a (b b c) b b b b b b b b b b b b b b d a c d d (a B b (c C D E F G d H)))
+
+

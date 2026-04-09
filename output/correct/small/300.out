@@ -1,0 +1,18 @@
+a d = c
+b = a c a
+c f e d = b
+main = c A a b B C a D a c
+------------------------------------------------------------
+c A a b B C a D a c
+b B C a D a c
+a c a B C a D a c
+c a B C a D a c
+b a D a c
+a c a a D a c
+c a a D a c
+b a c
+a c a a c
+c a a c
+b
+
+

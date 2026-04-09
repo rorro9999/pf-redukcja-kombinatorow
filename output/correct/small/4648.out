@@ -1,0 +1,39 @@
+main = d (a c) A (b e c B b d) (C D (E b d))
+a h g f = c c d e g b d
+e f g = b c g g b
+c g f = e b d e a b e
+d f i h g = a b a h a
+b f h g = d c a a h
+------------------------------------------------------------
+d (a c) A (b e c B b d) (C D (E b d))
+a b a (b e c B b d) a
+c c d e a b d a
+e b d e a b e e a b d a
+b c d d b e a b e e a b d a
+d c a a d b e a b e e a b d a
+a b a a a b e a b e e a b d a
+c c d e a b d a b e a b e e a b d a
+e b d e a b e e a b d a b e a b e e a b d a
+b c d d b e a b e e a b d a b e a b e e a b d a
+d c a a d b e a b e e a b d a b e a b e e a b d a
+a b a a a b e a b e e a b d a b e a b e e a b d a
+c c d e a b d a b e a b e e a b d a b e a b e e a b d a
+e b d e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+b c d d b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+d c a a d b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+a b a a a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+c c d e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+e b d e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+b c d d b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+d c a a d b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+a b a a a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+c c d e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+e b d e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+b c d d b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+d c a a d b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+a b a a a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+c c d e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+e b d e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+b c d d b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a b e a b e e a b d a
+
+

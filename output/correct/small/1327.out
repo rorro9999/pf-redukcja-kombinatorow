@@ -1,0 +1,37 @@
+a = b c b c
+b = a
+c d = b a b b
+main = c A c B a c a a C D
+------------------------------------------------------------
+c A c B a c a a C D
+b a b b c B a c a a C D
+a a b b c B a c a a C D
+b c b c a b b c B a c a a C D
+a c b c a b b c B a c a a C D
+b c b c c b c a b b c B a c a a C D
+a c b c c b c a b b c B a c a a C D
+b c b c c b c c b c a b b c B a c a a C D
+a c b c c b c c b c a b b c B a c a a C D
+b c b c c b c c b c c b c a b b c B a c a a C D
+a c b c c b c c b c c b c a b b c B a c a a C D
+b c b c c b c c b c c b c c b c a b b c B a c a a C D
+a c b c c b c c b c c b c c b c a b b c B a c a a C D
+b c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+a c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+b c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+a c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+b c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+a c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+b c b c c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+a c b c c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+b c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+a c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+b c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+a c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+b c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+a c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+b c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+a c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+b c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c a b b c B a c a a C D
+
+

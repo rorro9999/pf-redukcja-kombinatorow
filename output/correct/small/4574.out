@@ -1,0 +1,39 @@
+c g h f = d f e (d b d)
+d g h f i = g i e b c b g
+e f g h = c c f h c a d
+main = b e A (B c (C D (b E d (b d F b G))))
+b i f g h = d d c d e h
+a f = d f f d f e
+------------------------------------------------------------
+b e A (B c (C D (b E d (b d F b G))))
+b e A (B c (C D (b E d (d d c d e G))))
+b e A (B c (C D (b E d (d e e b c b d G))))
+b e A (B c (C D (b E d (e c e b c b e b d G))))
+b e A (B c (C D (b E d (c c c b c a d c b e b d G))))
+b e A (B c (C D (b E d (d b e (d b d) c a d c b e b d G))))
+b e A (B c (C D (b E d (b c e b c b b a d c b e b d G))))
+b e A (B c (C D (b E d (d d c d e c b b a d c b e b d G))))
+b e A (B c (C D (b E d (d e e b c b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (e c e b c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (c c c b c a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (d b e (d b d) c a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (b c e b c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (d d c d e c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (d e e b c b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (e c e b c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (c c c b c a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (d b e (d b d) c a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (b c e b c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (d d c d e c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (d e e b c b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (e c e b c b e b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (c c c b c a d c b e b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (d b e (d b d) c a d c b e b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (b c e b c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (d d c d e c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (d e e b c b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (e c e b c b e b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (c c c b c a d c b e b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+b e A (B c (C D (b E d (d b e (d b d) c a d c b e b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d c b b a d c b e b d G))))
+
+

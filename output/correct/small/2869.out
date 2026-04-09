@@ -1,0 +1,38 @@
+a e f = f b f c c
+b h e g f = g c d a d
+c f h e g = a (g h) d b h
+d e f g = a (b (b e) b) b
+main = b A (B (c (C (D E F (d G b b a d a)))))
+------------------------------------------------------------
+b A (B (c (C (D E F (d G b b a d a)))))
+b A (B (c (C (D E F (a (b (b G) b) b a d a)))))
+b A (B (c (C (D E F (b b b c c a d a)))))
+b A (B (c (C (D E F (c c d a d a d a)))))
+b A (B (c (C (D E F (a (d d) d b d a d a)))))
+b A (B (c (C (D E F (d b d c c b d a d a)))))
+b A (B (c (C (D E F (a (b (b b) b) b c b d a d a)))))
+b A (B (c (C (D E F (b b b c c c b d a d a)))))
+b A (B (c (C (D E F (c c d a d c b d a d a)))))
+b A (B (c (C (D E F (a (d d) d b d c b d a d a)))))
+b A (B (c (C (D E F (d b d c c b d c b d a d a)))))
+b A (B (c (C (D E F (a (b (b b) b) b c b d c b d a d a)))))
+b A (B (c (C (D E F (b b b c c c b d c b d a d a)))))
+b A (B (c (C (D E F (c c d a d c b d c b d a d a)))))
+b A (B (c (C (D E F (a (d d) d b d c b d c b d a d a)))))
+b A (B (c (C (D E F (d b d c c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (a (b (b b) b) b c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (b b b c c c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (c c d a d c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (a (d d) d b d c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (d b d c c b d c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (a (b (b b) b) b c b d c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (b b b c c c b d c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (c c d a d c b d c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (a (d d) d b d c b d c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (d b d c c b d c b d c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (a (b (b b) b) b c b d c b d c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (b b b c c c b d c b d c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (c c d a d c b d c b d c b d c b d c b d a d a)))))
+b A (B (c (C (D E F (a (d d) d b d c b d c b d c b d c b d c b d a d a)))))
+
+

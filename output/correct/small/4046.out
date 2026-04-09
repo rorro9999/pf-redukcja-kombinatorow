@@ -1,0 +1,39 @@
+e = b d d c
+b f g = a (d f c) d d e
+a h g f i = c c b e c b
+main = d A a e B c a C D b d c E b F
+d h i g f = a b c e e c e
+c f = d a b
+------------------------------------------------------------
+d A a e B c a C D b d c E b F
+a b c e e c e c a C D b d c E b F
+c c b e c b c e c a C D b d c E b F
+d a b b e c b c e c a C D b d c E b F
+a b c e e c e c b c e c a C D b d c E b F
+c c b e c b c e c b c e c a C D b d c E b F
+d a b b e c b c e c b c e c a C D b d c E b F
+a b c e e c e c b c e c b c e c a C D b d c E b F
+c c b e c b c e c b c e c b c e c a C D b d c E b F
+d a b b e c b c e c b c e c b c e c a C D b d c E b F
+a b c e e c e c b c e c b c e c b c e c a C D b d c E b F
+c c b e c b c e c b c e c b c e c b c e c a C D b d c E b F
+d a b b e c b c e c b c e c b c e c b c e c a C D b d c E b F
+a b c e e c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+c c b e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+d a b b e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+a b c e e c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+c c b e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+d a b b e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+a b c e e c e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+c c b e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+d a b b e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+a b c e e c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+c c b e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+d a b b e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+a b c e e c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+c c b e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+d a b b e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+a b c e e c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+c c b e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c b c e c a C D b d c E b F
+
+

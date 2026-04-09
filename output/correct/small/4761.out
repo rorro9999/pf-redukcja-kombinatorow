@@ -1,0 +1,39 @@
+a g f = g (c (d b f) e)
+d f i g h = a b h c f
+c g f = e (a b (e g a))
+b h g f i = a d (e e) h
+main = a A b c b (e (B d C)) b a a D d E
+e h f g = c g f d b a d
+------------------------------------------------------------
+a A b c b (e (B d C)) b a a D d E
+A (c (d b b) e) c b (e (B d C)) b a a D d E
+A (e (a b (e (d b b) a))) c b (e (B d C)) b a a D d E
+A (e (b (c (d b (e (d b b) a)) e))) c b (e (B d C)) b a a D d E
+A (e (b (e (a b (e (d b (e (d b b) a)) a))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (c (d b (e (d b (e (d b b) a)) a)) e))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (a b (e (d b (e (d b (e (d b b) a)) a)) a))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (c (d b (e (d b (e (d b (e (d b b) a)) a)) a)) e))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (a b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (c (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) e))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (a b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (c (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) e))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (a b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (c (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) e))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (a b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (c (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) e))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (a b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (c (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) e))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (a b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) a))))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (c (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) a)) e))))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (a b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) a)) a))))))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (c (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) e))))))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (a b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a))))))))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (c (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) e))))))))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (a b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a))))))))))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (c (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) e))))))))))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (a b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a))))))))))))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (c (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) e))))))))))))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (a b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a))))))))))))))))))))))))))))) c b (e (B d C)) b a a D d E
+A (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (e (b (c (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b (e (d b b) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) a)) e))))))))))))))))))))))))))))) c b (e (B d C)) b a a D d E
+
+

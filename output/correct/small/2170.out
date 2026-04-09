@@ -1,0 +1,38 @@
+a g f e = b e b b (b d)
+b e = c d c a c
+c h g e f = f b d a
+d e = a a a e e a
+main = c d A B d C D E a F (G H b a I)
+------------------------------------------------------------
+c d A B d C D E a F (G H b a I)
+d b d a C D E a F (G H b a I)
+a a a b b a d a C D E a F (G H b a I)
+b b b b (b d) b a d a C D E a F (G H b a I)
+c d c a c b b (b d) b a d a C D E a F (G H b a I)
+c b d a b b (b d) b a d a C D E a F (G H b a I)
+b b d a b (b d) b a d a C D E a F (G H b a I)
+c d c a c d a b (b d) b a d a C D E a F (G H b a I)
+c b d a d a b (b d) b a d a C D E a F (G H b a I)
+d b d a a b (b d) b a d a C D E a F (G H b a I)
+a a a b b a d a a b (b d) b a d a C D E a F (G H b a I)
+b b b b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+c d c a c b b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+c b d a b b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+b b d a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+c d c a c d a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+c b d a d a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+d b d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+a a a b b a d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+b b b b (b d) b a d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+c d c a c b b (b d) b a d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+c b d a b b (b d) b a d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+b b d a b (b d) b a d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+c d c a c d a b (b d) b a d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+c b d a d a b (b d) b a d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+d b d a a b (b d) b a d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+a a a b b a d a a b (b d) b a d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+b b b b (b d) b a d a a b (b d) b a d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+c d c a c b b (b d) b a d a a b (b d) b a d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+c b d a b b (b d) b a d a a b (b d) b a d a a b (b d) b a d a a b (b d) b a d a C D E a F (G H b a I)
+
+

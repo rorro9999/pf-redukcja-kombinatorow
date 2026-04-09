@@ -1,0 +1,37 @@
+a = b
+b d = c a c a
+c d = a a d a a
+main = A B C D E F c G (b c)
+------------------------------------------------------------
+A B C D E F c G (b c)
+A B C D E F c G (c a c a)
+A B C D E F c G (a a a a a c a)
+A B C D E F c G (b a a a a c a)
+A B C D E F c G (c a c a a a a c a)
+A B C D E F c G (a a a a a c a a a a c a)
+A B C D E F c G (b a a a a c a a a a c a)
+A B C D E F c G (c a c a a a a c a a a a c a)
+A B C D E F c G (a a a a a c a a a a c a a a a c a)
+A B C D E F c G (b a a a a c a a a a c a a a a c a)
+A B C D E F c G (c a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (a a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (b a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (c a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (a a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (b a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (c a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (a a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (b a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (c a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (a a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (b a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (c a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (a a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (b a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (c a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (a a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (b a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (c a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+A B C D E F c G (a a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a a a a c a)
+
+

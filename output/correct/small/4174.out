@@ -1,0 +1,39 @@
+b f = a (a c f c a)
+main = A e b d b B C (e (a c (c b b D d)))
+a i h g f = c b f e
+e f h g = d f a c g
+c f g = e e g e
+d g h f = e (e g) a
+------------------------------------------------------------
+A e b d b B C (e (a c (c b b D d)))
+A e b d b B C (e (a c (e e b e D d)))
+A e b d b B C (e (a c (d e a c e D d)))
+A e b d b B C (e (a c (e (e e) a e D d)))
+A e b d b B C (e (a c (d (e e) a c e D d)))
+A e b d b B C (e (a c (e (e (e e)) a e D d)))
+A e b d b B C (e (a c (d (e (e e)) a c e D d)))
+A e b d b B C (e (a c (e (e (e (e e))) a e D d)))
+A e b d b B C (e (a c (d (e (e (e e))) a c e D d)))
+A e b d b B C (e (a c (e (e (e (e (e e)))) a e D d)))
+A e b d b B C (e (a c (d (e (e (e (e e)))) a c e D d)))
+A e b d b B C (e (a c (e (e (e (e (e (e e))))) a e D d)))
+A e b d b B C (e (a c (d (e (e (e (e (e e))))) a c e D d)))
+A e b d b B C (e (a c (e (e (e (e (e (e (e e)))))) a e D d)))
+A e b d b B C (e (a c (d (e (e (e (e (e (e e)))))) a c e D d)))
+A e b d b B C (e (a c (e (e (e (e (e (e (e (e e))))))) a e D d)))
+A e b d b B C (e (a c (d (e (e (e (e (e (e (e e))))))) a c e D d)))
+A e b d b B C (e (a c (e (e (e (e (e (e (e (e (e e)))))))) a e D d)))
+A e b d b B C (e (a c (d (e (e (e (e (e (e (e (e e)))))))) a c e D d)))
+A e b d b B C (e (a c (e (e (e (e (e (e (e (e (e (e e))))))))) a e D d)))
+A e b d b B C (e (a c (d (e (e (e (e (e (e (e (e (e e))))))))) a c e D d)))
+A e b d b B C (e (a c (e (e (e (e (e (e (e (e (e (e (e e)))))))))) a e D d)))
+A e b d b B C (e (a c (d (e (e (e (e (e (e (e (e (e (e e)))))))))) a c e D d)))
+A e b d b B C (e (a c (e (e (e (e (e (e (e (e (e (e (e (e e))))))))))) a e D d)))
+A e b d b B C (e (a c (d (e (e (e (e (e (e (e (e (e (e (e e))))))))))) a c e D d)))
+A e b d b B C (e (a c (e (e (e (e (e (e (e (e (e (e (e (e (e e)))))))))))) a e D d)))
+A e b d b B C (e (a c (d (e (e (e (e (e (e (e (e (e (e (e (e e)))))))))))) a c e D d)))
+A e b d b B C (e (a c (e (e (e (e (e (e (e (e (e (e (e (e (e (e e))))))))))))) a e D d)))
+A e b d b B C (e (a c (d (e (e (e (e (e (e (e (e (e (e (e (e (e e))))))))))))) a c e D d)))
+A e b d b B C (e (a c (e (e (e (e (e (e (e (e (e (e (e (e (e (e (e e)))))))))))))) a e D d)))
+
+

@@ -1,0 +1,20 @@
+a d e = c
+b e d = a a
+c = b (b a b)
+main = a (c a b A c b a b B)
+------------------------------------------------------------
+a (c a b A c b a b B)
+a (b (b a b) a b A c b a b B)
+a (a a b A c b a b B)
+a (c A c b a b B)
+a (b (b a b) A c b a b B)
+a (a a c b a b B)
+a (c b a b B)
+a (b (b a b) b a b B)
+a (a a a b B)
+a (c b B)
+a (b (b a b) b B)
+a (a a B)
+a c
+
+

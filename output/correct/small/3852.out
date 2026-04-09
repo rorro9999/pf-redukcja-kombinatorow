@@ -1,0 +1,38 @@
+a f g e = d b c f d b
+b f e = a d c a
+c f g e = d b a e
+d g e f = b f (b (f a) f)
+main = b A B C (d c (D (b d (E b F c d) c)))
+------------------------------------------------------------
+b A B C (d c (D (b d (E b F c d) c)))
+a d c a C (d c (D (b d (E b F c d) c)))
+d b c d d b C (d c (D (b d (E b F c d) c)))
+b d (b (d a) d) d b C (d c (D (b d (E b F c d) c)))
+a d c a d b C (d c (D (b d (E b F c d) c)))
+d b c d d b d b C (d c (D (b d (E b F c d) c)))
+b d (b (d a) d) d b d b C (d c (D (b d (E b F c d) c)))
+a d c a d b d b C (d c (D (b d (E b F c d) c)))
+d b c d d b d b d b C (d c (D (b d (E b F c d) c)))
+b d (b (d a) d) d b d b d b C (d c (D (b d (E b F c d) c)))
+a d c a d b d b d b C (d c (D (b d (E b F c d) c)))
+d b c d d b d b d b d b C (d c (D (b d (E b F c d) c)))
+b d (b (d a) d) d b d b d b d b C (d c (D (b d (E b F c d) c)))
+a d c a d b d b d b d b C (d c (D (b d (E b F c d) c)))
+d b c d d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+b d (b (d a) d) d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+a d c a d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+d b c d d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+b d (b (d a) d) d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+a d c a d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+d b c d d b d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+b d (b (d a) d) d b d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+a d c a d b d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+d b c d d b d b d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+b d (b (d a) d) d b d b d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+a d c a d b d b d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+d b c d d b d b d b d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+b d (b (d a) d) d b d b d b d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+a d c a d b d b d b d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+d b c d d b d b d b d b d b d b d b d b d b d b C (d c (D (b d (E b F c d) c)))
+
+

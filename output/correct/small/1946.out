@@ -1,0 +1,37 @@
+a d e = c (c e b c)
+b = a
+c e d = a b b
+main = b (A a b a B a c a) a
+------------------------------------------------------------
+b (A a b a B a c a) a
+a (A a b a B a c a) a
+c (c a b c)
+c (a b b c)
+c (c (c b b c) c)
+c (a b b)
+c (c (c b b c))
+c (c (a b b c))
+c (c (c (c b b c) c))
+c (c (a b b))
+c (c (c (c b b c)))
+c (c (c (a b b c)))
+c (c (c (c (c b b c) c)))
+c (c (c (a b b)))
+c (c (c (c (c b b c))))
+c (c (c (c (a b b c))))
+c (c (c (c (c (c b b c) c))))
+c (c (c (c (a b b))))
+c (c (c (c (c (c b b c)))))
+c (c (c (c (c (a b b c)))))
+c (c (c (c (c (c (c b b c) c)))))
+c (c (c (c (c (a b b)))))
+c (c (c (c (c (c (c b b c))))))
+c (c (c (c (c (c (a b b c))))))
+c (c (c (c (c (c (c (c b b c) c))))))
+c (c (c (c (c (c (a b b))))))
+c (c (c (c (c (c (c (c b b c)))))))
+c (c (c (c (c (c (c (a b b c)))))))
+c (c (c (c (c (c (c (c (c b b c) c)))))))
+c (c (c (c (c (c (c (a b b)))))))
+
+

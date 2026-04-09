@@ -1,0 +1,39 @@
+d h f g = c e h a
+c h g f i = d (a (e d d)) d a
+e g f = f (g (a a) b b d)
+a h f g = d c (c b c f f)
+main = c c d d e A (b b (B b c C a D a))
+b i h f g = a a a a e a a
+------------------------------------------------------------
+c c d d e A (b b (B b c C a D a))
+d (a (e d d)) d a A (b b (B b c C a D a))
+c e (a (e d d)) a A (b b (B b c C a D a))
+d (a (e d d)) d a (b b (B b c C a D a))
+c e (a (e d d)) a (b b (B b c C a D a))
+d (a (e d d)) d a
+c e (a (e d d)) a
+c e (a (d (d (a a) b b d))) a
+c e (a (d (c e (a a) a d))) a
+c e (a (d (d (a (e d d)) d a))) a
+c e (a (d (c e (a (e d d)) a))) a
+c e (a (d (c e (a (d (d (a a) b b d))) a))) a
+c e (a (d (c e (a (d (c e (a a) a d))) a))) a
+c e (a (d (c e (a (d (d (a (e d d)) d a))) a))) a
+c e (a (d (c e (a (d (c e (a (e d d)) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (d (a a) b b d))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a a) a d))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (d (a (e d d)) d a))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a (e d d)) a))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a (d (d (a a) b b d))) a))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a a) a d))) a))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a (d (d (a (e d d)) d a))) a))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a (e d d)) a))) a))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a (d (d (a a) b b d))) a))) a))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a a) a d))) a))) a))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a (d (d (a (e d d)) d a))) a))) a))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a (e d d)) a))) a))) a))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a (d (d (a a) b b d))) a))) a))) a))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a a) a d))) a))) a))) a))) a))) a))) a
+c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a (d (c e (a (d (d (a (e d d)) d a))) a))) a))) a))) a))) a))) a
+
+
