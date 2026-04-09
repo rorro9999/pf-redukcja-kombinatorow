@@ -1,0 +1,39 @@
+main = a (A (B c (C e a (e c e c e b) c c)))
+a f g = d (d g e b c d)
+b h g f = d a h a c
+d f h i g = i b b c b c c
+c g f = e g f a g a
+e f g = b f g b f c
+------------------------------------------------------------
+a (A (B c (C e a (e c e c e b) c c)))
+a (A (B c (C e a (b c e b c c c e b) c c)))
+a (A (B c (C e a (d a c a c c c c e b) c c)))
+a (A (B c (C e a (a b b c b c c c c c e b) c c)))
+a (A (B c (C e a (d (d b e b c d) c b c c c c c e b) c c)))
+a (A (B c (C e a (b b b c b c c c c c c e b) c c)))
+a (A (B c (C e a (d a b a c b c c c c c c e b) c c)))
+a (A (B c (C e a (a b b c b c c b c c c c c c e b) c c)))
+a (A (B c (C e a (d (d b e b c d) c b c c b c c c c c c e b) c c)))
+a (A (B c (C e a (b b b c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (d a b a c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (a b b c b c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (d (d b e b c d) c b c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (b b b c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (d a b a c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (a b b c b c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (d (d b e b c d) c b c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (b b b c b c c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (d a b a c b c c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (a b b c b c c b c c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (d (d b e b c d) c b c c b c c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (b b b c b c c c b c c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (d a b a c b c c c b c c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (a b b c b c c b c c c b c c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (d (d b e b c d) c b c c b c c c b c c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (b b b c b c c c b c c c b c c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (d a b a c b c c c b c c c b c c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (a b b c b c c b c c c b c c c b c c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (d (d b e b c d) c b c c b c c c b c c c b c c c b c c c b c c c b c c c c c c e b) c c)))
+a (A (B c (C e a (b b b c b c c c b c c c b c c c b c c c b c c c b c c c b c c c c c c e b) c c)))
+
+

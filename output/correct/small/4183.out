@@ -1,0 +1,39 @@
+e g f h i = g i d (g b b)
+main = A B c (C D c b E F (d a c e d) c)
+d h g i f = h h f c c e f
+a f h g = d g b c d h
+c i h g f = b b a
+b h f i g = f e f d e f d
+------------------------------------------------------------
+A B c (C D c b E F (d a c e d) c)
+A B c (C D c b E F (a a d c c e d) c)
+A B c (C D c b E F (d c b c d d c e d) c)
+A B c (C D c b E F (c c d c c e d d c e d) c)
+A B c (C D c b E F (b b a e d d c e d) c)
+A B c (C D c b E F (a e a d e a d d c e d) c)
+A B c (C D c b E F (d d b c d a e a d d c e d) c)
+A B c (C D c b E F (d d d c c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+A B c (C D c b E F (d d c c c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e c e d a e a d d c e d) c)
+
+

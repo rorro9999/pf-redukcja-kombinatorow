@@ -1,0 +1,39 @@
+main = A B (e (C D b a E e d b d F) a G)
+c i h f g = b b g e f
+e g h f = d g b (d (c b) c)
+d g f h = b c (a g) c b
+b g f h = e a d c
+a g f = c d d c f f b
+------------------------------------------------------------
+A B (e (C D b a E e d b d F) a G)
+A B (d (C D b a E e d b d F) b (d (c b) c))
+A B (b c (a (C D b a E e d b d F)) c b)
+A B (e a d c b)
+A B (d a b (d (c b) c) b)
+A B (b c (a a) c b b)
+A B (e a d c b b)
+A B (d a b (d (c b) c) b b)
+A B (b c (a a) c b b b)
+A B (e a d c b b b)
+A B (d a b (d (c b) c) b b b)
+A B (b c (a a) c b b b b)
+A B (e a d c b b b b)
+A B (d a b (d (c b) c) b b b b)
+A B (b c (a a) c b b b b b)
+A B (e a d c b b b b b)
+A B (d a b (d (c b) c) b b b b b)
+A B (b c (a a) c b b b b b b)
+A B (e a d c b b b b b b)
+A B (d a b (d (c b) c) b b b b b b)
+A B (b c (a a) c b b b b b b b)
+A B (e a d c b b b b b b b)
+A B (d a b (d (c b) c) b b b b b b b)
+A B (b c (a a) c b b b b b b b b)
+A B (e a d c b b b b b b b b)
+A B (d a b (d (c b) c) b b b b b b b b)
+A B (b c (a a) c b b b b b b b b b)
+A B (e a d c b b b b b b b b b)
+A B (d a b (d (c b) c) b b b b b b b b b)
+A B (b c (a a) c b b b b b b b b b b)
+
+

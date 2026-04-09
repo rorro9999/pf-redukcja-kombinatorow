@@ -1,0 +1,13 @@
+b g f h = d (e e f h)
+main = A B C c b c c D (e e (d E)) b (a a)
+c f g h i = a f e f (d e g)
+a i g h f = i
+e = c a (a a c b)
+d g f h i = i c e g c a g
+------------------------------------------------------------
+A B C c b c c D (e e (d E)) b (a a)
+A B C c b c c D (c a (a a c b) e (d E)) b (a a)
+A B C c b c c D (a a e a (d e (a a c b))) b (a a)
+A B C c b c c D a b (a a)
+
+

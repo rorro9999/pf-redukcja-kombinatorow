@@ -1,0 +1,39 @@
+e i h g f = g a d f c i f
+c f h g = b d (f g)
+d h g f = e a g a a e
+main = c A (B C D (c e e) d (e e e d c e))
+a g f h i = e g e e
+b f = e c e f f e a
+------------------------------------------------------------
+c A (B C D (c e e) d (e e e d c e))
+c A (B C D (c e e) d (d a d c c e c e))
+c A (B C D (c e e) d (e a d a a e c e c e))
+c A (B C D (c e e) d (a a d a c a a e c e c e))
+c A (B C D (c e e) d (e a e e a a e c e c e))
+c A (B C D (c e e) d (e a d a c a a a e c e c e))
+c A (B C D (c e e) d (a a d c c a c a a a e c e c e))
+c A (B C D (c e e) d (e a e e a c a a a e c e c e))
+c A (B C D (c e e) d (e a d a c a a c a a a e c e c e))
+c A (B C D (c e e) d (a a d c c a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a e e a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a d a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (a a d c c a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a e e a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a d a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (a a d c c a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a e e a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a d a c a a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (a a d c c a c a a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a e e a c a a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a d a c a a c a a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (a a d c c a c a a c a a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a e e a c a a c a a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a d a c a a c a a c a a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (a a d c c a c a a c a a c a a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a e e a c a a c a a c a a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a d a c a a c a a c a a c a a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (a a d c c a c a a c a a c a a c a a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a e e a c a a c a a c a a c a a c a a c a a c a a c a a a e c e c e))
+c A (B C D (c e e) d (e a d a c a a c a a c a a c a a c a a c a a c a a c a a c a a a e c e c e))
+
+

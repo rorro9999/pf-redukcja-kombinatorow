@@ -1,0 +1,10 @@
+a = c b (d b) c
+b g e f = c
+c e f h g = b a a h b
+d h f e g = f e
+main = b (A b a d b d b (c B) b b) d C a
+------------------------------------------------------------
+b (A b a d b d b (c B) b b) d C a
+c a
+
+

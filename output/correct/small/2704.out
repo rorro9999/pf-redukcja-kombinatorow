@@ -1,0 +1,38 @@
+a e = d b e d e
+b e = c c e a
+c f e = a a f
+d f e = b e
+main = A (d (B (c a) (a b c a c d b)) a) (C b)
+------------------------------------------------------------
+A (d (B (c a) (a b c a c d b)) a) (C b)
+A (b a) (C b)
+A (c c a a) (C b)
+A (a a c a) (C b)
+A (d b a d a c a) (C b)
+A (b a d a c a) (C b)
+A (c c a a d a c a) (C b)
+A (a a c a d a c a) (C b)
+A (d b a d a c a d a c a) (C b)
+A (b a d a c a d a c a) (C b)
+A (c c a a d a c a d a c a) (C b)
+A (a a c a d a c a d a c a) (C b)
+A (d b a d a c a d a c a d a c a) (C b)
+A (b a d a c a d a c a d a c a) (C b)
+A (c c a a d a c a d a c a d a c a) (C b)
+A (a a c a d a c a d a c a d a c a) (C b)
+A (d b a d a c a d a c a d a c a d a c a) (C b)
+A (b a d a c a d a c a d a c a d a c a) (C b)
+A (c c a a d a c a d a c a d a c a d a c a) (C b)
+A (a a c a d a c a d a c a d a c a d a c a) (C b)
+A (d b a d a c a d a c a d a c a d a c a d a c a) (C b)
+A (b a d a c a d a c a d a c a d a c a d a c a) (C b)
+A (c c a a d a c a d a c a d a c a d a c a d a c a) (C b)
+A (a a c a d a c a d a c a d a c a d a c a d a c a) (C b)
+A (d b a d a c a d a c a d a c a d a c a d a c a d a c a) (C b)
+A (b a d a c a d a c a d a c a d a c a d a c a d a c a) (C b)
+A (c c a a d a c a d a c a d a c a d a c a d a c a d a c a) (C b)
+A (a a c a d a c a d a c a d a c a d a c a d a c a d a c a) (C b)
+A (d b a d a c a d a c a d a c a d a c a d a c a d a c a d a c a) (C b)
+A (b a d a c a d a c a d a c a d a c a d a c a d a c a d a c a) (C b)
+
+

@@ -1,0 +1,38 @@
+a e = d d d e
+b f g e = a (d d)
+c f e = d a (d b) e
+d f e g = c a f b e c
+main = c d (c A a B (a (C (d c) D E c b) a))
+------------------------------------------------------------
+c d (c A a B (a (C (d c) D E c b) a))
+d a (d b) (c A a B (a (C (d c) D E c b) a))
+c a a b (d b) c
+d a (d b) a b (d b) c
+c a a b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c
+c a a b (d b) c b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c b (d b) c
+c a a b (d b) c b (d b) c b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c b (d b) c b (d b) c
+c a a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+c a a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+c a a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+c a a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+c a a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+c a a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+c a a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+c a a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+c a a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+c a a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+d a (d b) a b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c b (d b) c
+
+

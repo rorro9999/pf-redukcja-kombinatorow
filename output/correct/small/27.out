@@ -1,0 +1,37 @@
+a d f e = c
+b d f e = c c a
+c = b a a
+main = a A B c c C D a E F
+------------------------------------------------------------
+a A B c c C D a E F
+c c C D a E F
+b a a c C D a E F
+c c a C D a E F
+b a a c a C D a E F
+c c a a C D a E F
+b a a c a a C D a E F
+c c a a a C D a E F
+b a a c a a a C D a E F
+c c a a a a C D a E F
+b a a c a a a a C D a E F
+c c a a a a a C D a E F
+b a a c a a a a a C D a E F
+c c a a a a a a C D a E F
+b a a c a a a a a a C D a E F
+c c a a a a a a a C D a E F
+b a a c a a a a a a a C D a E F
+c c a a a a a a a a C D a E F
+b a a c a a a a a a a a C D a E F
+c c a a a a a a a a a C D a E F
+b a a c a a a a a a a a a C D a E F
+c c a a a a a a a a a a C D a E F
+b a a c a a a a a a a a a a C D a E F
+c c a a a a a a a a a a a C D a E F
+b a a c a a a a a a a a a a a C D a E F
+c c a a a a a a a a a a a a C D a E F
+b a a c a a a a a a a a a a a a C D a E F
+c c a a a a a a a a a a a a a C D a E F
+b a a c a a a a a a a a a a a a a C D a E F
+c c a a a a a a a a a a a a a a C D a E F
+
+

@@ -1,0 +1,38 @@
+a e g h f = c g b c g c
+b = d d (a c) d a
+c e f = a b a b
+d f e h g = c c a h c
+main = d b A d B a c C b b (D (b c d c))
+------------------------------------------------------------
+d b A d B a c C b b (D (b c d c))
+c c a d c a c C b b (D (b c d c))
+a b a b d c a c C b b (D (b c d c))
+c a b c a c c a c C b b (D (b c d c))
+a b a b c a c c a c C b b (D (b c d c))
+c a b c a c a c c a c C b b (D (b c d c))
+a b a b c a c a c c a c C b b (D (b c d c))
+c a b c a c a c a c c a c C b b (D (b c d c))
+a b a b c a c a c a c c a c C b b (D (b c d c))
+c a b c a c a c a c a c c a c C b b (D (b c d c))
+a b a b c a c a c a c a c c a c C b b (D (b c d c))
+c a b c a c a c a c a c a c c a c C b b (D (b c d c))
+a b a b c a c a c a c a c a c c a c C b b (D (b c d c))
+c a b c a c a c a c a c a c a c c a c C b b (D (b c d c))
+a b a b c a c a c a c a c a c a c c a c C b b (D (b c d c))
+c a b c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+a b a b c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+c a b c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+a b a b c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+c a b c a c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+a b a b c a c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+c a b c a c a c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+a b a b c a c a c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+c a b c a c a c a c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+a b a b c a c a c a c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+c a b c a c a c a c a c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+a b a b c a c a c a c a c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+c a b c a c a c a c a c a c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+a b a b c a c a c a c a c a c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+c a b c a c a c a c a c a c a c a c a c a c a c a c a c a c a c c a c C b b (D (b c d c))
+
+

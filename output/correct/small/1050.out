@@ -1,0 +1,37 @@
+a = c b
+b = a c a
+c d f e = b b a a d
+main = c (c (a (a a b A b) b a))
+------------------------------------------------------------
+c (c (a (a a b A b) b a))
+c (c (c b (a a b A b) b a))
+c (c (b b a a b a))
+c (c (a c a b a a b a))
+c (c (c b c a b a a b a))
+c (c (b b a a b b a a b a))
+c (c (a c a b a a b b a a b a))
+c (c (c b c a b a a b b a a b a))
+c (c (b b a a b b a a b b a a b a))
+c (c (a c a b a a b b a a b b a a b a))
+c (c (c b c a b a a b b a a b b a a b a))
+c (c (b b a a b b a a b b a a b b a a b a))
+c (c (a c a b a a b b a a b b a a b b a a b a))
+c (c (c b c a b a a b b a a b b a a b b a a b a))
+c (c (b b a a b b a a b b a a b b a a b b a a b a))
+c (c (a c a b a a b b a a b b a a b b a a b b a a b a))
+c (c (c b c a b a a b b a a b b a a b b a a b b a a b a))
+c (c (b b a a b b a a b b a a b b a a b b a a b b a a b a))
+c (c (a c a b a a b b a a b b a a b b a a b b a a b b a a b a))
+c (c (c b c a b a a b b a a b b a a b b a a b b a a b b a a b a))
+c (c (b b a a b b a a b b a a b b a a b b a a b b a a b b a a b a))
+c (c (a c a b a a b b a a b b a a b b a a b b a a b b a a b b a a b a))
+c (c (c b c a b a a b b a a b b a a b b a a b b a a b b a a b b a a b a))
+c (c (b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b a))
+c (c (a c a b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b a))
+c (c (c b c a b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b a))
+c (c (b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b a))
+c (c (a c a b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b a))
+c (c (c b c a b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b a))
+c (c (b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b a))
+
+

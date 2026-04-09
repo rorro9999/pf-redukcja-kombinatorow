@@ -1,0 +1,37 @@
+a = c c c
+b d = d c (c c a)
+c d = a b a b
+main = a a A a b c b B C c
+------------------------------------------------------------
+a a A a b c b B C c
+c c c a A a b c b B C c
+a b a b c a A a b c b B C c
+c c c b a b c a A a b c b B C c
+a b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c a A a b c b B C c
+a b a b c b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c b a b c a A a b c b B C c
+a b a b c b a b c b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c b a b c b a b c a A a b c b B C c
+a b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+a b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+a b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+a b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+a b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+a b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+a b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+a b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+a b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+a b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+c c c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c b a b c a A a b c b B C c
+
+

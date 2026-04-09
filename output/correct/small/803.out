@@ -1,0 +1,12 @@
+a d e = c
+b = a
+c e d f = a f
+main = b A b (c (a B a)) C D b
+------------------------------------------------------------
+b A b (c (a B a)) C D b
+a A b (c (a B a)) C D b
+c (c (a B a)) C D b
+a D b
+c
+
+

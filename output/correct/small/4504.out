@@ -1,0 +1,26 @@
+d g f = f g b (c f b a)
+main = c e (e (A (d c d B (b a a) c e e b)))
+e g f i h = g d b (d a b)
+a i f h g = e c
+c g h f = b e f (b a)
+b g f i h = d h (a (e c a) c)
+------------------------------------------------------------
+c e (e (A (d c d B (b a a) c e e b)))
+c e (e (A (d c b (c d b a) B (b a a) c e e b)))
+c e (e (A (b c b (c b b a) (c d b a) B (b a a) c e e b)))
+c e (e (A (d (c d b a) (a (e c a) c) B (b a a) c e e b)))
+c e (e (A (a (e c a) c (c d b a) b (c (a (e c a) c) b a) B (b a a) c e e b)))
+c e (e (A (e c (c (a (e c a) c) b a) B (b a a) c e e b)))
+c e (e (A (c d b (d a b) c e e b)))
+c e (e (A (b e (d a b) (b a) c e e b)))
+c e (e (A (d c (a (e c a) c) e e b)))
+c e (e (A (a (e c a) c c b (c (a (e c a) c) b a) e e b)))
+c e (e (A (e c (c (a (e c a) c) b a) e e b)))
+c e (e (A (c d b (d a b) b)))
+c e (e (A (b e (d a b) (b a) b)))
+c e (e (A (d b (a (e c a) c))))
+c e (e (A (a (e c a) c b b (c (a (e c a) c) b a))))
+c e (e (A (e c (c (a (e c a) c) b a))))
+c e (e (A (e c (b e a (b a)))))
+
+

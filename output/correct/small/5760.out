@@ -1,0 +1,39 @@
+e f g = d f a f c
+main = c A a e b B C b D a E (F G H d)
+a h g f i = i f d e
+d i h f g = c b (a i e) e h
+c f g h = e h b e a
+b f g h i = d g e e d (a d)
+------------------------------------------------------------
+c A a e b B C b D a E (F G H d)
+e e b e a b B C b D a E (F G H d)
+d e a e c e a b B C b D a E (F G H d)
+c b (a e e) e a e a b B C b D a E (F G H d)
+e e b e a a e a b B C b D a E (F G H d)
+d e a e c e a a e a b B C b D a E (F G H d)
+c b (a e e) e a e a a e a b B C b D a E (F G H d)
+e e b e a a e a a e a b B C b D a E (F G H d)
+d e a e c e a a e a a e a b B C b D a E (F G H d)
+c b (a e e) e a e a a e a a e a b B C b D a E (F G H d)
+e e b e a a e a a e a a e a b B C b D a E (F G H d)
+d e a e c e a a e a a e a a e a b B C b D a E (F G H d)
+c b (a e e) e a e a a e a a e a a e a b B C b D a E (F G H d)
+e e b e a a e a a e a a e a a e a b B C b D a E (F G H d)
+d e a e c e a a e a a e a a e a a e a b B C b D a E (F G H d)
+c b (a e e) e a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+e e b e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+d e a e c e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+c b (a e e) e a e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+e e b e a a e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+d e a e c e a a e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+c b (a e e) e a e a a e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+e e b e a a e a a e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+d e a e c e a a e a a e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+c b (a e e) e a e a a e a a e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+e e b e a a e a a e a a e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+d e a e c e a a e a a e a a e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+c b (a e e) e a e a a e a a e a a e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+e e b e a a e a a e a a e a a e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+d e a e c e a a e a a e a a e a a e a a e a a e a a e a a e a a e a b B C b D a E (F G H d)
+
+

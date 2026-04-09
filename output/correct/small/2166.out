@@ -1,0 +1,38 @@
+a e g f = c f g b c
+b e f = a f d f a f
+c f e = d
+d g f e h = b c f h
+main = A (c d (a B b d) C (b a c c D E F))
+------------------------------------------------------------
+A (c d (a B b d) C (b a c c D E F))
+A (d C (b a c c D E F))
+A (d C (a c d c a c c D E F))
+A (d C (c c d b c a c c D E F))
+A (d C (d b c a c c D E F))
+A (d C (b c c c c D E F))
+A (d C (a c d c a c c c D E F))
+A (d C (c c d b c a c c c D E F))
+A (d C (d b c a c c c D E F))
+A (d C (b c c c c c D E F))
+A (d C (a c d c a c c c c D E F))
+A (d C (c c d b c a c c c c D E F))
+A (d C (d b c a c c c c D E F))
+A (d C (b c c c c c c D E F))
+A (d C (a c d c a c c c c c D E F))
+A (d C (c c d b c a c c c c c D E F))
+A (d C (d b c a c c c c c D E F))
+A (d C (b c c c c c c c D E F))
+A (d C (a c d c a c c c c c c D E F))
+A (d C (c c d b c a c c c c c c D E F))
+A (d C (d b c a c c c c c c D E F))
+A (d C (b c c c c c c c c D E F))
+A (d C (a c d c a c c c c c c c D E F))
+A (d C (c c d b c a c c c c c c c D E F))
+A (d C (d b c a c c c c c c c D E F))
+A (d C (b c c c c c c c c c D E F))
+A (d C (a c d c a c c c c c c c c D E F))
+A (d C (c c d b c a c c c c c c c c D E F))
+A (d C (d b c a c c c c c c c c D E F))
+A (d C (b c c c c c c c c c c D E F))
+
+

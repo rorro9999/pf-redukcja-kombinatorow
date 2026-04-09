@@ -1,0 +1,38 @@
+a g e h f = e b b d
+b e = d c d a c a
+c e = a a d d e
+d e f = c (f e)
+main = A B C D E a F (b G (H c I J K a))
+------------------------------------------------------------
+A B C D E a F (b G (H c I J K a))
+A B C D E a F (d c d a c a (H c I J K a))
+A B C D E a F (c (d c) a c a (H c I J K a))
+A B C D E a F (a a d d (d c) a c a (H c I J K a))
+A B C D E a F (d b b d a c a (H c I J K a))
+A B C D E a F (c (b b) d a c a (H c I J K a))
+A B C D E a F (a a d d (b b) d a c a (H c I J K a))
+A B C D E a F (d b b d d a c a (H c I J K a))
+A B C D E a F (c (b b) d d a c a (H c I J K a))
+A B C D E a F (a a d d (b b) d d a c a (H c I J K a))
+A B C D E a F (d b b d d d a c a (H c I J K a))
+A B C D E a F (c (b b) d d d a c a (H c I J K a))
+A B C D E a F (a a d d (b b) d d d a c a (H c I J K a))
+A B C D E a F (d b b d d d d a c a (H c I J K a))
+A B C D E a F (c (b b) d d d d a c a (H c I J K a))
+A B C D E a F (a a d d (b b) d d d d a c a (H c I J K a))
+A B C D E a F (d b b d d d d d a c a (H c I J K a))
+A B C D E a F (c (b b) d d d d d a c a (H c I J K a))
+A B C D E a F (a a d d (b b) d d d d d a c a (H c I J K a))
+A B C D E a F (d b b d d d d d d a c a (H c I J K a))
+A B C D E a F (c (b b) d d d d d d a c a (H c I J K a))
+A B C D E a F (a a d d (b b) d d d d d d a c a (H c I J K a))
+A B C D E a F (d b b d d d d d d d a c a (H c I J K a))
+A B C D E a F (c (b b) d d d d d d d a c a (H c I J K a))
+A B C D E a F (a a d d (b b) d d d d d d d a c a (H c I J K a))
+A B C D E a F (d b b d d d d d d d d a c a (H c I J K a))
+A B C D E a F (c (b b) d d d d d d d d a c a (H c I J K a))
+A B C D E a F (a a d d (b b) d d d d d d d d a c a (H c I J K a))
+A B C D E a F (d b b d d d d d d d d d a c a (H c I J K a))
+A B C D E a F (c (b b) d d d d d d d d d a c a (H c I J K a))
+
+

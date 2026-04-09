@@ -1,0 +1,37 @@
+a d e = c c (b b)
+b d = a a (d c)
+c = a
+main = c A c a b a B C a c
+------------------------------------------------------------
+c A c a b a B C a c
+a A c a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+c c (b b) a b a B C a c
+a c (b b) a b a B C a c
+
+

@@ -1,0 +1,38 @@
+a f e = d e c b
+b g f h e = h (d d) (d c)
+c f e g h = g a d a d d
+d f h g e = e b f c h
+main = b c b A a b B c C (c (c D) b a b)
+------------------------------------------------------------
+b c b A a b B c C (c (c D) b a b)
+A (d d) (d c) b B c C (c (c D) b a b)
+A (d d) (d c) b B c C (a a d a d d)
+A (d d) (d c) b B c C (d d c b a d d)
+A (d d) (d c) b B c C (a b d c c d d)
+A (d d) (d c) b B c C (d d c b c c d d)
+A (d d) (d c) b B c C (c b d c c c d d)
+A (d d) (d c) b B c C (c a d a d d c d d)
+A (d d) (d c) b B c C (a a d a d d d c d d)
+A (d d) (d c) b B c C (d d c b a d d d c d d)
+A (d d) (d c) b B c C (a b d c c d d d c d d)
+A (d d) (d c) b B c C (d d c b c c d d d c d d)
+A (d d) (d c) b B c C (c b d c c c d d d c d d)
+A (d d) (d c) b B c C (c a d a d d c d d d c d d)
+A (d d) (d c) b B c C (a a d a d d d c d d d c d d)
+A (d d) (d c) b B c C (d d c b a d d d c d d d c d d)
+A (d d) (d c) b B c C (a b d c c d d d c d d d c d d)
+A (d d) (d c) b B c C (d d c b c c d d d c d d d c d d)
+A (d d) (d c) b B c C (c b d c c c d d d c d d d c d d)
+A (d d) (d c) b B c C (c a d a d d c d d d c d d d c d d)
+A (d d) (d c) b B c C (a a d a d d d c d d d c d d d c d d)
+A (d d) (d c) b B c C (d d c b a d d d c d d d c d d d c d d)
+A (d d) (d c) b B c C (a b d c c d d d c d d d c d d d c d d)
+A (d d) (d c) b B c C (d d c b c c d d d c d d d c d d d c d d)
+A (d d) (d c) b B c C (c b d c c c d d d c d d d c d d d c d d)
+A (d d) (d c) b B c C (c a d a d d c d d d c d d d c d d d c d d)
+A (d d) (d c) b B c C (a a d a d d d c d d d c d d d c d d d c d d)
+A (d d) (d c) b B c C (d d c b a d d d c d d d c d d d c d d d c d d)
+A (d d) (d c) b B c C (a b d c c d d d c d d d c d d d c d d d c d d)
+A (d d) (d c) b B c C (d d c b c c d d d c d d d c d d d c d d d c d d)
+
+

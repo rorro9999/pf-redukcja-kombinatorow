@@ -1,0 +1,16 @@
+a = c
+b d = a
+c d f e = b a
+main = b c A b B c c c C D
+------------------------------------------------------------
+b c A b B c c c C D
+a A b B c c c C D
+c A b B c c c C D
+b a c c c C D
+a c c c C D
+c c c c C D
+b a C D
+a C D
+c C D
+
+

@@ -1,0 +1,37 @@
+a d = c b
+b e d = a
+c = a
+main = a (a a) (a b A (c c) a) B
+------------------------------------------------------------
+a (a a) (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+a b (a b A (c c) a) B
+c b (a b A (c c) a) B
+
+

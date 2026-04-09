@@ -1,0 +1,39 @@
+d f = c f e e b c
+a g h i f = e c h c d f e
+e i h g f = i b a b f
+main = a (b b a b a b c a) e e A (e a B)
+c i g h f = g e b b e e d
+b f g = e a g (f d f e)
+------------------------------------------------------------
+a (b b a b a b c a) e e A (e a B)
+e c e c d A e (e a B)
+c b a b d A e (e a B)
+a e b b e e d A e (e a B)
+e c b c d e e e d A e (e a B)
+c b a b d e e e d A e (e a B)
+a e b b e e d e e e d A e (e a B)
+e c b c d e e e d e e e d A e (e a B)
+c b a b d e e e d e e e d A e (e a B)
+a e b b e e d e e e d e e e d A e (e a B)
+e c b c d e e e d e e e d e e e d A e (e a B)
+c b a b d e e e d e e e d e e e d A e (e a B)
+a e b b e e d e e e d e e e d e e e d A e (e a B)
+e c b c d e e e d e e e d e e e d e e e d A e (e a B)
+c b a b d e e e d e e e d e e e d e e e d A e (e a B)
+a e b b e e d e e e d e e e d e e e d e e e d A e (e a B)
+e c b c d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+c b a b d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+a e b b e e d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+e c b c d e e e d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+c b a b d e e e d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+a e b b e e d e e e d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+e c b c d e e e d e e e d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+c b a b d e e e d e e e d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+a e b b e e d e e e d e e e d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+e c b c d e e e d e e e d e e e d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+c b a b d e e e d e e e d e e e d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+a e b b e e d e e e d e e e d e e e d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+e c b c d e e e d e e e d e e e d e e e d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+c b a b d e e e d e e e d e e e d e e e d e e e d e e e d e e e d e e e d e e e d A e (e a B)
+
+

@@ -1,0 +1,37 @@
+a = b c
+b d e = a a
+c e d f = b
+main = b a a a A a B C b c
+------------------------------------------------------------
+b a a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+b c a a A a B C b c
+a a a A a B C b c
+
+

@@ -1,0 +1,19 @@
+a e d = b
+b = c a a a
+c d e = a
+main = c c a a c a (c a c) A
+------------------------------------------------------------
+c c a a c a (c a c) A
+a a c a (c a c) A
+b a (c a c) A
+c a a a a (c a c) A
+a a a (c a c) A
+b (c a c) A
+c a a a (c a c) A
+a a (c a c) A
+b A
+c a a a A
+a a A
+b
+
+

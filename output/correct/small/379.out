@@ -1,0 +1,37 @@
+a = b c c
+b = a a a a a
+c d = b d d a
+main = A (b b B b b) (a (a a a))
+------------------------------------------------------------
+A (b b B b b) (a (a a a))
+A (a a a a a b B b b) (a (a a a))
+A (b c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (b c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+A (a a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a c c a a a a b B b b) (a (a a a))
+
+

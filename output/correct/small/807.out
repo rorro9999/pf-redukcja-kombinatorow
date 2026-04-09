@@ -1,0 +1,17 @@
+a = c c c
+b = a
+c d f e = b
+main = A B (b a a (a (C D E F)))
+------------------------------------------------------------
+A B (b a a (a (C D E F)))
+A B (a a a (a (C D E F)))
+A B (c c c a a (a (C D E F)))
+A B (b a (a (C D E F)))
+A B (a a (a (C D E F)))
+A B (c c c a (a (C D E F)))
+A B (b (a (C D E F)))
+A B (a (a (C D E F)))
+A B (c c c (a (C D E F)))
+A B b
+
+

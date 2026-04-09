@@ -1,0 +1,38 @@
+a f g e h = c b b
+b e = c a d c (a a)
+c f g h e = b a e a
+d f e g h = b a e b f
+main = a (a d) (c b (b a (A B a d C c a D)))
+------------------------------------------------------------
+a (a d) (c b (b a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (b a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+a (a d) (c b (c a d c (a a) (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (a a) a (A B a d C c a D)))
+
+

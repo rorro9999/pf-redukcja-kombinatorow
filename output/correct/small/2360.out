@@ -1,0 +1,38 @@
+a f e = b b (d f c)
+b = d d d d d a
+c f e g = b b
+d g f e = c f f c c e
+main = c A (b c) (B (C D (d (E d a) b a) F a))
+------------------------------------------------------------
+c A (b c) (B (C D (d (E d a) b a) F a))
+b b
+d d d d d a b
+c d d c c d d a b
+b b c d d a b
+d d d d d a b c d d a b
+c d d c c d d a b c d d a b
+b b c d d a b c d d a b
+d d d d d a b c d d a b c d d a b
+c d d c c d d a b c d d a b c d d a b
+b b c d d a b c d d a b c d d a b
+d d d d d a b c d d a b c d d a b c d d a b
+c d d c c d d a b c d d a b c d d a b c d d a b
+b b c d d a b c d d a b c d d a b c d d a b
+d d d d d a b c d d a b c d d a b c d d a b c d d a b
+c d d c c d d a b c d d a b c d d a b c d d a b c d d a b
+b b c d d a b c d d a b c d d a b c d d a b c d d a b
+d d d d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+c d d c c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+b b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+d d d d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+c d d c c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+b b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+d d d d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+c d d c c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+b b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+d d d d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+c d d c c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+b b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+d d d d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b c d d a b
+
+

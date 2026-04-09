@@ -1,0 +1,38 @@
+a e = d c c d d
+b e = a e e d
+c g f e = d a f a f a
+d e g h f = e f a
+main = A (d d B c) C c (c d d (D E F c) c)
+------------------------------------------------------------
+A (d d B c) C c (c d d (D E F c) c)
+A (d d B c) C c (d a d a d a c)
+A (d d B c) C c (a d a a c)
+A (d d B c) C c (d c c d d a a c)
+A (d d B c) C c (c d a a a c)
+A (d d B c) C c (d a a a a a a c)
+A (d d B c) C c (a a a a a c)
+A (d d B c) C c (d c c d d a a a c)
+A (d d B c) C c (c d a a a a c)
+A (d d B c) C c (d a a a a a a a c)
+A (d d B c) C c (a a a a a a c)
+A (d d B c) C c (d c c d d a a a a c)
+A (d d B c) C c (c d a a a a a c)
+A (d d B c) C c (d a a a a a a a a c)
+A (d d B c) C c (a a a a a a a c)
+A (d d B c) C c (d c c d d a a a a a c)
+A (d d B c) C c (c d a a a a a a c)
+A (d d B c) C c (d a a a a a a a a a c)
+A (d d B c) C c (a a a a a a a a c)
+A (d d B c) C c (d c c d d a a a a a a c)
+A (d d B c) C c (c d a a a a a a a c)
+A (d d B c) C c (d a a a a a a a a a a c)
+A (d d B c) C c (a a a a a a a a a c)
+A (d d B c) C c (d c c d d a a a a a a a c)
+A (d d B c) C c (c d a a a a a a a a c)
+A (d d B c) C c (d a a a a a a a a a a a c)
+A (d d B c) C c (a a a a a a a a a a c)
+A (d d B c) C c (d c c d d a a a a a a a a c)
+A (d d B c) C c (c d a a a a a a a a a c)
+A (d d B c) C c (d a a a a a a a a a a a a c)
+
+

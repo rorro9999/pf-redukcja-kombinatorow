@@ -1,0 +1,38 @@
+a e = d e d c
+b e f g = e
+c g f e = d d a d d d
+d e = e e e
+main = c d A B c C a c D E F (c c) G c
+------------------------------------------------------------
+c d A B c C a c D E F (c c) G c
+d d a d d d c C a c D E F (c c) G c
+d d d a d d d c C a c D E F (c c) G c
+d d d d a d d d c C a c D E F (c c) G c
+d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+d d d d d d d d d d d d d d d d d d d d d d d d d d d d d d a d d d c C a c D E F (c c) G c
+
+

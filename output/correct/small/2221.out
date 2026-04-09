@@ -1,0 +1,38 @@
+a f h g e = c b h
+b e = e (c (d e c) e)
+c e g h f = e e d d
+d f g e = b a a g
+main = A (a (a (a (a b c a B C D E F G H))))
+------------------------------------------------------------
+A (a (a (a (a b c a B C D E F G H))))
+A (a (a (a (c b c C D E F G H))))
+A (a (a (a (b b d d E F G H))))
+A (a (a (a (b (c (d b c) b) d d E F G H))))
+A (a (a (a (c (d b c) b (c (d (c (d b c) b) c) (c (d b c) b)) d d E F G H))))
+A (a (a (a (d b c (d b c) d d d E F G H))))
+A (a (a (a (b a a c d d d E F G H))))
+A (a (a (a (a (c (d a c) a) a c d d d E F G H))))
+A (a (a (a (c b a d d E F G H))))
+A (a (a (a (b b d d E F G H))))
+A (a (a (a (b (c (d b c) b) d d E F G H))))
+A (a (a (a (c (d b c) b (c (d (c (d b c) b) c) (c (d b c) b)) d d E F G H))))
+A (a (a (a (d b c (d b c) d d d E F G H))))
+A (a (a (a (b a a c d d d E F G H))))
+A (a (a (a (a (c (d a c) a) a c d d d E F G H))))
+A (a (a (a (c b a d d E F G H))))
+A (a (a (a (b b d d E F G H))))
+A (a (a (a (b (c (d b c) b) d d E F G H))))
+A (a (a (a (c (d b c) b (c (d (c (d b c) b) c) (c (d b c) b)) d d E F G H))))
+A (a (a (a (d b c (d b c) d d d E F G H))))
+A (a (a (a (b a a c d d d E F G H))))
+A (a (a (a (a (c (d a c) a) a c d d d E F G H))))
+A (a (a (a (c b a d d E F G H))))
+A (a (a (a (b b d d E F G H))))
+A (a (a (a (b (c (d b c) b) d d E F G H))))
+A (a (a (a (c (d b c) b (c (d (c (d b c) b) c) (c (d b c) b)) d d E F G H))))
+A (a (a (a (d b c (d b c) d d d E F G H))))
+A (a (a (a (b a a c d d d E F G H))))
+A (a (a (a (a (c (d a c) a) a c d d d E F G H))))
+A (a (a (a (c b a d d E F G H))))
+
+

@@ -1,0 +1,39 @@
+e f h g = d d d d b d
+main = A B C c D e (d a a E (b b F) e) G
+c g h f i = d a a d i b d
+d f g h = b e h b c a a
+b f h g = d c (g e (c f) f)
+a g f i h = d d e b i i
+------------------------------------------------------------
+A B C c D e (d a a E (b b F) e) G
+A B C c D e (b e E b c a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a (b b F) e) G
+A B C c D e (b e c b c a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a a a a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a a a a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a a a a a a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a a a a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a a a a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a a a a a a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a a a a a a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a a a a a a a a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a a a a a a a a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (d c (b e (c e) e) c a a a a a a a a a a a a a a a a a a a a a a a a a a a a (b b F) e) G
+A B C c D e (b e c b c a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a (b b F) e) G
+
+

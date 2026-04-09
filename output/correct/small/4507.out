@@ -1,0 +1,39 @@
+main = d c A c B (b C e c a D a) e a E
+e g f h = b f g b
+c f g h = a e a e b e
+d f g h = c (b a f) g
+a g f h = d d h f b d
+b f g = a c f f
+------------------------------------------------------------
+d c A c B (b C e c a D a) e a E
+c (b a c) A B (b C e c a D a) e a E
+a e a e b e (b C e c a D a) e a E
+d d e a b d b e (b C e c a D a) e a E
+c (b a d) e b d b e (b C e c a D a) e a E
+a e a e b e d b e (b C e c a D a) e a E
+d d e a b d b e d b e (b C e c a D a) e a E
+c (b a d) e b d b e d b e (b C e c a D a) e a E
+a e a e b e d b e d b e (b C e c a D a) e a E
+d d e a b d b e d b e d b e (b C e c a D a) e a E
+c (b a d) e b d b e d b e d b e (b C e c a D a) e a E
+a e a e b e d b e d b e d b e (b C e c a D a) e a E
+d d e a b d b e d b e d b e d b e (b C e c a D a) e a E
+c (b a d) e b d b e d b e d b e d b e (b C e c a D a) e a E
+a e a e b e d b e d b e d b e d b e (b C e c a D a) e a E
+d d e a b d b e d b e d b e d b e d b e (b C e c a D a) e a E
+c (b a d) e b d b e d b e d b e d b e d b e (b C e c a D a) e a E
+a e a e b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+d d e a b d b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+c (b a d) e b d b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+a e a e b e d b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+d d e a b d b e d b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+c (b a d) e b d b e d b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+a e a e b e d b e d b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+d d e a b d b e d b e d b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+c (b a d) e b d b e d b e d b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+a e a e b e d b e d b e d b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+d d e a b d b e d b e d b e d b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+c (b a d) e b d b e d b e d b e d b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+a e a e b e d b e d b e d b e d b e d b e d b e d b e d b e d b e (b C e c a D a) e a E
+
+

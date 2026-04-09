@@ -1,0 +1,38 @@
+a f e = b d c e d c
+b e g h f = c a a f c d
+c h f g e = a g d a
+d e f = b b c c e f
+main = d c A B (C D (E c (F (G b H b a) c)))
+------------------------------------------------------------
+d c A B (C D (E c (F (G b H b a) c)))
+b b c c c A B (C D (E c (F (G b H b a) c)))
+c a a c c d A B (C D (E c (F (G b H b a) c)))
+a c d a d A B (C D (E c (F (G b H b a) c)))
+b d c d d c a d A B (C D (E c (F (G b H b a) c)))
+c a a d c d c a d A B (C D (E c (F (G b H b a) c)))
+a d d a d c a d A B (C D (E c (F (G b H b a) c)))
+b d c d d c a d c a d A B (C D (E c (F (G b H b a) c)))
+c a a d c d c a d c a d A B (C D (E c (F (G b H b a) c)))
+a d d a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+b d c d d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+c a a d c d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+a d d a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+b d c d d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+c a a d c d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+a d d a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+b d c d d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+c a a d c d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+a d d a d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+b d c d d c a d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+c a a d c d c a d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+a d d a d c a d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+b d c d d c a d c a d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+c a a d c d c a d c a d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+a d d a d c a d c a d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+b d c d d c a d c a d c a d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+c a a d c d c a d c a d c a d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+a d d a d c a d c a d c a d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+b d c d d c a d c a d c a d c a d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+c a a d c d c a d c a d c a d c a d c a d c a d c a d c a d c a d A B (C D (E c (F (G b H b a) c)))
+
+

@@ -1,0 +1,22 @@
+a = c c b
+b = a
+c d f e = a
+main = a A B C b b a (c c a)
+------------------------------------------------------------
+a A B C b b a (c c a)
+c c b A B C b b a (c c a)
+a B C b b a (c c a)
+c c b B C b b a (c c a)
+a C b b a (c c a)
+c c b C b b a (c c a)
+a b b a (c c a)
+c c b b b a (c c a)
+a b a (c c a)
+c c b b a (c c a)
+a a (c c a)
+c c b a (c c a)
+a (c c a)
+c c b (c c a)
+a
+
+

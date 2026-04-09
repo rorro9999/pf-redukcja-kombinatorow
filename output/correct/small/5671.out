@@ -1,0 +1,39 @@
+d g f i h = a b i e b e b
+e f g h i = d (c d) c c
+b h f i g = c e h a (e d f)
+a f g = d e c f b f c
+main = A B b b (C d e (b a d e e d e d))
+c i f h g = e g h e h
+------------------------------------------------------------
+A B b b (C d e (b a d e e d e d))
+A B b b (C d e (c e a a (e d d) d e d))
+A B b b (C d e (e (e d d) a e a d e d))
+A B b b (C d e (d (c d) c c d e d))
+A B b b (C d e (a b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b e d))
+A B b b (C d e (a b b e b e b b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b b c e b e b e d))
+A B b b (C d e (a b b e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (a b b e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (a b b e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (a b b e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (a b b e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (a b b e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (a b b e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (a b b e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (a b b e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (a b b e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (a b b e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+A B b b (C d e (d e c b b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b b c e b e b e d))
+
+

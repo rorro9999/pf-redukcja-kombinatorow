@@ -1,0 +1,38 @@
+a e = c e e
+b e f g = c d a d
+c h e g f = b a b a d b
+d f e = b a (c b f)
+main = c b A B a a C d c D b b d c c
+------------------------------------------------------------
+c b A B a a C d c D b b d c c
+b a b a d b a C d c D b b d c c
+c d a d d b a C d c D b b d c c
+b a b a d b b a C d c D b b d c c
+c d a d d b b a C d c D b b d c c
+b a b a d b b b a C d c D b b d c c
+c d a d d b b b a C d c D b b d c c
+b a b a d b b b b a C d c D b b d c c
+c d a d d b b b b a C d c D b b d c c
+b a b a d b b b b b a C d c D b b d c c
+c d a d d b b b b b a C d c D b b d c c
+b a b a d b b b b b b a C d c D b b d c c
+c d a d d b b b b b b a C d c D b b d c c
+b a b a d b b b b b b b a C d c D b b d c c
+c d a d d b b b b b b b a C d c D b b d c c
+b a b a d b b b b b b b b a C d c D b b d c c
+c d a d d b b b b b b b b a C d c D b b d c c
+b a b a d b b b b b b b b b a C d c D b b d c c
+c d a d d b b b b b b b b b a C d c D b b d c c
+b a b a d b b b b b b b b b b a C d c D b b d c c
+c d a d d b b b b b b b b b b a C d c D b b d c c
+b a b a d b b b b b b b b b b b a C d c D b b d c c
+c d a d d b b b b b b b b b b b a C d c D b b d c c
+b a b a d b b b b b b b b b b b b a C d c D b b d c c
+c d a d d b b b b b b b b b b b b a C d c D b b d c c
+b a b a d b b b b b b b b b b b b b a C d c D b b d c c
+c d a d d b b b b b b b b b b b b b a C d c D b b d c c
+b a b a d b b b b b b b b b b b b b b a C d c D b b d c c
+c d a d d b b b b b b b b b b b b b b a C d c D b b d c c
+b a b a d b b b b b b b b b b b b b b b a C d c D b b d c c
+
+

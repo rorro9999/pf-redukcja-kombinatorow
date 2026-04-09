@@ -1,0 +1,9 @@
+a g e f h = b d e d d
+b h f g e = a a
+c e g f = b
+d e g f = f
+main = A b B C (D E a c c c b) c F a c
+------------------------------------------------------------
+A b B C (D E a c c c b) c F a c
+
+

@@ -1,0 +1,37 @@
+a = c
+b = c c a a
+c d = a d
+main = b (b A b b c c B) c C
+------------------------------------------------------------
+b (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+a c a a (b A b b c c B) c C
+c c a a (b A b b c c B) c C
+
+

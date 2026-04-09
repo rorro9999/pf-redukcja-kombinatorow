@@ -1,0 +1,37 @@
+a = c (b c c b)
+b f d e = a c e
+c e d = a a a b
+main = b a b a b a b c a A
+------------------------------------------------------------
+b a b a b a b c a A
+a c a b a b c a A
+c (b c c b) c a b a b c a A
+a a a b a b a b c a A
+c (b c c b) a a b a b a b c a A
+a a a b a b a b a b c a A
+c (b c c b) a a b a b a b a b c a A
+a a a b a b a b a b a b c a A
+c (b c c b) a a b a b a b a b a b c a A
+a a a b a b a b a b a b a b c a A
+c (b c c b) a a b a b a b a b a b a b c a A
+a a a b a b a b a b a b a b a b c a A
+c (b c c b) a a b a b a b a b a b a b a b c a A
+a a a b a b a b a b a b a b a b a b c a A
+c (b c c b) a a b a b a b a b a b a b a b a b c a A
+a a a b a b a b a b a b a b a b a b a b c a A
+c (b c c b) a a b a b a b a b a b a b a b a b a b c a A
+a a a b a b a b a b a b a b a b a b a b a b c a A
+c (b c c b) a a b a b a b a b a b a b a b a b a b a b c a A
+a a a b a b a b a b a b a b a b a b a b a b a b c a A
+c (b c c b) a a b a b a b a b a b a b a b a b a b a b a b c a A
+a a a b a b a b a b a b a b a b a b a b a b a b a b c a A
+c (b c c b) a a b a b a b a b a b a b a b a b a b a b a b a b c a A
+a a a b a b a b a b a b a b a b a b a b a b a b a b a b c a A
+c (b c c b) a a b a b a b a b a b a b a b a b a b a b a b a b a b c a A
+a a a b a b a b a b a b a b a b a b a b a b a b a b a b a b c a A
+c (b c c b) a a b a b a b a b a b a b a b a b a b a b a b a b a b a b c a A
+a a a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b c a A
+c (b c c b) a a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b c a A
+a a a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b c a A
+
+

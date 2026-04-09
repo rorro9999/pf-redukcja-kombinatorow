@@ -1,0 +1,38 @@
+a f e = b b (c b) d b
+b f e = c a c e
+c e g f h = b b a d a d
+d h e g f = b f b a c c
+main = a c (A b a d B C c (D a b E b d))
+------------------------------------------------------------
+a c (A b a d B C c (D a b E b d))
+b b (c b) d b
+c a c (c b) d b
+b b a d a d b
+c a c a d a d b
+b b a d a d a d b
+c a c a d a d a d b
+b b a d a d a d a d b
+c a c a d a d a d a d b
+b b a d a d a d a d a d b
+c a c a d a d a d a d a d b
+b b a d a d a d a d a d a d b
+c a c a d a d a d a d a d a d b
+b b a d a d a d a d a d a d a d b
+c a c a d a d a d a d a d a d a d b
+b b a d a d a d a d a d a d a d a d b
+c a c a d a d a d a d a d a d a d a d b
+b b a d a d a d a d a d a d a d a d a d b
+c a c a d a d a d a d a d a d a d a d a d b
+b b a d a d a d a d a d a d a d a d a d a d b
+c a c a d a d a d a d a d a d a d a d a d a d b
+b b a d a d a d a d a d a d a d a d a d a d a d b
+c a c a d a d a d a d a d a d a d a d a d a d a d b
+b b a d a d a d a d a d a d a d a d a d a d a d a d b
+c a c a d a d a d a d a d a d a d a d a d a d a d a d b
+b b a d a d a d a d a d a d a d a d a d a d a d a d a d b
+c a c a d a d a d a d a d a d a d a d a d a d a d a d a d b
+b b a d a d a d a d a d a d a d a d a d a d a d a d a d a d b
+c a c a d a d a d a d a d a d a d a d a d a d a d a d a d a d b
+b b a d a d a d a d a d a d a d a d a d a d a d a d a d a d a d b
+
+

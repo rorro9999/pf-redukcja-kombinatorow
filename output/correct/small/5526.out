@@ -1,0 +1,39 @@
+d g i f h = a i g c g
+main = d (A b) B d C D E (b d) F b G (H c)
+a f i g h = e c d
+e f g h = a a c g d (b b)
+b i g h f = i d i a e
+c h i g f = e d a h b e
+------------------------------------------------------------
+d (A b) B d C D E (b d) F b G (H c)
+a B (A b) c (A b) D E (b d) F b G (H c)
+e c d D E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+e c d (b b) E (b d) F b G (H c)
+a a c d d (b b) E (b d) F b G (H c)
+
+

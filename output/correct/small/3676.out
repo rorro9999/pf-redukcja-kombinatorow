@@ -1,0 +1,9 @@
+a f h e g = d d d g b
+b e h f g = h (g c) g
+c h e f g = b a a e a
+d g h e f = b b c
+main = b a (A (B d (C (d d d (D c d b b E)))))
+------------------------------------------------------------
+b a (A (B d (C (d d d (D c d b b E)))))
+
+

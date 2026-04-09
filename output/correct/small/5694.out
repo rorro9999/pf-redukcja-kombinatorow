@@ -1,0 +1,39 @@
+main = e b d c e c (A b e B a a a C b)
+d h g i f = h e (a e f a) e
+e f g h i = b a h
+a g f h = b d h (d e)
+b f g h = e h e d h c
+c i f g h = a f a a a d b
+------------------------------------------------------------
+e b d c e c (A b e B a a a C b)
+b a c c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+e c e d c c (A b e B a a a C b)
+b a d c (A b e B a a a C b)
+
+

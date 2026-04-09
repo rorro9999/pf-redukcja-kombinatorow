@@ -1,0 +1,39 @@
+d g f h i = e b (e b) a f
+a g f = c d f g d
+main = c e e d e b A (B C D E F a c c)
+b f i h g = c c d c a e h
+e f g = f d
+c f g = d b a d g e e
+------------------------------------------------------------
+c e e d e b A (B C D E F a c c)
+d b a d e e e d e b A (B C D E F a c c)
+e b (e b) a a e e d e b A (B C D E F a c c)
+b d a a e e d e b A (B C D E F a c c)
+c c d c a e a e d e b A (B C D E F a c c)
+d b a d d e e c a e a e d e b A (B C D E F a c c)
+e b (e b) a a e e c a e a e d e b A (B C D E F a c c)
+b d a a e e c a e a e d e b A (B C D E F a c c)
+c c d c a e a e c a e a e d e b A (B C D E F a c c)
+d b a d d e e c a e a e c a e a e d e b A (B C D E F a c c)
+e b (e b) a a e e c a e a e c a e a e d e b A (B C D E F a c c)
+b d a a e e c a e a e c a e a e d e b A (B C D E F a c c)
+c c d c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+d b a d d e e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+e b (e b) a a e e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+b d a a e e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+c c d c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+d b a d d e e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+e b (e b) a a e e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+b d a a e e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+c c d c a e a e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+d b a d d e e c a e a e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+e b (e b) a a e e c a e a e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+b d a a e e c a e a e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+c c d c a e a e c a e a e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+d b a d d e e c a e a e c a e a e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+e b (e b) a a e e c a e a e c a e a e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+b d a a e e c a e a e c a e a e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+c c d c a e a e c a e a e c a e a e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+d b a d d e e c a e a e c a e a e c a e a e c a e a e c a e a e c a e a e c a e a e d e b A (B C D E F a c c)
+
+

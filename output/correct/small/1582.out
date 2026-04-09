@@ -1,0 +1,37 @@
+a = c
+b = a
+c = a a
+main = a c A B b b C c a b
+------------------------------------------------------------
+a c A B b b C c a b
+c c A B b b C c a b
+a a c A B b b C c a b
+c a c A B b b C c a b
+a a a c A B b b C c a b
+c a a c A B b b C c a b
+a a a a c A B b b C c a b
+c a a a c A B b b C c a b
+a a a a a c A B b b C c a b
+c a a a a c A B b b C c a b
+a a a a a a c A B b b C c a b
+c a a a a a c A B b b C c a b
+a a a a a a a c A B b b C c a b
+c a a a a a a c A B b b C c a b
+a a a a a a a a c A B b b C c a b
+c a a a a a a a c A B b b C c a b
+a a a a a a a a a c A B b b C c a b
+c a a a a a a a a c A B b b C c a b
+a a a a a a a a a a c A B b b C c a b
+c a a a a a a a a a c A B b b C c a b
+a a a a a a a a a a a c A B b b C c a b
+c a a a a a a a a a a c A B b b C c a b
+a a a a a a a a a a a a c A B b b C c a b
+c a a a a a a a a a a a c A B b b C c a b
+a a a a a a a a a a a a a c A B b b C c a b
+c a a a a a a a a a a a a c A B b b C c a b
+a a a a a a a a a a a a a a c A B b b C c a b
+c a a a a a a a a a a a a a c A B b b C c a b
+a a a a a a a a a a a a a a a c A B b b C c a b
+c a a a a a a a a a a a a a a c A B b b C c a b
+
+

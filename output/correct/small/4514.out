@@ -1,0 +1,39 @@
+a f h g = e g h c c h d
+c h g f i = a a e e
+e f i g h = c c b f i c
+b h i g f = f (a a h)
+main = a A c B b d C D d d E (F G H I)
+d i g f h = c f e a a e b
+------------------------------------------------------------
+a A c B b d C D d d E (F G H I)
+e B c c c c d b d C D d d E (F G H I)
+c c b B c c c d b d C D d d E (F G H I)
+a a e e c c d b d C D d d E (F G H I)
+e e e c c e d c c d b d C D d d E (F G H I)
+c c b e e c e d c c d b d C D d d E (F G H I)
+a a e e c e d c c d b d C D d d E (F G H I)
+e e e c c e d c e d c c d b d C D d d E (F G H I)
+c c b e e c e d c e d c c d b d C D d d E (F G H I)
+a a e e c e d c e d c c d b d C D d d E (F G H I)
+e e e c c e d c e d c e d c c d b d C D d d E (F G H I)
+c c b e e c e d c e d c e d c c d b d C D d d E (F G H I)
+a a e e c e d c e d c e d c c d b d C D d d E (F G H I)
+e e e c c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+c c b e e c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+a a e e c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+e e e c c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+c c b e e c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+a a e e c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+e e e c c e d c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+c c b e e c e d c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+a a e e c e d c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+e e e c c e d c e d c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+c c b e e c e d c e d c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+a a e e c e d c e d c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+e e e c c e d c e d c e d c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+c c b e e c e d c e d c e d c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+a a e e c e d c e d c e d c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+e e e c c e d c e d c e d c e d c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+c c b e e c e d c e d c e d c e d c e d c e d c e d c e d c e d c c d b d C D d d E (F G H I)
+
+

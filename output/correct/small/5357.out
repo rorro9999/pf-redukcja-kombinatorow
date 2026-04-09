@@ -1,0 +1,19 @@
+e f g h = d h
+d g f i h = b e a
+b g i f h = a e a h d
+main = c e A c B c c (e b e d) C D E F
+a h i f g = g d (b h f c) g
+c h f g = a a a (f b e) h
+------------------------------------------------------------
+c e A c B c c (e b e d) C D E F
+a a a (A b e) e B c c (e b e d) C D E F
+e d (b a (A b e) c) e B c c (e b e d) C D E F
+d e B c c (e b e d) C D E F
+b e a (e b e d) C D E F
+a e a C d D E F
+d d (b e C c) d D E F
+b e a E F
+a e a F d
+d d (b e F c) d
+
+

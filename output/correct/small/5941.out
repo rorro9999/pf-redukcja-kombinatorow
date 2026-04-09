@@ -1,0 +1,12 @@
+main = d b (A c (B (b d d (C d b c) d a e)))
+d i h g f = e b c c f e
+c g f h = e
+b g f h = c (a h c f d)
+e f i h g = i a
+a f g h = h (b b c)
+------------------------------------------------------------
+d b (A c (B (b d d (C d b c) d a e)))
+d b (A c (B (c (a (C d b c) c d d) d a e)))
+d b (A c (B (e e)))
+
+

@@ -1,0 +1,39 @@
+main = A (B e) C e (D (d a c e e a c) a b)
+d g i h f = e f (e c) g
+c h f g = a f d e f d
+b h g f i = g a e d a
+e g h i f = i a c c b a
+a g i h f = d (c d c b i h)
+------------------------------------------------------------
+A (B e) C e (D (d a c e e a c) a b)
+A (B e) C e (D (e e (e c) a a c) a b)
+A (B e) C e (D (a a c c b a c) a b)
+A (B e) C e (D (d (c d c b c c) a c) a b)
+A (B e) C e (D (d (a c d e c d c c) a c) a b)
+A (B e) C e (D (d (d (c d c b d e) d c c) a c) a b)
+A (B e) C e (D (d (e c (e c) (c d c b d e)) a c) a b)
+A (B e) C e (D (d (e c (e c) (a c d e c d d e)) a c) a b)
+A (B e) C e (D (d (e c (e c) (d (c d c b d e) d d e)) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (c d c b d e))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (a c d e c d d e))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (d (c d c b d e) d d e))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (c d c b d e)))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (a c d e c d d e)))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (d (c d c b d e) d d e)))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (c d c b d e))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (a c d e c d d e))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (d (c d c b d e) d d e))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (c d c b d e)))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (a c d e c d d e)))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (d (c d c b d e) d d e)))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (c d c b d e))))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (a c d e c d d e))))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (d (c d c b d e) d d e))))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (c d c b d e)))))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (a c d e c d d e)))))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (d (c d c b d e) d d e)))))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (c d c b d e))))))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (a c d e c d d e))))))))) a c) a b)
+A (B e) C e (D (d (e c (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (e e (e c) (d (c d c b d e) d d e))))))))) a c) a b)
+
+

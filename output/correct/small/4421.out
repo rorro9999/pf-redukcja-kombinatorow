@@ -1,0 +1,39 @@
+d f g i h = h (b (g c)) e (i c)
+c g h f = e b h f b g
+a h i g f = i g g e b
+main = e A B C c D (E F d a (G H I e) J)
+e f g h = b g b a b
+b g f h = e f d c f
+------------------------------------------------------------
+e A B C c D (E F d a (G H I e) J)
+b B b a b c D (E F d a (G H I e) J)
+e b d c b b c D (E F d a (G H I e) J)
+b d b a b b b c D (E F d a (G H I e) J)
+e b d c b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b c D (E F d a (G H I e) J)
+e b d c b b b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b b b c D (E F d a (G H I e) J)
+e b d c b b b b b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b b b b b c D (E F d a (G H I e) J)
+e b d c b b b b b b b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b b b b b b b c D (E F d a (G H I e) J)
+e b d c b b b b b b b b b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+e b d c b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+e b d c b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+e b d c b b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+e b d c b b b b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+e b d c b b b b b b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b b b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+e b d c b b b b b b b b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b b b b b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+e b d c b b b b b b b b b b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b b b b b b b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+e b d c b b b b b b b b b b b b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+b d b a b b b b b b b b b b b b b b b b b b b b b b b b b b b b b c D (E F d a (G H I e) J)
+
+

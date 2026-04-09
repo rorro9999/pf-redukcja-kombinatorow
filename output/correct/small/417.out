@@ -1,0 +1,37 @@
+a e f d = c
+b d e = c
+c = b b a a a
+main = A a b a b (c B) (C D E)
+------------------------------------------------------------
+A a b a b (c B) (C D E)
+A a b a b (b b a a a B) (C D E)
+A a b a b (c a a B) (C D E)
+A a b a b (b b a a a a a B) (C D E)
+A a b a b (c a a a a B) (C D E)
+A a b a b (b b a a a a a a a B) (C D E)
+A a b a b (c a a a a a a B) (C D E)
+A a b a b (b b a a a a a a a a a B) (C D E)
+A a b a b (c a a a a a a a a B) (C D E)
+A a b a b (b b a a a a a a a a a a a B) (C D E)
+A a b a b (c a a a a a a a a a a B) (C D E)
+A a b a b (b b a a a a a a a a a a a a a B) (C D E)
+A a b a b (c a a a a a a a a a a a a B) (C D E)
+A a b a b (b b a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (c a a a a a a a a a a a a a a B) (C D E)
+A a b a b (b b a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (c a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (b b a a a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (c a a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (b b a a a a a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (c a a a a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (b b a a a a a a a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (c a a a a a a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (b b a a a a a a a a a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (c a a a a a a a a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (b b a a a a a a a a a a a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (c a a a a a a a a a a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (b b a a a a a a a a a a a a a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (c a a a a a a a a a a a a a a a a a a a a a a a a a a a a B) (C D E)
+A a b a b (b b a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a B) (C D E)
+
+
