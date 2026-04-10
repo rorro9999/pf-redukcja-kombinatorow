@@ -11,5 +11,6 @@ b a a d (c b d) (D c (E b d b a))
 c b d c (D c (E b d b a))
 b b a d (D c (E b d b a))
 D c (E b d b a) c
+D c (E b (c a) b a) c
 
 

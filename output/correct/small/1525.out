@@ -4,10 +4,11 @@ c = a b b
 main = A c B (c b a b c a a)
 ------------------------------------------------------------
 A c B (c b a b c a a)
-A c B (a b b b a b c a a)
-A c B (b (b c c) a b c a a)
-A c B (a b c a a)
-A c B (b (b c c) a)
-A c B a
+A (a b b) B (c b a b c a a)
+A (a b b) B (a b b b a b c a a)
+A (a b b) B (b (b c c) a b c a a)
+A (a b b) B (a b c a a)
+A (a b b) B (b (b c c) a)
+A (a b b) B a
 
 

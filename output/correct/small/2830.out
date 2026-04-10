@@ -5,6 +5,9 @@ d e f g h = c a (c a b) e
 main = A B C a D c E F G H I (b (d d)) b
 ------------------------------------------------------------
 A B C a D c E F G H I (b (d d)) b
-A B C a D c E F G H I (a d (d d)) b
+A B C a D b E F G H I (b (d d)) b
+A B C a D (a d) E F G H I (b (d d)) b
+A B C a D (a d) E F G H I (a d (d d)) b
+A B C a D (a d) E F G H I (a d (d d)) (a d)
 
 

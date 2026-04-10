@@ -8,5 +8,7 @@ A (a a c B c) C D (E F b)
 A (b c B c) C D (E F b)
 A (B (a a) c) C D (E F b)
 A (B b c) C D (E F b)
+A (B b (a a)) C D (E F b)
+A (B b b) C D (E F b)
 
 

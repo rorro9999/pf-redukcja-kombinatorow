@@ -5,5 +5,8 @@ d = a (a (b b)) c a
 main = A (B d (C d D E F (G H I a J K d)))
 ------------------------------------------------------------
 A (B d (C d D E F (G H I a J K d)))
+A (B (a (a (b b)) c a) (C d D E F (G H I a J K d)))
+A (B (a (a (b b)) c a) (C (a (a (b b)) c a) D E F (G H I a J K d)))
+A (B (a (a (b b)) c a) (C (a (a (b b)) c a) D E F (G H I a J K (a (a (b b)) c a))))
 
 

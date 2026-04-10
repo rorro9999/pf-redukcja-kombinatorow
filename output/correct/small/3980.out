@@ -5,5 +5,7 @@ d g f e = c b b
 main = A a c (B d) C D c E c c a (d F G)
 ------------------------------------------------------------
 A a c (B d) C D c E c c a (d F G)
+A d c (B d) C D c E c c a (d F G)
+A d c (B d) C D c E c c d (d F G)
 
 

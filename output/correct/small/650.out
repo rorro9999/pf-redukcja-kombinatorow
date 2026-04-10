@@ -4,5 +4,9 @@ c d = b
 main = A a a (B C D a a c) b
 ------------------------------------------------------------
 A a a (B C D a a c) b
+A c a (B C D a a c) b
+A c c (B C D a a c) b
+A c c (B C D c a c) b
+A c c (B C D c c c) b
 
 

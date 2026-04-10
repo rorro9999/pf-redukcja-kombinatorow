@@ -9,5 +9,7 @@ A b B (c b C) c D
 A b B (a b C) c D
 A b B (b b) c D
 A b B c c D
+A b B a c D
+A b B a a D
 
 

@@ -7,5 +7,9 @@ main = c (d d (A (b B c C d d d d) D E d))
 c (d d (A (b B c C d d d d) D E d))
 c (d d (A (c d d d) D E d))
 c (d d (A (b (d d a) d) D E d))
+c (d d (A (b (d d (b (d c d b))) d) D E d))
+c (d d (A (b (d d (b (a d c c c))) d) D E d))
+c (d d (A (b (d d (b (b (d c d b) d c c c))) d) D E d))
+c (d d (A (b (d d (b (c c))) d) D E d))
 
 

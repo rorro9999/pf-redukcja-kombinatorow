@@ -12,5 +12,8 @@ A (b a c (B a a a))
 A (a c (B a a a))
 A (b c (B a a a))
 A (c (B a a a))
+A (c (B b a a))
+A (c (B b b a))
+A (c (B b b b))
 
 

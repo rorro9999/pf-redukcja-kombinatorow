@@ -6,5 +6,34 @@ main = A B e C D (e c) E b F b G a a H
 e i h f g = d b a h
 ------------------------------------------------------------
 A B e C D (e c) E b F b G a a H
+A B e C D (e (d e (e e b d e))) E b F b G a a H
+A B e C D (e (a b e a b a)) E b F b G a a H
+A B e C D (e (c b e e b a)) E b F b G a a H
+A B e C D (e (d e (e e b d e) b e e b a)) E b F b G a a H
+A B e C D (e (a b e a b a b e e b a)) E b F b G a a H
+A B e C D (e (c b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (d e (e e b d e) b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (a b e a b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (c b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (d e (e e b d e) b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (a b e a b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (c b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (d e (e e b d e) b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (a b e a b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (c b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (d e (e e b d e) b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (a b e a b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (c b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (d e (e e b d e) b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (a b e a b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (c b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (d e (e e b d e) b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (a b e a b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (c b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (d e (e e b d e) b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (a b e a b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (c b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (d e (e e b d e) b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
+A B e C D (e (a b e a b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a b e e b a)) E b F b G a a H
 
 

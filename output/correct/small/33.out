@@ -10,6 +10,12 @@ a A B (c a C c b D) a a
 b A B (c a C c b D) a a
 c c A B (c a C c b D) a a
 A a a B (c a C c b D) a a
-A a a B (C a a c b D) a a
+A b a B (c a C c b D) a a
+A b b B (c a C c b D) a a
+A b b B (C a a c b D) a a
+A b b B (C b a c b D) a a
+A b b B (C b b c b D) a a
+A b b B (C b b c b D) b a
+A b b B (C b b c b D) b b
 
 

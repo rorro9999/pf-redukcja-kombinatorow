@@ -12,5 +12,7 @@ b c d (e b (c e e c) c d e) c b e (A (B e a) a e d a)
 c (a d) c b e (A (B e a) a e d a)
 e e (e b (a d)) (A (B e a) a e d a)
 e e (e b (b b d)) (A (B e a) a e d a)
+e e (e b (b b (c (c e e c) c e))) (A (B e a) a e d a)
+e e (e b (b b (c (c e e c) c e))) (A (B e a) a e (c (c e e c) c e) a)
 
 

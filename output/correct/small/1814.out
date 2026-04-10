@@ -4,6 +4,7 @@ c f d e = b
 main = A b (b a (B c a c)) (c c)
 ------------------------------------------------------------
 A b (b a (B c a c)) (c c)
-A b (c a (B c a c)) (c c)
+A c (b a (B c a c)) (c c)
+A c (c a (B c a c)) (c c)
 
 

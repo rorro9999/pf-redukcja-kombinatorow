@@ -5,11 +5,17 @@ d g f e = b
 main = A (B a c (C c (a (b c) a) c d) a a d)
 ------------------------------------------------------------
 A (B a c (C c (a (b c) a) c d) a a d)
-A (B a c (C c (d c c b b d (b c) a) c d) a a d)
-A (B a c (C c (b b d (b c) a) c d) a a d)
-A (B a c (C c (b c a (b c) a) c d) a a d)
-A (B a c (C c (c c a (b c) a) c d) a a d)
-A (B a c (C c (d c (a b) (b c)) c d) a a d)
-A (B a c (C c b c d) a a d)
+A (B (d c c b b d) c (C c (a (b c) a) c d) a a d)
+A (B (b b d) c (C c (a (b c) a) c d) a a d)
+A (B (b b d) c (C c (d c c b b d (b c) a) c d) a a d)
+A (B (b b d) c (C c (b b d (b c) a) c d) a a d)
+A (B (b b d) c (C c (b c a (b c) a) c d) a a d)
+A (B (b b d) c (C c (c c a (b c) a) c d) a a d)
+A (B (b b d) c (C c (d c (a b) (b c)) c d) a a d)
+A (B (b b d) c (C c b c d) a a d)
+A (B (b b d) c (C c b c d) (d c c b b d) a d)
+A (B (b b d) c (C c b c d) (b b d) a d)
+A (B (b b d) c (C c b c d) (b b d) (d c c b b d) d)
+A (B (b b d) c (C c b c d) (b b d) (b b d) d)
 
 

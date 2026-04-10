@@ -4,12 +4,15 @@ c = b
 main = A c (B c c (b b C D a))
 ------------------------------------------------------------
 A c (B c c (b b C D a))
-A c (B c c (a D a))
-A c (B c c (c b b a))
-A c (B c c (b b b a))
-A c (B c c (a a))
-A c (B c c (c b b))
-A c (B c c (b b b))
-A c (B c c a)
+A b (B c c (b b C D a))
+A b (B b c (b b C D a))
+A b (B b b (b b C D a))
+A b (B b b (a D a))
+A b (B b b (c b b a))
+A b (B b b (b b b a))
+A b (B b b (a a))
+A b (B b b (c b b))
+A b (B b b (b b b))
+A b (B b b a)
 
 

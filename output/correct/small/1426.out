@@ -4,5 +4,34 @@ c = b a
 main = A (B C c) D E b b F c
 ------------------------------------------------------------
 A (B C c) D E b b F c
+A (B C (b a)) D E b b F c
+A (B C (c a a)) D E b b F c
+A (B C (b a a a)) D E b b F c
+A (B C (c a a a a)) D E b b F c
+A (B C (b a a a a a)) D E b b F c
+A (B C (c a a a a a a)) D E b b F c
+A (B C (b a a a a a a a)) D E b b F c
+A (B C (c a a a a a a a a)) D E b b F c
+A (B C (b a a a a a a a a a)) D E b b F c
+A (B C (c a a a a a a a a a a)) D E b b F c
+A (B C (b a a a a a a a a a a a)) D E b b F c
+A (B C (c a a a a a a a a a a a a)) D E b b F c
+A (B C (b a a a a a a a a a a a a a)) D E b b F c
+A (B C (c a a a a a a a a a a a a a a)) D E b b F c
+A (B C (b a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (c a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (b a a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (c a a a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (b a a a a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (c a a a a a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (b a a a a a a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (c a a a a a a a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (b a a a a a a a a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (c a a a a a a a a a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (b a a a a a a a a a a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (c a a a a a a a a a a a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (b a a a a a a a a a a a a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (c a a a a a a a a a a a a a a a a a a a a a a a a a a a a)) D E b b F c
+A (B C (b a a a a a a a a a a a a a a a a a a a a a a a a a a a a a)) D E b b F c
 
 

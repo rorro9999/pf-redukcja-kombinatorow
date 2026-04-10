@@ -5,5 +5,6 @@ d f e = a e a f a f
 main = A (d (B b C (D E F c b (c c c) b a)))
 ------------------------------------------------------------
 A (d (B b C (D E F c b (c c c) b a)))
+A (d (B b C (D E F c b (c c c) b c)))
 
 

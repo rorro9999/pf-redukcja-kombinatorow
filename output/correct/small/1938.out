@@ -4,6 +4,9 @@ c = a (a a a)
 main = A b a a B C D E (a a)
 ------------------------------------------------------------
 A b a a B C D E (a a)
-A b a a B C D E (b b a)
+A b (b b) a B C D E (a a)
+A b (b b) (b b) B C D E (a a)
+A b (b b) (b b) B C D E (b b a)
+A b (b b) (b b) B C D E (b b (b b))
 
 

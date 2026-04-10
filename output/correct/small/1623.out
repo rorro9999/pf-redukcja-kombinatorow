@@ -4,10 +4,19 @@ c d f e = b
 main = A b a B C (a c a c a)
 ------------------------------------------------------------
 A b a B C (a c a c a)
-A b a B C (c c a c a)
-A b a B C (b a)
-A b a B C (a a a a)
-A b a B C (c a a a)
-A b a B C b
+A (a a a) a B C (a c a c a)
+A (c a a) a B C (a c a c a)
+A (c c a) a B C (a c a c a)
+A (c c c) a B C (a c a c a)
+A (c c c) c B C (a c a c a)
+A (c c c) c B C (c c a c a)
+A (c c c) c B C (b a)
+A (c c c) c B C (a a a a)
+A (c c c) c B C (c a a a)
+A (c c c) c B C b
+A (c c c) c B C (a a a)
+A (c c c) c B C (c a a)
+A (c c c) c B C (c c a)
+A (c c c) c B C (c c c)
 
 

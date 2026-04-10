@@ -4,5 +4,34 @@ c d = a b
 main = A B c C a b b c D a
 ------------------------------------------------------------
 A B c C a b b c D a
+A B c C (c c) b b c D a
+A B c C (a b) b b c D a
+A B c C (c c b) b b c D a
+A B c C (a b b) b b c D a
+A B c C (c c b b) b b c D a
+A B c C (a b b b) b b c D a
+A B c C (c c b b b) b b c D a
+A B c C (a b b b b) b b c D a
+A B c C (c c b b b b) b b c D a
+A B c C (a b b b b b) b b c D a
+A B c C (c c b b b b b) b b c D a
+A B c C (a b b b b b b) b b c D a
+A B c C (c c b b b b b b) b b c D a
+A B c C (a b b b b b b b) b b c D a
+A B c C (c c b b b b b b b) b b c D a
+A B c C (a b b b b b b b b) b b c D a
+A B c C (c c b b b b b b b b) b b c D a
+A B c C (a b b b b b b b b b) b b c D a
+A B c C (c c b b b b b b b b b) b b c D a
+A B c C (a b b b b b b b b b b) b b c D a
+A B c C (c c b b b b b b b b b b) b b c D a
+A B c C (a b b b b b b b b b b b) b b c D a
+A B c C (c c b b b b b b b b b b b) b b c D a
+A B c C (a b b b b b b b b b b b b) b b c D a
+A B c C (c c b b b b b b b b b b b b) b b c D a
+A B c C (a b b b b b b b b b b b b b) b b c D a
+A B c C (c c b b b b b b b b b b b b b) b b c D a
+A B c C (a b b b b b b b b b b b b b b) b b c D a
+A B c C (c c b b b b b b b b b b b b b b) b b c D a
 
 

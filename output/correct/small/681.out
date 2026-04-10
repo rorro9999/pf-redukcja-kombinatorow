@@ -4,5 +4,34 @@ c = a (b a b b)
 main = A c c a B c (C b a) c
 ------------------------------------------------------------
 A c c a B c (C b a) c
+A (a (b a b b)) c a B c (C b a) c
+A (b b c (b b)) c a B c (C b a) c
+A (a c (b b)) c a B c (C b a) c
+A (b b c (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b)) c a B c (C b a) c
+A (b b c (b b) (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b) (b b)) c a B c (C b a) c
+A (b b c (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (b b c (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (b b c (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (b b c (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (b b c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (b b c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (b b c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (b b c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (b b c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (b b c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (b b c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
+A (a c (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b) (b b)) c a B c (C b a) c
 
 

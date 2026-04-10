@@ -22,5 +22,7 @@ a (c b b) (a E F)
 c b b (c b b)
 a a b
 a (c b b)
+a (c (c c) b)
+a (c (c c) (c c))
 
 

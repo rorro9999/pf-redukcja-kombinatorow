@@ -12,5 +12,7 @@ B c c c c B a C (c a b b D) E a c (F G d)
 B c c c c B a C (a a b D) E a c (F G d)
 B c c c c B a C (b b c c D) E a c (F G d)
 B c c c c B a C (D c c c c D) E a c (F G d)
+B c c c c B a C (D c c c c D) E a c (F G (c c b b))
+B c c c c B a C (D c c c c D) E a c (F G (c a b))
 
 

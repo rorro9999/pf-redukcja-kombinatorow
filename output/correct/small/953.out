@@ -4,5 +4,34 @@ c d = a a
 main = A c (B C D c E b) F a
 ------------------------------------------------------------
 A c (B C D c E b) F a
+A c (B C D c E (c c)) F a
+A c (B C D c E (a a)) F a
+A c (B C D c E (b c a)) F a
+A c (B C D c E (c c c a)) F a
+A c (B C D c E (a a c a)) F a
+A c (B C D c E (b c a c a)) F a
+A c (B C D c E (c c c a c a)) F a
+A c (B C D c E (a a c a c a)) F a
+A c (B C D c E (b c a c a c a)) F a
+A c (B C D c E (c c c a c a c a)) F a
+A c (B C D c E (a a c a c a c a)) F a
+A c (B C D c E (b c a c a c a c a)) F a
+A c (B C D c E (c c c a c a c a c a)) F a
+A c (B C D c E (a a c a c a c a c a)) F a
+A c (B C D c E (b c a c a c a c a c a)) F a
+A c (B C D c E (c c c a c a c a c a c a)) F a
+A c (B C D c E (a a c a c a c a c a c a)) F a
+A c (B C D c E (b c a c a c a c a c a c a)) F a
+A c (B C D c E (c c c a c a c a c a c a c a)) F a
+A c (B C D c E (a a c a c a c a c a c a c a)) F a
+A c (B C D c E (b c a c a c a c a c a c a c a)) F a
+A c (B C D c E (c c c a c a c a c a c a c a c a)) F a
+A c (B C D c E (a a c a c a c a c a c a c a c a)) F a
+A c (B C D c E (b c a c a c a c a c a c a c a c a)) F a
+A c (B C D c E (c c c a c a c a c a c a c a c a c a)) F a
+A c (B C D c E (a a c a c a c a c a c a c a c a c a)) F a
+A c (B C D c E (b c a c a c a c a c a c a c a c a c a)) F a
+A c (B C D c E (c c c a c a c a c a c a c a c a c a c a)) F a
+A c (B C D c E (a a c a c a c a c a c a c a c a c a c a)) F a
 
 

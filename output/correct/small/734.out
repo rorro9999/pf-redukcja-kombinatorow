@@ -6,5 +6,7 @@ main = A B (b c c a) a c a C
 A B (b c c a) a c a C
 A B (a c) a c a C
 A B c a c a C
+A B b a c a C
+A B b a b a C
 
 

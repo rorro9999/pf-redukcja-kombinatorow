@@ -9,5 +9,6 @@ b c a b b A (c (B (C (d c c b) D d) E b))
 d A (c (B (C (d c c b) D d) E b))
 b c a A (c (B (C (d c c b) D d) E b))
 d
+b c a
 
 

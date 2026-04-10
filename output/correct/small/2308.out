@@ -5,10 +5,12 @@ d e f = a b
 main = A (B c b d b c C (c a a b a)) (D E)
 ------------------------------------------------------------
 A (B c b d b c C (c a a b a)) (D E)
-A (B c b d b c C (d a a a b a)) (D E)
-A (B c b d b c C (a b a b a)) (D E)
-A (B c b d b c C (d b b a)) (D E)
-A (B c b d b c C (a b a)) (D E)
-A (B c b d b c C (d b)) (D E)
+A (B (d a) b d b c C (c a a b a)) (D E)
+A (B (d a) b d b (d a) C (c a a b a)) (D E)
+A (B (d a) b d b (d a) C (d a a a b a)) (D E)
+A (B (d a) b d b (d a) C (a b a b a)) (D E)
+A (B (d a) b d b (d a) C (d b b a)) (D E)
+A (B (d a) b d b (d a) C (a b a)) (D E)
+A (B (d a) b d b (d a) C (d b)) (D E)
 
 

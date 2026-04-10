@@ -13,5 +13,6 @@ a c a (C a c)
 c (C a c c)
 b a (C a c c)
 a c
+a (b a)
 
 

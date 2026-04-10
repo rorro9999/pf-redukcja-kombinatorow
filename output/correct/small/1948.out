@@ -4,5 +4,8 @@ c d f e = b b b b a
 main = A c b b b B C D c E
 ------------------------------------------------------------
 A c b b b B C D c E
+A c (a c) b b B C D c E
+A c (a c) (a c) b B C D c E
+A c (a c) (a c) (a c) B C D c E
 
 

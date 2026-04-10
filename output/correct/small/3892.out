@@ -5,5 +5,6 @@ d f e = a
 main = A b b c b B (C c a D (E F b) b c)
 ------------------------------------------------------------
 A b b c b B (C c a D (E F b) b c)
+A b b c b B (C c (d d) D (E F b) b c)
 
 

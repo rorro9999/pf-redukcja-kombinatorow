@@ -8,5 +8,7 @@ c c a A (B c c a)
 b c a A (B c c a)
 c a (B c c a)
 b a (B c c a)
+b a (B b c a)
+b a (B b b a)
 
 

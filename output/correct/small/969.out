@@ -4,6 +4,8 @@ c e d = a d
 main = A B c a b (a b) (C D E)
 ------------------------------------------------------------
 A B c a b (a b) (C D E)
-A B c a b b (C D E)
+A B c a a (a b) (C D E)
+A B c a a b (C D E)
+A B c a a a (C D E)
 
 

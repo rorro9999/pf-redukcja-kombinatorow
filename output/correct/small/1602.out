@@ -4,6 +4,12 @@ c e d = a a
 main = A B c a a c a C (b c)
 ------------------------------------------------------------
 A B c a a c a C (b c)
-A B c a a c a C (c c)
+A B c (b c) a c a C (b c)
+A B c (c c) a c a C (b c)
+A B c (c c) (b c) c a C (b c)
+A B c (c c) (c c) c a C (b c)
+A B c (c c) (c c) c (b c) C (b c)
+A B c (c c) (c c) c (c c) C (b c)
+A B c (c c) (c c) c (c c) C (c c)
 
 

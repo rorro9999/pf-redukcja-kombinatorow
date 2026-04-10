@@ -38,5 +38,7 @@ t n (a l (t (f (b ad j c y z) ab aa o o d)) z w (j r j n s))
 t n (m x m ab f b (t (f (b ad j c y z) ab aa o o d)) z w (j r j n s))
 t n (n (h x (k (j q f aa k q))) (t (f (b ad j c y z) ab aa o o d)) z w (j r j n s))
 t n (t (u ab r) (j r j n s))
+t n (t (u ab (w x c o)) (j r j n s))
+t n (t (u ab (w x c o)) (j (w x c o) j n s))
 
 

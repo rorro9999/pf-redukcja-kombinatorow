@@ -4,5 +4,8 @@ c e d = e
 main = A B b a C a D a b c
 ------------------------------------------------------------
 A B b a C a D a b c
+A B b c C a D a b c
+A B b c C c D a b c
+A B b c C c D c b c
 
 

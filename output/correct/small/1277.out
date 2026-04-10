@@ -4,5 +4,34 @@ c = b a a b a
 main = A B (C b) a c a a D E
 ------------------------------------------------------------
 A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
+A B (C b) a c a a D E
+A B (C (a c (c c a))) a c a a D E
 
 

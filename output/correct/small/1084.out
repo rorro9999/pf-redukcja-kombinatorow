@@ -6,5 +6,7 @@ main = c A a (B C D b a) (E F)
 c A a (B C D b a) (E F)
 b b A a (B C D b a) (E F)
 A a (B C D b a) (E F)
+A b (B C D b a) (E F)
+A b (B C D b b) (E F)
 
 

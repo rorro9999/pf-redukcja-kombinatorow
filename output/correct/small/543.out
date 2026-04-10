@@ -8,5 +8,10 @@ A B C (b D) c b b a
 A B C (c D) c b b a
 A B C (a D) c b b a
 A B C D c b b a
+A B C D a b b a
+A B C D a c b a
+A B C D a a b a
+A B C D a a c a
+A B C D a a a a
 
 

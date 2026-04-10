@@ -4,5 +4,12 @@ c = a
 main = A c B b c C (D c a) E
 ------------------------------------------------------------
 A c B b c C (D c a) E
+A a B b c C (D c a) E
+A b B b c C (D c a) E
+A b B b a C (D c a) E
+A b B b b C (D c a) E
+A b B b b C (D a a) E
+A b B b b C (D b a) E
+A b B b b C (D b b) E
 
 

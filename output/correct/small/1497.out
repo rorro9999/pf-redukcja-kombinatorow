@@ -12,5 +12,26 @@ a E
 c E
 b a E
 a
+c
+b a
+b c
+b (b a)
+b (b c)
+b (b (b a))
+b (b (b c))
+b (b (b (b a)))
+b (b (b (b c)))
+b (b (b (b (b a))))
+b (b (b (b (b c))))
+b (b (b (b (b (b a)))))
+b (b (b (b (b (b c)))))
+b (b (b (b (b (b (b a))))))
+b (b (b (b (b (b (b c))))))
+b (b (b (b (b (b (b (b a)))))))
+b (b (b (b (b (b (b (b c)))))))
+b (b (b (b (b (b (b (b (b a))))))))
+b (b (b (b (b (b (b (b (b c))))))))
+b (b (b (b (b (b (b (b (b (b a)))))))))
+b (b (b (b (b (b (b (b (b (b c)))))))))
 
 

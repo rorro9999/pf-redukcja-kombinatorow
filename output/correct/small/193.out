@@ -11,5 +11,7 @@ a b a b b (B b a)
 c b b (B b a)
 a b a b b
 c b b
+c a b
+c a a
 
 

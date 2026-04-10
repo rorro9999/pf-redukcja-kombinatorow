@@ -5,6 +5,9 @@ d f g e = b a (a a c b)
 main = A a (a b) b c c (b (B c a (d a) c C))
 ------------------------------------------------------------
 A a (a b) b c c (b (B c a (d a) c C))
-A a (d b b) b c c (b (B c a (d a) c C))
+A (d b) (a b) b c c (b (B c a (d a) c C))
+A (d b) (d b b) b c c (b (B c a (d a) c C))
+A (d b) (d b b) b c c (b (B c (d b) (d a) c C))
+A (d b) (d b b) b c c (b (B c (d b) (d (d b)) c C))
 
 

@@ -8,5 +8,17 @@ A (B (c c) (C c) b c c) D
 A (B (b b b b b c) (C c) b c c) D
 A (B (b b b c) (C c) b c c) D
 A (B (b c) (C c) b c c) D
+A (B (b (b b b b b)) (C c) b c c) D
+A (B (b (b b b)) (C c) b c c) D
+A (B (b b) (C c) b c c) D
+A (B (b b) (C (b b b b b)) b c c) D
+A (B (b b) (C (b b b)) b c c) D
+A (B (b b) (C b) b c c) D
+A (B (b b) (C b) b (b b b b b) c) D
+A (B (b b) (C b) b (b b b) c) D
+A (B (b b) (C b) b b c) D
+A (B (b b) (C b) b b (b b b b b)) D
+A (B (b b) (C b) b b (b b b)) D
+A (B (b b) (C b) b b b) D
 
 

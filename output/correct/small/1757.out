@@ -5,5 +5,7 @@ main = a a A (B C D (E c a) c)
 ------------------------------------------------------------
 a a A (B C D (E c a) c)
 A (B C D (E c a) c)
+A (B C D (E a a) c)
+A (B C D (E a a) a)
 
 

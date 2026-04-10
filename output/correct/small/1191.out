@@ -4,5 +4,34 @@ c e d = b a b a b
 main = A B b b C D b E c F
 ------------------------------------------------------------
 A B b b C D b E c F
+A B a b C D b E c F
+A B (b b c c) b C D b E c F
+A B (a b c c) b C D b E c F
+A B (b b c c b c c) b C D b E c F
+A B (a b c c b c c) b C D b E c F
+A B (b b c c b c c b c c) b C D b E c F
+A B (a b c c b c c b c c) b C D b E c F
+A B (b b c c b c c b c c b c c) b C D b E c F
+A B (a b c c b c c b c c b c c) b C D b E c F
+A B (b b c c b c c b c c b c c b c c) b C D b E c F
+A B (a b c c b c c b c c b c c b c c) b C D b E c F
+A B (b b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (a b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (b b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (a b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (b b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (a b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (b b c c b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (a b c c b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (b b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (a b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (b b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (a b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (b b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (a b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (b b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (a b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (b b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
+A B (a b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c) b C D b E c F
 
 

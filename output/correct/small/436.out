@@ -4,5 +4,34 @@ c = a b
 main = A B c C c D E F a c
 ------------------------------------------------------------
 A B c C c D E F a c
+A B (a b) C c D E F a c
+A B (b c b) C c D E F a c
+A B (b (a b) b) C c D E F a c
+A B (b (b c b) b) C c D E F a c
+A B (b (b (a b) b) b) C c D E F a c
+A B (b (b (b c b) b) b) C c D E F a c
+A B (b (b (b (a b) b) b) b) C c D E F a c
+A B (b (b (b (b c b) b) b) b) C c D E F a c
+A B (b (b (b (b (a b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b c b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (a b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b c b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (a b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b c b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (a b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b c b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (a b) b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (b c b) b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (b (a b) b) b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (b (b c b) b) b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (b (b (a b) b) b) b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (b (b (b c b) b) b) b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (b (b (b (a b) b) b) b) b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (b (b (b (b c b) b) b) b) b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (b (b (b (b (a b) b) b) b) b) b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (b (b (b (b (b c b) b) b) b) b) b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (b (b (b (b (b (a b) b) b) b) b) b) b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (b (b (b (b (b (b c b) b) b) b) b) b) b) b) b) b) b) b) b) b) C c D E F a c
+A B (b (b (b (b (b (b (b (b (b (b (b (b (b (b (a b) b) b) b) b) b) b) b) b) b) b) b) b) b) b) C c D E F a c
 
 

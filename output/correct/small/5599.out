@@ -13,5 +13,7 @@ a e c c e (D E d (c b) b d a)
 d c (e (c e) b b) e (D E d (c b) b d a)
 a e c c e
 d c (e (c e) b b) e
+d c (e (c e) (a (c e)) b) e
+d c (e (c e) (a (c e)) (a (c e))) e
 
 

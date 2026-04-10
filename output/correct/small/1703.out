@@ -4,11 +4,17 @@ c = b a
 main = A a B b c (c b C) b D
 ------------------------------------------------------------
 A a B b c (c b C) b D
-A a B b c (b a b C) b D
-A a B b c (a a b C) b D
-A a B b c (c C) b D
-A a B b c (b a C) b D
-A a B b c (a a C) b D
-A a B b c c b D
+A a B a c (c b C) b D
+A a B a (b a) (c b C) b D
+A a B a (a a) (c b C) b D
+A a B a (a a) (b a b C) b D
+A a B a (a a) (a a b C) b D
+A a B a (a a) (c C) b D
+A a B a (a a) (b a C) b D
+A a B a (a a) (a a C) b D
+A a B a (a a) c b D
+A a B a (a a) (b a) b D
+A a B a (a a) (a a) b D
+A a B a (a a) (a a) a D
 
 

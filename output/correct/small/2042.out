@@ -5,6 +5,8 @@ d g e f = f c c f (b c)
 main = a (A (B b (C (c d d d d) D d c a c)))
 ------------------------------------------------------------
 a (A (B b (C (c d d d d) D d c a c)))
-a (A (B b (C d D d c a c)))
+a (A (B (a a (a a) d a) (C (c d d d d) D d c a c)))
+a (A (B (c c d a) (C (c d d d d) D d c a c)))
+a (A (B (c c d a) (C d D d c a c)))
 
 

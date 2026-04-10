@@ -10,5 +10,28 @@ b (a (B b (C D a b a)))
 c a (a (B b (C D a b a)))
 a b a (a (B b (C D a b a)))
 b
+c a
+a b a
+a (c a) a
+a (a b a) a
+a (a (c a) a) a
+a (a (a b a) a) a
+a (a (a (c a) a) a) a
+a (a (a (a b a) a) a) a
+a (a (a (a (c a) a) a) a) a
+a (a (a (a (a b a) a) a) a) a
+a (a (a (a (a (c a) a) a) a) a) a
+a (a (a (a (a (a b a) a) a) a) a) a
+a (a (a (a (a (a (c a) a) a) a) a) a) a
+a (a (a (a (a (a (a b a) a) a) a) a) a) a
+a (a (a (a (a (a (a (c a) a) a) a) a) a) a) a
+a (a (a (a (a (a (a (a b a) a) a) a) a) a) a) a
+a (a (a (a (a (a (a (a (c a) a) a) a) a) a) a) a) a
+a (a (a (a (a (a (a (a (a b a) a) a) a) a) a) a) a) a
+a (a (a (a (a (a (a (a (a (c a) a) a) a) a) a) a) a) a) a
+a (a (a (a (a (a (a (a (a (a b a) a) a) a) a) a) a) a) a) a
+a (a (a (a (a (a (a (a (a (a (c a) a) a) a) a) a) a) a) a) a) a
+a (a (a (a (a (a (a (a (a (a (a b a) a) a) a) a) a) a) a) a) a) a
+a (a (a (a (a (a (a (a (a (a (a (c a) a) a) a) a) a) a) a) a) a) a) a
 
 

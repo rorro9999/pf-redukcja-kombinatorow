@@ -6,5 +6,8 @@ main = d (a (d a (A (c d) c c B d c a C D)))
 ------------------------------------------------------------
 d (a (d a (A (c d) c c B d c a C D)))
 d (a (d a (A (d d b d) c c B d c a C D)))
+d (a (d a (A (d d b d) (d d b) c B d c a C D)))
+d (a (d a (A (d d b d) (d d b) (d d b) B d c a C D)))
+d (a (d a (A (d d b d) (d d b) (d d b) B d (d d b) a C D)))
 
 

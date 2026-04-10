@@ -5,5 +5,33 @@ main = b (A B (c (b b b b) C b))
 ------------------------------------------------------------
 b (A B (c (b b b b) C b))
 c
+a a (b a b)
+b (b a b)
+c
+a a (b a b)
+b (b a b)
+c
+a a (b a b)
+b (b a b)
+c
+a a (b a b)
+b (b a b)
+c
+a a (b a b)
+b (b a b)
+c
+a a (b a b)
+b (b a b)
+c
+a a (b a b)
+b (b a b)
+c
+a a (b a b)
+b (b a b)
+c
+a a (b a b)
+b (b a b)
+c
+a a (b a b)
 
 

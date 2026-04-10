@@ -5,5 +5,9 @@ d h e g f = a a
 main = A a a B C d c a c D E d F d a
 ------------------------------------------------------------
 A a a B C d c a c D E d F d a
+A a a B C d (d a d a d) a c D E d F d a
+A a a B C d (a a) a c D E d F d a
+A a a B C d (a a) a (d a d a d) D E d F d a
+A a a B C d (a a) a (a a) D E d F d a
 
 

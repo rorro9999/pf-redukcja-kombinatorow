@@ -4,7 +4,14 @@ c = b b
 main = A B a c (a (C a a D E))
 ------------------------------------------------------------
 A B a c (a (C a a D E))
-A B a c (c (C a a D E))
-A B a c (b b (C a a D E))
+A B c c (a (C a a D E))
+A B (b b) c (a (C a a D E))
+A B (b b) (b b) (a (C a a D E))
+A B (b b) (b b) (c (C a a D E))
+A B (b b) (b b) (b b (C a a D E))
+A B (b b) (b b) (b b (C c a D E))
+A B (b b) (b b) (b b (C (b b) a D E))
+A B (b b) (b b) (b b (C (b b) c D E))
+A B (b b) (b b) (b b (C (b b) (b b) D E))
 
 

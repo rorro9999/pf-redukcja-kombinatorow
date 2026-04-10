@@ -14,5 +14,6 @@ A a (a (B (c c c)))
 A a (a (B (a c c)))
 A a (a (B (c c)))
 A a (a (B (a c)))
+A a (a (B (a a)))
 
 

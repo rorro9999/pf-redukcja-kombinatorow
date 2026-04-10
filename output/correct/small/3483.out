@@ -5,5 +5,7 @@ d g e h f = a b a
 main = A (b (b B (C D E F a c a G H c I)))
 ------------------------------------------------------------
 A (b (b B (C D E F a c a G H c I)))
+A (b (b B (C D E F a b a G H c I)))
+A (b (b B (C D E F a b a G H b I)))
 
 

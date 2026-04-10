@@ -7,5 +7,7 @@ a (a c A B c (C c a c))
 a (c B c (C c a c))
 a (a B c (C c a c))
 a (B (C c a c))
+a (B (C a a c))
+a (B (C a a a))
 
 

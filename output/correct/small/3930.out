@@ -7,5 +7,10 @@ main = A B C D E F b G (H (c d I J a) d)
 A B C D E F b G (H (c d I J a) d)
 A B C D E F b G (H (a a (d b d) I J a) d)
 A B C D E F b G (H (a J a) d)
+A B C D E F b G (H (a J a) (c c))
+A B C D E F b G (H (a J a) (a a (d b c)))
+A B C D E F b G (H (a J a) (a a (c c b c)))
+A B C D E F b G (H (a J a) (a a (a a (d b c) b c)))
+A B C D E F b G (H (a J a) (a a (a c)))
 
 

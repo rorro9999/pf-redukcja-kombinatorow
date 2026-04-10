@@ -7,6 +7,8 @@ b a A B c C c D (a a)
 a a A B c C c D (a a)
 b A B c C c D (a a)
 A a B c C c D (a a)
-A a B c C c D b
+A a B b C c D (a a)
+A a B b C b D (a a)
+A a B b C b D b
 
 

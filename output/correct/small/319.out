@@ -4,5 +4,6 @@ c = a
 main = b a (A B C D E b c F)
 ------------------------------------------------------------
 b a (A B C D E b c F)
+b a (A B C D E b a F)
 
 

@@ -4,5 +4,34 @@ c d = a
 main = A B C c b D (E a) c c
 ------------------------------------------------------------
 A B C c b D (E a) c c
+A B C c (a c c) D (E a) c c
+A B C c (b c c b) D (E a) c c
+A B C c (a c c c c b) D (E a) c c
+A B C c (b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b) D (E a) c c
+A B C c (b c c b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b c c b) D (E a) c c
+A B C c (b c c b c c b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b c c b c c b) D (E a) c c
+A B C c (b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (b c c b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
+A B C c (a c c c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b c c b) D (E a) c c
 
 

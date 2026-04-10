@@ -16,5 +16,7 @@ a (c b B)
 a (b (b a b) b B)
 a (a a B)
 a c
+a (b (b a b))
+a (b (a a))
 
 

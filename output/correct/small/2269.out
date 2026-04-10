@@ -6,5 +6,6 @@ main = A B C D b (E F G a (d d)) a a H b
 ------------------------------------------------------------
 A B C D b (E F G a (d d)) a a H b
 A B C D b (E F G a (b c a d)) a a H b
+A B C D b (E F G a (b c a (b c a))) a a H b
 
 

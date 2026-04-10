@@ -4,5 +4,34 @@ c f e d = a a b d
 main = A (B c) b a c b b a b
 ------------------------------------------------------------
 A (B c) b a c b b a b
+A (B c) (a a a) a c b b a b
+A (B c) (b c a) a c b b a b
+A (B c) (a a a c a) a c b b a b
+A (B c) (b c a c a) a c b b a b
+A (B c) (a a a c a c a) a c b b a b
+A (B c) (b c a c a c a) a c b b a b
+A (B c) (a a a c a c a c a) a c b b a b
+A (B c) (b c a c a c a c a) a c b b a b
+A (B c) (a a a c a c a c a c a) a c b b a b
+A (B c) (b c a c a c a c a c a) a c b b a b
+A (B c) (a a a c a c a c a c a c a) a c b b a b
+A (B c) (b c a c a c a c a c a c a) a c b b a b
+A (B c) (a a a c a c a c a c a c a c a) a c b b a b
+A (B c) (b c a c a c a c a c a c a c a) a c b b a b
+A (B c) (a a a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (b c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (a a a c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (b c a c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (a a a c a c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (b c a c a c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (a a a c a c a c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (b c a c a c a c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (a a a c a c a c a c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (b c a c a c a c a c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (a a a c a c a c a c a c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (b c a c a c a c a c a c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (a a a c a c a c a c a c a c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (b c a c a c a c a c a c a c a c a c a c a c a c a c a c a) a c b b a b
+A (B c) (a a a c a c a c a c a c a c a c a c a c a c a c a c a c a c a) a c b b a b
 
 

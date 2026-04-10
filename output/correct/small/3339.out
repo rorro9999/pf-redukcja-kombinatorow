@@ -10,5 +10,6 @@ c a c c c B a (d (C b (b a c) D d))
 b d d B a (d (C b (b a c) D d))
 B a c a a (d (C b (b a c) D d))
 B a c a a (c b c (C b (b a c) D d))
+B a c a a (c b c (C b (b a c) D (c b c)))
 
 

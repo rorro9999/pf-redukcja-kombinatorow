@@ -4,9 +4,16 @@ c d = a
 main = A B a C (c a a) c b a
 ------------------------------------------------------------
 A B a C (c a a) c b a
-A B a C (a a) c b a
-A B a C (b a) c b a
-A B a C (c a) c b a
-A B a C a c b a
+A B b C (c a a) c b a
+A B c C (c a a) c b a
+A B c C (a a) c b a
+A B c C (b a) c b a
+A B c C (c a) c b a
+A B c C a c b a
+A B c C b c b a
+A B c C c c b a
+A B c C c c c a
+A B c C c c c b
+A B c C c c c c
 
 

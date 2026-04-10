@@ -4,5 +4,15 @@ c d = b b a
 main = A a B C a b c D E c
 ------------------------------------------------------------
 A a B C a b c D E c
+A (c b c) B C a b c D E c
+A (b b a c) B C a b c D E c
+A (c c) B C a b c D E c
+A (b b a) B C a b c D E c
+A c B C a b c D E c
+A c B C (c b c) b c D E c
+A c B C (b b a c) b c D E c
+A c B C (c c) b c D E c
+A c B C (b b a) b c D E c
+A c B C c b c D E c
 
 

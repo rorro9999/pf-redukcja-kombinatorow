@@ -6,5 +6,11 @@ main = a A c B (C D E c F a)
 a A c B (C D E c F a)
 b (C D E c F a)
 a a (C D E c F a)
+a a (C D E (b a a b a) F a)
+a a (C D E (a a a a b a) F a)
+a a (C D E (b b a) F a)
+a a (C D E (a a b a) F a)
+a a (C D E b F a)
+a a (C D E (a a) F a)
 
 

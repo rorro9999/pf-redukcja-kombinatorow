@@ -53,5 +53,12 @@ z (p (w (t x aa) y aa) (ab s l) d r r) j
 z (x (aa ac) r (u (h d h aa ab))) j
 z (x (aa ac) r (u (p (w (t x aa) y d) aa ab))) j
 z (x (aa ac) r (u (p (m d) aa ab))) j
+z (x (aa ac) r (u (p (m (t c ac o l (p l n i))) aa ab))) j
+z (x (aa ac) r (u (p (m (d e b s d o l (p l n i))) aa ab))) j
+z (x (aa ac) r (u (p (m (t c ac o l (p l n i) e b s d o l (p l n i))) aa ab))) j
+z (x (aa ac) r (u (p (m (d e b s d o l (p l n i) e b s d o l (p l n i))) aa ab))) j
+z (x (aa ac) r (u (p (m (t c ac o l (p l n i) e b s d o l (p l n i) e b s d o l (p l n i))) aa ab))) j
+z (x (aa ac) r (u (p (m (d e b s d o l (p l n i) e b s d o l (p l n i) e b s d o l (p l n i))) aa ab))) j
+z (x (aa ac) r (u (p (m (t c ac o l (p l n i) e b s d o l (p l n i) e b s d o l (p l n i) e b s d o l (p l n i))) aa ab))) j
 
 

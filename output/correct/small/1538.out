@@ -4,6 +4,10 @@ c e d = b
 main = c (A b (c c a) b (B C b))
 ------------------------------------------------------------
 c (A b (c c a) b (B C b))
-c (A b b b (B C b))
+c (A c (c c a) b (B C b))
+c (A c b b (B C b))
+c (A c c b (B C b))
+c (A c c c (B C b))
+c (A c c c (B C c))
 
 

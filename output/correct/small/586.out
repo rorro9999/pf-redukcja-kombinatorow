@@ -4,5 +4,10 @@ c = b
 main = A B c c b a C c c c
 ------------------------------------------------------------
 A B c c b a C c c c
+A B b c b a C c c c
+A B b b b a C c c c
+A B b b b a C b c c
+A B b b b a C b b c
+A B b b b a C b b b
 
 
