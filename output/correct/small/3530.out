@@ -5,6 +5,10 @@ d = c a a
 main = A B c (b b) C d (c c) D E d (c c F)
 ------------------------------------------------------------
 A B c (b b) C d (c c) D E d (c c F)
-A B c (b b) C d (c c) D E d b
+A B c (b b) C (c a a) (c c) D E d (c c F)
+A B c (b b) C b (c c) D E d (c c F)
+A B c (b b) C b (c c) D E (c a a) (c c F)
+A B c (b b) C b (c c) D E b (c c F)
+A B c (b b) C b (c c) D E b b
 
 

@@ -4,5 +4,34 @@ c = b b b
 main = A b a c c a c B C D
 ------------------------------------------------------------
 A b a c c a c B C D
+A b a (b b b) c a c B C D
+A b a (a b c) c a c B C D
+A b a (a b (b b b)) c a c B C D
+A b a (a b (a b c)) c a c B C D
+A b a (a b (a b (b b b))) c a c B C D
+A b a (a b (a b (a b c))) c a c B C D
+A b a (a b (a b (a b (b b b)))) c a c B C D
+A b a (a b (a b (a b (a b c)))) c a c B C D
+A b a (a b (a b (a b (a b (b b b))))) c a c B C D
+A b a (a b (a b (a b (a b (a b c))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (b b b)))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b c)))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (b b b))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b c))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (b b b)))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b c)))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (b b b))))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (a b c))))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (a b (b b b)))))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b c)))))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (b b b))))))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b c))))))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (b b b)))))))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b c)))))))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (b b b))))))))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b c))))))))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (b b b)))))))))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b c)))))))))))))) c a c B C D
+A b a (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (a b (b b b))))))))))))))) c a c B C D
 
 

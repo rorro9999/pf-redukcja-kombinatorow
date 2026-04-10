@@ -4,7 +4,20 @@ c = b b
 main = A B C b D E a (c c a)
 ------------------------------------------------------------
 A B C b D E a (c c a)
-A B C b D E a (b b c a)
-A B C b D E a (b c c)
+A B C b D E (c c c c b) (c c a)
+A B C b D E (b b c c c b) (c c a)
+A B C b D E (b c c c b) (c c a)
+A B C b D E (c c c b) (c c a)
+A B C b D E (b b c c b) (c c a)
+A B C b D E (b c c b) (c c a)
+A B C b D E (c c c) (c c a)
+A B C b D E (b b c c) (c c a)
+A B C b D E (b c c) (c c a)
+A B C b D E (b (b b) c) (c c a)
+A B C b D E (b (b b) (b b)) (c c a)
+A B C b D E (b (b b) (b b)) (b b c a)
+A B C b D E (b (b b) (b b)) (b c c)
+A B C b D E (b (b b) (b b)) (b (b b) c)
+A B C b D E (b (b b) (b b)) (b (b b) (b b))
 
 

@@ -11,5 +11,9 @@ d (d d c c c) (b c d B)
 d (d a a c c) (b c d B)
 d (a a a c c) (b c d B)
 d (b c c c) (b c d B)
+d (b d c c) (b c d B)
+d (b d d c) (b c d B)
+d (b d d d) (b c d B)
+d (b d d d) (b d d B)
 
 

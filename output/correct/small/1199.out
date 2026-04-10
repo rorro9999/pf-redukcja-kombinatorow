@@ -4,6 +4,11 @@ c = b
 main = A B C b b (b c) b D E
 ------------------------------------------------------------
 A B C b b (b c) b D E
-A B C b b (a c) b D E
+A B C a b (b c) b D E
+A B C a a (b c) b D E
+A B C a a (a c) b D E
+A B C a a (a b) b D E
+A B C a a (a a) b D E
+A B C a a (a a) a D E
 
 

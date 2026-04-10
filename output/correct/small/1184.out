@@ -4,5 +4,19 @@ c = a a a a a
 main = A c c (B a b) a b a a
 ------------------------------------------------------------
 A c c (B a b) a b a a
+A (a a a a a) c (B a b) a b a a
+A (a a a) c (B a b) a b a a
+A a c (B a b) a b a a
+A a (a a a a a) (B a b) a b a a
+A a (a a a) (B a b) a b a a
+A a a (B a b) a b a a
+A a a (B a c) a b a a
+A a a (B a (a a a a a)) a b a a
+A a a (B a (a a a)) a b a a
+A a a (B a a) a b a a
+A a a (B a a) a c a a
+A a a (B a a) a (a a a a a) a a
+A a a (B a a) a (a a a) a a
+A a a (B a a) a a a a
 
 

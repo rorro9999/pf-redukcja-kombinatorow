@@ -5,5 +5,7 @@ d g h e f = c a
 main = A d (B b a d d (C D b) c b) E a F
 ------------------------------------------------------------
 A d (B b a d d (C D b) c b) E a F
+A d (B b (d c d (b b b)) d d (C D b) c b) E a F
+A d (B b (d c d (b b b)) d d (C D b) c b) E (d c d (b b b)) F
 
 

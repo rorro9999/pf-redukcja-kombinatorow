@@ -35,5 +35,30 @@ s f f c t
 q l l (m ad l) (d x r)
 ad d x z d
 e n x x z d
+e (ad l i ab) x x z d
+e (e n x i ab) x x z d
+e (e (ad l i ab) x i ab) x x z d
+e (e (e n x i ab) x i ab) x x z d
+e (e (e (ad l i ab) x i ab) x i ab) x x z d
+e (e (e (e n x i ab) x i ab) x i ab) x x z d
+e (e (e (e (ad l i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e n x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (ad l i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e n x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (ad l i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e n x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (ad l i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (e n x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (e (ad l i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (e (e n x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (e (e (ad l i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (e (e (e n x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (e (e (e (ad l i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (e (e (e (e n x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (e (e (e (e (ad l i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (e (e (e (e (e n x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (e (e (e (e (e (ad l i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (e (e (e (e (e (e n x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
+e (e (e (e (e (e (e (e (e (e (e (e (e (ad l i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x i ab) x x z d
 
 

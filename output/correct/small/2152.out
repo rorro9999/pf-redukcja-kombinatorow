@@ -5,5 +5,9 @@ d e f = e (f f f e) c
 main = a (A a d a b b (B (C a b) D E F b))
 ------------------------------------------------------------
 a (A a d a b b (B (C a b) D E F b))
+a (A a d a d b (B (C a b) D E F b))
+a (A a d a d d (B (C a b) D E F b))
+a (A a d a d d (B (C a d) D E F b))
+a (A a d a d d (B (C a d) D E F d))
 
 

@@ -6,5 +6,6 @@ main = c (c (A c a) b a d b a a) B C D d
 ------------------------------------------------------------
 c (c (A c a) b a d b a a) B C D d
 B b B d
+B (a a d (a d)) B d
 
 

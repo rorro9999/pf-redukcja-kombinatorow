@@ -5,11 +5,23 @@ d g f e h = c c e c
 main = A d a b B (C a) (a a b a b c) a D
 ------------------------------------------------------------
 A d a b B (C a) (a a b a b c) a D
-A d a b B (C a) (b b d b c a b a b c) a D
-A d a b B (C a) (d c c d c d b c a b a b c) a D
-A d a b B (C a) (c c d c d b c a b a b c) a D
-A d a b B (C a) (d b c a b a b c) a D
-A d a b B (C a) (c c a c a b c) a D
-A d a b B (C a) (d b c) a D
+A d (b b d b c) b B (C a) (a a b a b c) a D
+A d (d c c d c d b c) b B (C a) (a a b a b c) a D
+A d (c c d c d b c) b B (C a) (a a b a b c) a D
+A d (d b c) b B (C a) (a a b a b c) a D
+A d (d b c) b B (C (b b d b c)) (a a b a b c) a D
+A d (d b c) b B (C (d c c d c d b c)) (a a b a b c) a D
+A d (d b c) b B (C (c c d c d b c)) (a a b a b c) a D
+A d (d b c) b B (C (d b c)) (a a b a b c) a D
+A d (d b c) b B (C (d b c)) (b b d b c a b a b c) a D
+A d (d b c) b B (C (d b c)) (d c c d c d b c a b a b c) a D
+A d (d b c) b B (C (d b c)) (c c d c d b c a b a b c) a D
+A d (d b c) b B (C (d b c)) (d b c a b a b c) a D
+A d (d b c) b B (C (d b c)) (c c a c a b c) a D
+A d (d b c) b B (C (d b c)) (d b c) a D
+A d (d b c) b B (C (d b c)) (d b c) (b b d b c) D
+A d (d b c) b B (C (d b c)) (d b c) (d c c d c d b c) D
+A d (d b c) b B (C (d b c)) (d b c) (c c d c d b c) D
+A d (d b c) b B (C (d b c)) (d b c) (d b c) D
 
 

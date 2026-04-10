@@ -54,5 +54,7 @@ i (p f) (x (x aa) (ac z z)) i b (ac z z)
 i (a c l (l d z) f) (x (x aa) (ac z z)) i b (ac z z)
 i (q (i r p) m g c l (l d z) f) (x (x aa) (ac z z)) i b (ac z z)
 i (k e h f) (x (x aa) (ac z z)) i b (ac z z)
+i (k (i n l) h f) (x (x aa) (ac z z)) i b (ac z z)
+i (k (i n l) h f) (x (x aa) (ac z z)) i i (ac z z)
 
 

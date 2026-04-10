@@ -4,5 +4,7 @@ c = b
 main = A B C a c a a c D a
 ------------------------------------------------------------
 A B C a c a a c D a
+A B C a b a a c D a
+A B C a b a a b D a
 
 

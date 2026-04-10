@@ -4,5 +4,34 @@ c e d = b
 main = a (A B C D (E b a) b) a
 ------------------------------------------------------------
 a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
+a (A B C D (E b a) b) a
+a (A B C D (E (c a a) a) b) a
 
 

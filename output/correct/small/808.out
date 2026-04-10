@@ -7,5 +7,6 @@ a A B (b C D b c E a)
 b (b C D b c E a)
 b C D b c E a
 C D b c E a
+C D b (a a) E a
 
 

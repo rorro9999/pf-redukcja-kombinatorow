@@ -7,5 +7,31 @@ a (a b a (A (b B a b c)))
 c (a b a (A (b B a b c)))
 b (b b a b) (a b a (A (b B a b c)))
 a
+c
+b (b b a b)
+b (a b)
+b (c b)
+b (b (b b a b) b)
+b a
+b c
+b (b (b b a b))
+b (b (a b))
+b (b (c b))
+b (b (b (b b a b) b))
+b (b a)
+b (b c)
+b (b (b (b b a b)))
+b (b (b (a b)))
+b (b (b (c b)))
+b (b (b (b (b b a b) b)))
+b (b (b a))
+b (b (b c))
+b (b (b (b (b b a b))))
+b (b (b (b (a b))))
+b (b (b (b (c b))))
+b (b (b (b (b (b b a b) b))))
+b (b (b (b a)))
+b (b (b (b c)))
+b (b (b (b (b (b b a b)))))
 
 

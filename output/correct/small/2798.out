@@ -6,5 +6,9 @@ main = d A a (B (C c) d d b d b c d D c)
 ------------------------------------------------------------
 d A a (B (C c) d d b d b c d D c)
 a (B (C c) d d b d b c d D c)
+a (B (C c) d d (a (c c) a (a c)) d b c d D c)
+a (B (C c) d d c d b c d D c)
+a (B (C c) d d c d (a (c c) a (a c)) c d D c)
+a (B (C c) d d c d c c d D c)
 
 

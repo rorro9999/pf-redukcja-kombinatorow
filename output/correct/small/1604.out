@@ -4,5 +4,7 @@ c = b
 main = A B C b D b (E F c) a
 ------------------------------------------------------------
 A B C b D b (E F c) a
+A B C b D b (E F b) a
+A B C b D b (E F b) b
 
 

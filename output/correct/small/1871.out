@@ -5,5 +5,33 @@ main = A (c B c c) C b b b D
 ------------------------------------------------------------
 A (c B c c) C b b b D
 A (a a) C b b b D
+A (a a) C (c c a c c) b b D
+A (a a) C (a a c) b b D
+A (a a) C (c c b) b b D
+A (a a) C (c c (c c a c c)) b b D
+A (a a) C (c c (a a c)) b b D
+A (a a) C (c c (c c b)) b b D
+A (a a) C (c c (c c (c c a c c))) b b D
+A (a a) C (c c (c c (a a c))) b b D
+A (a a) C (c c (c c (c c b))) b b D
+A (a a) C (c c (c c (c c (c c a c c)))) b b D
+A (a a) C (c c (c c (c c (a a c)))) b b D
+A (a a) C (c c (c c (c c (c c b)))) b b D
+A (a a) C (c c (c c (c c (c c (c c a c c))))) b b D
+A (a a) C (c c (c c (c c (c c (a a c))))) b b D
+A (a a) C (c c (c c (c c (c c (c c b))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (c c a c c)))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (a a c)))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (c c b)))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (c c (c c a c c))))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (c c (a a c))))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (c c (c c b))))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (c c (c c (c c a c c)))))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (c c (c c (a a c)))))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (c c (c c (c c b)))))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (c c (c c (c c (c c a c c))))))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (c c (c c (c c (a a c))))))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (c c (c c (c c (c c b))))))))) b b D
+A (a a) C (c c (c c (c c (c c (c c (c c (c c (c c (c c (c c a c c)))))))))) b b D
 
 

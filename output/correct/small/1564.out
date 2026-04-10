@@ -4,5 +4,13 @@ c f e d = a a
 main = A a B (c b) a C a D E
 ------------------------------------------------------------
 A a B (c b) a C a D E
+A c B (c b) a C a D E
+A c B (c (a c a c)) a C a D E
+A c B (c (c c a c)) a C a D E
+A c B (c (a a)) a C a D E
+A c B (c (c a)) a C a D E
+A c B (c (c c)) a C a D E
+A c B (c (c c)) c C a D E
+A c B (c (c c)) c C c D E
 
 

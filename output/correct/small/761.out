@@ -4,5 +4,34 @@ c = a a (b a)
 main = A a B b C a b c D c
 ------------------------------------------------------------
 A a B b C a b c D c
+A a B b C a b (a a (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
+A a B b C a b (b (c c c) (b a)) D c
+A a B b C a b (a (c (c c c) (c c c) a) (b a)) D c
 
 

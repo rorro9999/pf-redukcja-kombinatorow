@@ -4,5 +4,15 @@ c d f e = a (a a b)
 main = A c c (a b) B C b D c
 ------------------------------------------------------------
 A c c (a b) B C b D c
+A c c (a (c c c a c)) B C b D c
+A c c (a (a (a a b) c)) B C b D c
+A c c (a (a a b c)) B C b D c
+A c c (a (a c c)) B C b D c
+A c c (a (c c)) B C b D c
+A c c (a (c c)) B C (c c c a c) D c
+A c c (a (c c)) B C (a (a a b) c) D c
+A c c (a (c c)) B C (a a b c) D c
+A c c (a (c c)) B C (a c c) D c
+A c c (a (c c)) B C (c c) D c
 
 

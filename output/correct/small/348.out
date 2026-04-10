@@ -6,5 +6,9 @@ main = A B b (c b (C c c b)) b
 A B b (c b (C c c b)) b
 A B b (b a b (C c c b)) b
 A B b (a b (C c c b)) b
+A B b (a b (C (b a) c b)) b
+A B b (a b (C a c b)) b
+A B b (a b (C a (b a) b)) b
+A B b (a b (C a a b)) b
 
 

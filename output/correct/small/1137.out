@@ -18,5 +18,20 @@ c c b a (c c a)
 a (c c a)
 c c b (c c a)
 a
+c c b
+c c a
+c c (c c b)
+c c (c c a)
+c c (c c (c c b))
+c c (c c (c c a))
+c c (c c (c c (c c b)))
+c c (c c (c c (c c a)))
+c c (c c (c c (c c (c c b))))
+c c (c c (c c (c c (c c a))))
+c c (c c (c c (c c (c c (c c b)))))
+c c (c c (c c (c c (c c (c c a)))))
+c c (c c (c c (c c (c c (c c (c c b))))))
+c c (c c (c c (c c (c c (c c (c c a))))))
+c c (c c (c c (c c (c c (c c (c c (c c b)))))))
 
 

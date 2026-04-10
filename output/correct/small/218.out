@@ -4,34 +4,34 @@ c e d = e
 main = A B C b (c b a a D) b
 ------------------------------------------------------------
 A B C b (c b a a D) b
-A B C b (b a D) b
-A B C b (a a D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
-A B C b (a (c b) D) b
-A B C b (b (c b) D) b
+A B C a (c b a a D) b
+A B C a (b a D) b
+A B C a (a a D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
+A B C a (b (c b) D) b
+A B C a (a (c b) D) b
 
 

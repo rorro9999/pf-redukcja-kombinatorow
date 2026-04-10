@@ -4,5 +4,34 @@ c = a
 main = A B C D a E c F G a
 ------------------------------------------------------------
 A B C D a E c F G a
+A B C D (c c c c b) E c F G a
+A B C D (a c c c b) E c F G a
+A B C D (c c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (a c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
+A B C D (c c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b c c c b) E c F G a
 
 

@@ -4,5 +4,34 @@ c = b b a b
 main = A B a b b (a C a) c D
 ------------------------------------------------------------
 A B a b b (a C a) c D
+A B a b b (a C a) (b b a b) D
+A B a b b (a C a) (a c) D
+A B a b b (a C a) (a (b b a b)) D
+A B a b b (a C a) (a (a c)) D
+A B a b b (a C a) (a (a (b b a b))) D
+A B a b b (a C a) (a (a (a c))) D
+A B a b b (a C a) (a (a (a (b b a b)))) D
+A B a b b (a C a) (a (a (a (a c)))) D
+A B a b b (a C a) (a (a (a (a (b b a b))))) D
+A B a b b (a C a) (a (a (a (a (a c))))) D
+A B a b b (a C a) (a (a (a (a (a (b b a b)))))) D
+A B a b b (a C a) (a (a (a (a (a (a c)))))) D
+A B a b b (a C a) (a (a (a (a (a (a (b b a b))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a c))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (b b a b)))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a c)))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (b b a b))))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (a c))))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (a (b b a b)))))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (a (a c)))))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (a (a (b b a b))))))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (a (a (a c))))))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (a (a (a (b b a b)))))))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (a (a (a (a c)))))))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (a (a (a (a (b b a b))))))))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (a (a (a (a (a c))))))))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (a (a (a (a (a (b b a b)))))))))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (a (a (a (a (a (a c)))))))))))))) D
+A B a b b (a C a) (a (a (a (a (a (a (a (a (a (a (a (a (a (a (b b a b))))))))))))))) D
 
 

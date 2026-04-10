@@ -4,5 +4,34 @@ c f d e = a b
 main = A a B C b (D c) c E F
 ------------------------------------------------------------
 A a B C b (D c) c E F
+A (c c c b b) B C b (D c) c E F
+A (a b b) B C b (D c) c E F
+A (c c c b b b b) B C b (D c) c E F
+A (a b b b b) B C b (D c) c E F
+A (c c c b b b b b b) B C b (D c) c E F
+A (a b b b b b b) B C b (D c) c E F
+A (c c c b b b b b b b b) B C b (D c) c E F
+A (a b b b b b b b b) B C b (D c) c E F
+A (c c c b b b b b b b b b b) B C b (D c) c E F
+A (a b b b b b b b b b b) B C b (D c) c E F
+A (c c c b b b b b b b b b b b b) B C b (D c) c E F
+A (a b b b b b b b b b b b b) B C b (D c) c E F
+A (c c c b b b b b b b b b b b b b b) B C b (D c) c E F
+A (a b b b b b b b b b b b b b b) B C b (D c) c E F
+A (c c c b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (a b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (c c c b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (a b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (c c c b b b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (a b b b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (c c c b b b b b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (a b b b b b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (c c c b b b b b b b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (a b b b b b b b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (c c c b b b b b b b b b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (a b b b b b b b b b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (c c c b b b b b b b b b b b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (a b b b b b b b b b b b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
+A (c c c b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b) B C b (D c) c E F
 
 

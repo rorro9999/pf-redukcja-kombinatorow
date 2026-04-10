@@ -9,5 +9,8 @@ b b a b (a c) b a (A c b) (b b)
 a (a c) b a (A c b) (b b)
 b b (a c) b (A c b) (b b)
 a (A c b) (b b)
+a (A (a a a a) b) (b b)
+a (A (b b a b) b) (b b)
+a (A a b) (b b)
 
 

@@ -31,7 +31,8 @@ ad ae af = f (ae h af z ac (v k h))
 main = A r B C D i o v h d u i w h n (E F (y o n aa (s b (G y h v y k) H I e (g a J ab (i K L M N (m v t (u z y) e d f i (c h o O (g (e i (d m j n ac d t) (y e u P q) (Q (R f k S (T (U i V) t j a m aa n ab d y w a o l y k ad e ab) y r) a))))))))))
 ------------------------------------------------------------
 A r B C D i o v h d u i w h n (E F (y o n aa (s b (G y h v y k) H I e (g a J ab (i K L M N (m v t (u z y) e d f i (c h o O (g (e i (d m j n ac d t) (y e u P q) (Q (R f k S (T (U i V) t j a m aa n ab d y w a o l y k ad e ab) y r) a))))))))))
-A r B C D i o v h d u i w h n (E F (n s e))
-A r B C D i o v h d u i w h n (E F (q y s e))
+A r B C D i o v h d u i w h (q y) (E F (y o n aa (s b (G y h v y k) H I e (g a J ab (i K L M N (m v t (u z y) e d f i (c h o O (g (e i (d m j n ac d t) (y e u P q) (Q (R f k S (T (U i V) t j a m aa n ab d y w a o l y k ad e ab) y r) a))))))))))
+A r B C D i o v h d u i w h (q y) (E F (n s e))
+A r B C D i o v h d u i w h (q y) (E F (q y s e))
 
 

@@ -8,5 +8,6 @@ a c A (b (B (b a c a b c)))
 b (b (B (b a c a b c)))
 a c (b (B (b a c a b c)))
 b
+a c
 
 

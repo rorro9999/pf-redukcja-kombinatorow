@@ -4,5 +4,34 @@ c f d e = a a
 main = A a B a c C b D E b
 ------------------------------------------------------------
 A a B a c C b D E b
+A a B a c C (a c c a c) D E b
+A a B a c C (b c b c a c) D E b
+A a B a c C (a c c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (b c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
+A a B a c C (a c c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c c b c a c) D E b
 
 

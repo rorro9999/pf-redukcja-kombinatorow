@@ -4,5 +4,34 @@ c d = b
 main = A B C a a b D a c E
 ------------------------------------------------------------
 A B C a a b D a c E
+A B C a a (c c c c) D a c E
+A B C a a (b c c) D a c E
+A B C a a (c c c c c c) D a c E
+A B C a a (b c c c c) D a c E
+A B C a a (c c c c c c c c) D a c E
+A B C a a (b c c c c c c) D a c E
+A B C a a (c c c c c c c c c c) D a c E
+A B C a a (b c c c c c c c c) D a c E
+A B C a a (c c c c c c c c c c c c) D a c E
+A B C a a (b c c c c c c c c c c) D a c E
+A B C a a (c c c c c c c c c c c c c c) D a c E
+A B C a a (b c c c c c c c c c c c c) D a c E
+A B C a a (c c c c c c c c c c c c c c c c) D a c E
+A B C a a (b c c c c c c c c c c c c c c) D a c E
+A B C a a (c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (b c c c c c c c c c c c c c c c c) D a c E
+A B C a a (c c c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (b c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (c c c c c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (b c c c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (c c c c c c c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (b c c c c c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (c c c c c c c c c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (b c c c c c c c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (c c c c c c c c c c c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (b c c c c c c c c c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (b c c c c c c c c c c c c c c c c c c c c c c c c c c c c) D a c E
+A B C a a (c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c) D a c E
 
 

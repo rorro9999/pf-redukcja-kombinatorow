@@ -23,5 +23,15 @@ c c (a c) E c
 b c
 c c (a c) c
 b
+c c (a c)
+c c (b c)
+c c (c c (a c) c)
+c c b
+c c (c c (a c))
+c c (c c (b c))
+c c (c c (c c (a c) c))
+c c (c c b)
+c c (c c (c c (a c)))
+c c (c c (c c (b c)))
 
 

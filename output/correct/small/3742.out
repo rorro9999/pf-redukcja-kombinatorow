@@ -5,5 +5,8 @@ d = b a
 main = A d B d (b (C D (E F c) a b) a) d c
 ------------------------------------------------------------
 A d B d (b (C D (E F c) a b) a) d c
+A (b a) B d (b (C D (E F c) a b) a) d c
+A (b a) B (b a) (b (C D (E F c) a b) a) d c
+A (b a) B (b a) (b (C D (E F c) a b) a) (b a) c
 
 

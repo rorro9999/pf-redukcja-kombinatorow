@@ -4,5 +4,34 @@ c d e = a (b b a e)
 main = A B C D E F b (c a) c
 ------------------------------------------------------------
 A B C D E F b (c a) c
+A B C D E F (a c a (a c)) (c a) c
+A B C D E F (c b a (a c)) (c a) c
+A B C D E F (a (b b a a) (a c)) (c a) c
+A B C D E F (c b (a c)) (c a) c
+A B C D E F (a (b b a (a c))) (c a) c
+A B C D E F (c b) (c a) c
+A B C D E F (c (a c a (a c))) (c a) c
+A B C D E F (c (c b a (a c))) (c a) c
+A B C D E F (c (a (b b a a) (a c))) (c a) c
+A B C D E F (c (c b (a c))) (c a) c
+A B C D E F (c (a (b b a (a c)))) (c a) c
+A B C D E F (c (c b)) (c a) c
+A B C D E F (c (c (a c a (a c)))) (c a) c
+A B C D E F (c (c (c b a (a c)))) (c a) c
+A B C D E F (c (c (a (b b a a) (a c)))) (c a) c
+A B C D E F (c (c (c b (a c)))) (c a) c
+A B C D E F (c (c (a (b b a (a c))))) (c a) c
+A B C D E F (c (c (c b))) (c a) c
+A B C D E F (c (c (c (a c a (a c))))) (c a) c
+A B C D E F (c (c (c (c b a (a c))))) (c a) c
+A B C D E F (c (c (c (a (b b a a) (a c))))) (c a) c
+A B C D E F (c (c (c (c b (a c))))) (c a) c
+A B C D E F (c (c (c (a (b b a (a c)))))) (c a) c
+A B C D E F (c (c (c (c b)))) (c a) c
+A B C D E F (c (c (c (c (a c a (a c)))))) (c a) c
+A B C D E F (c (c (c (c (c b a (a c)))))) (c a) c
+A B C D E F (c (c (c (c (a (b b a a) (a c)))))) (c a) c
+A B C D E F (c (c (c (c (c b (a c)))))) (c a) c
+A B C D E F (c (c (c (c (a (b b a (a c))))))) (c a) c
 
 

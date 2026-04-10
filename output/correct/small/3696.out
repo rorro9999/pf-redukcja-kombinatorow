@@ -5,5 +5,9 @@ d g e h f = c b c b
 main = A B C D a c (E c) c d (F c b) G b
 ------------------------------------------------------------
 A B C D a c (E c) c d (F c b) G b
+A B C D a (a b b d) (E c) c d (F c b) G b
+A B C D a (a b b d) (E (a b b d)) c d (F c b) G b
+A B C D a (a b b d) (E (a b b d)) (a b b d) d (F c b) G b
+A B C D a (a b b d) (E (a b b d)) (a b b d) d (F (a b b d) b) G b
 
 

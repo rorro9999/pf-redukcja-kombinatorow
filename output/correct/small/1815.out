@@ -4,13 +4,15 @@ c f d e = a
 main = A a (a c c B c) C b c
 ------------------------------------------------------------
 A a (a c c B c) C b c
-A a (b b c c B c) C b c
-A a (b c c c B c) C b c
-A a (c c c c B c) C b c
-A a (a B c) C b c
-A a (b b B c) C b c
-A a (b c c c) C b c
-A a (c c c c) C b c
-A a a C b c
+A (b b) (a c c B c) C b c
+A (b b) (b b c c B c) C b c
+A (b b) (b c c c B c) C b c
+A (b b) (c c c c B c) C b c
+A (b b) (a B c) C b c
+A (b b) (b b B c) C b c
+A (b b) (b c c c) C b c
+A (b b) (c c c c) C b c
+A (b b) a C b c
+A (b b) (b b) C b c
 
 

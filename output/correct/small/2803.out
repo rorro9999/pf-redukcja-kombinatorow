@@ -5,5 +5,17 @@ d e = e a e
 main = A d B C b a (a (D b d b a E b) F)
 ------------------------------------------------------------
 A d B C b a (a (D b d b a E b) F)
+A d B C (c a c d d d) a (a (D b d b a E b) F)
+A d B C (d a d) a (a (D b d b a E b) F)
+A d B C (a a a d) a (a (D b d b a E b) F)
+A d B C (a a a d) a (a (D (c a c d d d) d b a E b) F)
+A d B C (a a a d) a (a (D (d a d) d b a E b) F)
+A d B C (a a a d) a (a (D (a a a d) d b a E b) F)
+A d B C (a a a d) a (a (D (a a a d) d (c a c d d d) a E b) F)
+A d B C (a a a d) a (a (D (a a a d) d (d a d) a E b) F)
+A d B C (a a a d) a (a (D (a a a d) d (a a a d) a E b) F)
+A d B C (a a a d) a (a (D (a a a d) d (a a a d) a E (c a c d d d)) F)
+A d B C (a a a d) a (a (D (a a a d) d (a a a d) a E (d a d)) F)
+A d B C (a a a d) a (a (D (a a a d) d (a a a d) a E (a a a d)) F)
 
 

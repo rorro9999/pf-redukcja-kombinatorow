@@ -4,5 +4,34 @@ c = b b a b
 main = A B a (C D b a) c E a
 ------------------------------------------------------------
 A B a (C D b a) c E a
+A B (c b b) (C D b a) c E a
+A B (b b a b b b) (C D b a) c E a
+A B (a b b b) (C D b a) c E a
+A B (c b b b b b) (C D b a) c E a
+A B (b b a b b b b b b) (C D b a) c E a
+A B (a b b b b b b) (C D b a) c E a
+A B (c b b b b b b b b) (C D b a) c E a
+A B (b b a b b b b b b b b b) (C D b a) c E a
+A B (a b b b b b b b b b) (C D b a) c E a
+A B (c b b b b b b b b b b b) (C D b a) c E a
+A B (b b a b b b b b b b b b b b b) (C D b a) c E a
+A B (a b b b b b b b b b b b b) (C D b a) c E a
+A B (c b b b b b b b b b b b b b b) (C D b a) c E a
+A B (b b a b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (a b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (c b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (b b a b b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (a b b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (c b b b b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (b b a b b b b b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (a b b b b b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (c b b b b b b b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (b b a b b b b b b b b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (a b b b b b b b b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (c b b b b b b b b b b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (b b a b b b b b b b b b b b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (a b b b b b b b b b b b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (c b b b b b b b b b b b b b b b b b b b b b b b b b b b b b) (C D b a) c E a
+A B (b b a b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b) (C D b a) c E a
 
 

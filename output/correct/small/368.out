@@ -4,5 +4,6 @@ c = a
 main = A B b b c b b (C b) D
 ------------------------------------------------------------
 A B b b c b b (C b) D
+A B b b a b b (C b) D
 
 

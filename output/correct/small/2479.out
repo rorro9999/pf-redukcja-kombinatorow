@@ -21,5 +21,18 @@ b d a a b
 a c (c d a) a
 c c d (c d a) a
 b d a a
+b (a a b) a a
+b (c a d b) a a
+b (b d a) a a
+b (b (a a b) a) a a
+b (b (c a d b) a) a a
+b (b (b d a) a) a a
+b (b (b (a a b) a) a) a a
+b (b (b (c a d b) a) a) a a
+b (b (b (b d a) a) a) a a
+b (b (b (b (a a b) a) a) a) a a
+b (b (b (b (c a d b) a) a) a) a a
+b (b (b (b (b d a) a) a) a) a a
+b (b (b (b (b (a a b) a) a) a) a) a a
 
 

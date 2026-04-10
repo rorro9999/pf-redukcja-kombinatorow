@@ -5,5 +5,7 @@ d = b a
 main = A a B (C a c D E) b d a F (G d H)
 ------------------------------------------------------------
 A a B (C a c D E) b d a F (G d H)
+A a B (C a c D E) b (b a) a F (G d H)
+A a B (C a c D E) b (b a) a F (G (b a) H)
 
 

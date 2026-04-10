@@ -4,5 +4,6 @@ c d = b
 main = A B C D b c E a F G
 ------------------------------------------------------------
 A B C D b c E a F G
+A B C D b c E b F G
 
 

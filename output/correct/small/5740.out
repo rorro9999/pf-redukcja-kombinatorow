@@ -6,5 +6,7 @@ main = A e (B C (a D) e) E (c b c (F b e a))
 d f g = e c a e c
 ------------------------------------------------------------
 A e (B C (a D) e) E (c b c (F b e a))
+A e (B C (a D) e) E (c (e a a) c (F b e a))
+A e (B C (a D) e) E (c (e a a) c (F (e a a) e a))
 
 

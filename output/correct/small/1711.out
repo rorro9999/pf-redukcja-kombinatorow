@@ -18,5 +18,20 @@ a b b
 c b b
 a b
 c b
+c (c (c a c a))
+c (c (a b a))
+c (c (c b a))
+c (c (a b))
+c (c (c b))
+c (c (c (c (c a c a))))
+c (c (c (c (a b a))))
+c (c (c (c (c b a))))
+c (c (c (c (a b))))
+c (c (c (c (c b))))
+c (c (c (c (c (c (c a c a))))))
+c (c (c (c (c (c (a b a))))))
+c (c (c (c (c (c (c b a))))))
+c (c (c (c (c (c (a b))))))
+c (c (c (c (c (c (c b))))))
 
 

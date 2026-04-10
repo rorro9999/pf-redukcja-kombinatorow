@@ -43,5 +43,10 @@ A (s b (k w p y m (ac aa) p ac))
 A (s b (m (v w) m e p y m (ac aa) p ac))
 A (s b (ac m (ac aa) p ac))
 A (s b (c ad (z m q j) l))
+A (s b (c ad (z m q (t n c c (a m o))) l))
+A (s b (c ad (z m q (i m m y n c c (a m o))) l))
+A (s b (c ad (z m q (k w c (a m o))) l))
+A (s b (c ad (z m q (m (v w) m e c (a m o))) l))
+A (s b (c ad (z m q ac) l))
 
 

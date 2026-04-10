@@ -7,5 +7,6 @@ c b b (A (a (B C D E c)))
 a a a b b (A (a (B C D E c)))
 b (b b a) b (A (a (B C D E c)))
 c
+a a a
 
 

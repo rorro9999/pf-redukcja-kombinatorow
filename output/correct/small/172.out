@@ -5,5 +5,9 @@ main = c b (A B c C b c D b)
 ------------------------------------------------------------
 c b (A B c C b c D b)
 a (A B c C b c D b)
+a (A B c C (c a) c D b)
+a (A B c C a c D b)
+a (A B c C a c D (c a))
+a (A B c C a c D a)
 
 

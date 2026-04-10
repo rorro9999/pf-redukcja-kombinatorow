@@ -11,5 +11,6 @@ A (a a (b b F))
 A (a a (a a b F))
 A (a a (b b))
 A (a a (a a b))
+A (a a (a a (a a)))
 
 

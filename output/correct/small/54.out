@@ -7,5 +7,31 @@ b b A b b (B a c) b c
 a (a a c) b b (B a c) b c
 b (B a c) b c
 a (a a c) c
+a (a a (b a b)) c
+a (a a (a (a a c))) c
+a (a a (a (a a (b a b)))) c
+a (a a (a (a a (a (a a c))))) c
+a (a a (a (a a (a (a a (b a b)))))) c
+a (a a (a (a a (a (a a (a (a a c))))))) c
+a (a a (a (a a (a (a a (a (a a (b a b)))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a c))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (b a b)))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a c))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (b a b)))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a c))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (b a b)))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a c))))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (b a b)))))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a c))))))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (b a b)))))))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a c))))))))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (b a b)))))))))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a c))))))))))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (b a b)))))))))))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a c))))))))))))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (b a b)))))))))))))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a c))))))))))))))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (b a b)))))))))))))))))))))))))) c
+a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a (a (a a c))))))))))))))))))))))))))) c
 
 

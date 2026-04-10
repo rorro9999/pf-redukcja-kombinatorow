@@ -6,5 +6,7 @@ b h f g i = a i (c d c)
 d g h f = e e c b e a c
 ------------------------------------------------------------
 A B (d e) d C e e e d a e a e d
+A B (d e) d C e e e d e e a e d
+A B (d e) d C e e e d e e e e d
 
 

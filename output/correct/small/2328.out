@@ -30,5 +30,9 @@ a b d a
 c d c (c d) a
 a b d
 c d c (c d)
+c (b a c b b) c (c d)
+c (a c (a d)) c (c d)
+c (c d c (c d)) c (c d)
+c (c (b a c b b) c (c d)) c (c d)
 
 

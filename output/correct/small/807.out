@@ -13,5 +13,7 @@ A B (b (a (C D E F)))
 A B (a (a (C D E F)))
 A B (c c c (a (C D E F)))
 A B b
+A B a
+A B (c c c)
 
 

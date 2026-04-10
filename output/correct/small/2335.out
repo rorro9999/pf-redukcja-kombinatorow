@@ -6,6 +6,8 @@ main = A a d B (C (c b (d (D E F a)) G H I))
 ------------------------------------------------------------
 A a d B (C (c b (d (D E F a)) G H I))
 A a d B (C (a b (b b) I))
-A a d B (C (a b (d c c b) I))
+A a d B (C (a (d c c) (b b) I))
+A a d B (C (a (d c c) (d c c b) I))
+A a d B (C (a (d c c) (d c c (d c c)) I))
 
 

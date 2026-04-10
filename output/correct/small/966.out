@@ -4,5 +4,8 @@ c d e f = a f
 main = A b a b b B C D E F
 ------------------------------------------------------------
 A b a b b B C D E F
+A c a b b B C D E F
+A c a c b B C D E F
+A c a c c B C D E F
 
 

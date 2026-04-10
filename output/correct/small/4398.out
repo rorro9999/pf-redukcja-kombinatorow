@@ -6,5 +6,34 @@ c h g f i = i a
 main = A B C (D b a e) a c E F d b e G
 ------------------------------------------------------------
 A B C (D b a e) a c E F d b e G
+A B C (D b (c c c e c) e) a c E F d b e G
+A B C (D b (c a) e) a c E F d b e G
+A B C (D b (c (c c c e c)) e) a c E F d b e G
+A B C (D b (c (c a)) e) a c E F d b e G
+A B C (D b (c (c (c c c e c))) e) a c E F d b e G
+A B C (D b (c (c (c a))) e) a c E F d b e G
+A B C (D b (c (c (c (c c c e c)))) e) a c E F d b e G
+A B C (D b (c (c (c (c a)))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c c c e c))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c a))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c c c e c)))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c a)))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c c c e c))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c a))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c c c e c)))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c a)))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c c c e c))))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c a))))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c (c c c e c)))))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c (c a)))))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c (c (c c c e c))))))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c (c (c a))))))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c (c (c (c c c e c)))))))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c (c (c (c a)))))))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c (c (c (c (c c c e c))))))))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c (c (c (c (c a))))))))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c (c (c (c (c (c c c e c)))))))))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c (c (c (c (c (c a)))))))))))))) e) a c E F d b e G
+A B C (D b (c (c (c (c (c (c (c (c (c (c (c (c (c (c (c c c e c))))))))))))))) e) a c E F d b e G
 
 

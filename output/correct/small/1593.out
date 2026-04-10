@@ -4,5 +4,12 @@ c = a a
 main = A b B C D c E F c a
 ------------------------------------------------------------
 A b B C D c E F c a
+A b B C D (a a) E F c a
+A b B C D (b a) E F c a
+A b B C D (b b) E F c a
+A b B C D (b b) E F (a a) a
+A b B C D (b b) E F (b a) a
+A b B C D (b b) E F (b b) a
+A b B C D (b b) E F (b b) b
 
 

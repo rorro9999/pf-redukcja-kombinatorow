@@ -5,9 +5,21 @@ d = a c (a c b a)
 main = A B d b b c C c c (c (d c d)) d a
 ------------------------------------------------------------
 A B d b b c C c c (c (d c d)) d a
-A B d b b c C c c (c (a c (a c b a) c d)) d a
-A B d b b c C c c (c (b b d c c d)) d a
-A B d b b c C c c (c (c a (d d a a) c c d)) d a
-A B d b b c C c c (c (b d)) d a
+A B (a c (a c b a)) b b c C c c (c (d c d)) d a
+A B (a c (b b d c c)) b b c C c c (c (d c d)) d a
+A B (a c (c a (d d a a) c c)) b b c C c c (c (d c d)) d a
+A B (a c b) b b c C c c (c (d c d)) d a
+A B (a c b) b b c C c c (c (a c (a c b a) c d)) d a
+A B (a c b) b b c C c c (c (b b d c c d)) d a
+A B (a c b) b b c C c c (c (c a (d d a a) c c d)) d a
+A B (a c b) b b c C c c (c (b d)) d a
+A B (a c b) b b c C c c (c (b (a c (a c b a)))) d a
+A B (a c b) b b c C c c (c (b (a c (b b d c c)))) d a
+A B (a c b) b b c C c c (c (b (a c (c a (d d a a) c c)))) d a
+A B (a c b) b b c C c c (c (b (a c b))) d a
+A B (a c b) b b c C c c (c (b (a c b))) (a c (a c b a)) a
+A B (a c b) b b c C c c (c (b (a c b))) (a c (b b d c c)) a
+A B (a c b) b b c C c c (c (b (a c b))) (a c (c a (d d a a) c c)) a
+A B (a c b) b b c C c c (c (b (a c b))) (a c b) a
 
 

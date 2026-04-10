@@ -4,5 +4,34 @@ c d e = b a
 main = A B a c b C a b c D
 ------------------------------------------------------------
 A B a c b C a b c D
+A B (c (c b c)) c b C a b c D
+A B (c (b a)) c b C a b c D
+A B (c (b (c (c b c)))) c b C a b c D
+A B (c (b (c (b a)))) c b C a b c D
+A B (c (b (c (b (c (c b c)))))) c b C a b c D
+A B (c (b (c (b (c (b a)))))) c b C a b c D
+A B (c (b (c (b (c (b (c (c b c)))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b a)))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (c b c)))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b a)))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (c b c)))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b a)))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (c b c)))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b a)))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (c b c)))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b a)))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (c b c)))))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b a)))))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (c b c)))))))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b a)))))))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (c b c)))))))))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b a)))))))))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (c b c)))))))))))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b a)))))))))))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (c b c)))))))))))))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b a)))))))))))))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (c b c)))))))))))))))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b a)))))))))))))))))))))))))))) c b C a b c D
+A B (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (b (c (c b c)))))))))))))))))))))))))))))) c b C a b c D
 
 

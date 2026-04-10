@@ -4,6 +4,7 @@ c = b
 main = A B a a a c a (c C b)
 ------------------------------------------------------------
 A B a a a c a (c C b)
-A B a a a c a (b C b)
+A B a a a b a (c C b)
+A B a a a b a (b C b)
 
 

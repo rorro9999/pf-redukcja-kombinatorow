@@ -43,5 +43,15 @@ s A (B w (C D E F f) (G (l ad v d v v s o r) Z (AA k aa ad d i) aa s a ad m e d 
 s A (B w (C D E F f) (G (t ad a (ad k) v s o r) Z (AA k aa ad d i) aa s a ad m e d (q k AB) AC aa b y AD ac b u c b))
 s A (B w (C D E F f) (G (w k y s v s o r) Z (AA k aa ad d i) aa s a ad m e d (q k AB) AC aa b y AD ac b u c b))
 s A (B w (C D E F f) (G (t b r) Z (AA k aa ad d i) aa s a ad m e d (q k AB) AC aa b y AD ac b u c b))
+s A (B w (C D E F f) (G (t b r) Z (AA k (e s v l) ad d i) aa s a ad m e d (q k AB) AC aa b y AD ac b u c b))
+s A (B w (C D E F f) (G (t b r) Z (AA k (a s v l) ad d i) aa s a ad m e d (q k AB) AC aa b y AD ac b u c b))
+s A (B w (C D E F f) (G (t b r) Z (AA k (g l) ad d i) aa s a ad m e d (q k AB) AC aa b y AD ac b u c b))
+s A (B w (C D E F f) (G (t b r) Z (AA k (g l) ad d i) (e s v l) s a ad m e d (q k AB) AC aa b y AD ac b u c b))
+s A (B w (C D E F f) (G (t b r) Z (AA k (g l) ad d i) (a s v l) s a ad m e d (q k AB) AC aa b y AD ac b u c b))
+s A (B w (C D E F f) (G (t b r) Z (AA k (g l) ad d i) (g l) s a ad m e d (q k AB) AC aa b y AD ac b u c b))
+s A (B w (C D E F f) (G (t b r) Z (AA k (g l) ad d i) (g l) s a ad m a d (q k AB) AC aa b y AD ac b u c b))
+s A (B w (C D E F f) (G (t b r) Z (AA k (g l) ad d i) (g l) s a ad m a d (q k AB) AC (e s v l) b y AD ac b u c b))
+s A (B w (C D E F f) (G (t b r) Z (AA k (g l) ad d i) (g l) s a ad m a d (q k AB) AC (a s v l) b y AD ac b u c b))
+s A (B w (C D E F f) (G (t b r) Z (AA k (g l) ad d i) (g l) s a ad m a d (q k AB) AC (g l) b y AD ac b u c b))
 
 

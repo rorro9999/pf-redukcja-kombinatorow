@@ -14,5 +14,7 @@ A (a (a d d c) b b c) d C (D (E F d b d G))
 A (d b c c b) d C (D (E F d b d G))
 A (b b c c c b) d C (D (E F d b d G))
 A (a (a d d c) b) d C (D (E F d b d G))
+A (a (a d d (b d b b a)) b) d C (D (E F d b d G))
+A (a (a d d (a (a d d b))) b) d C (D (E F d b d G))
 
 

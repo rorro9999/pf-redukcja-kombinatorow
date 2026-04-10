@@ -4,5 +4,11 @@ c e d = b e
 main = A b B b a a C a (c c)
 ------------------------------------------------------------
 A b B b a a C a (c c)
+A b B b (c (c b c)) a C a (c c)
+A b B b (c (b b)) a C a (c c)
+A b B b (c (b b)) (c (c b c)) C a (c c)
+A b B b (c (b b)) (c (b b)) C a (c c)
+A b B b (c (b b)) (c (b b)) C (c (c b c)) (c c)
+A b B b (c (b b)) (c (b b)) C (c (b b)) (c c)
 
 

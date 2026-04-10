@@ -4,5 +4,6 @@ c e d = b
 main = A a B C D (E b c F G)
 ------------------------------------------------------------
 A a B C D (E b c F G)
+A a B C D (E (a (a a) a) c F G)
 
 

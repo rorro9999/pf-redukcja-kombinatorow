@@ -4,34 +4,34 @@ c d = d
 main = A B c a C (b b) b c D
 ------------------------------------------------------------
 A B c a C (b b) b c D
-A B c a C (a b) b c D
-A B c a C (c c c b b b) b c D
-A B c a C (c c b b b) b c D
-A B c a C (c b b b) b c D
-A B c a C (b b b) b c D
-A B c a C (a b b) b c D
-A B c a C (c c c b b b b) b c D
-A B c a C (c c b b b b) b c D
-A B c a C (c b b b b) b c D
-A B c a C (b b b b) b c D
-A B c a C (a b b b) b c D
-A B c a C (c c c b b b b b) b c D
-A B c a C (c c b b b b b) b c D
-A B c a C (c b b b b b) b c D
-A B c a C (b b b b b) b c D
-A B c a C (a b b b b) b c D
-A B c a C (c c c b b b b b b) b c D
-A B c a C (c c b b b b b b) b c D
-A B c a C (c b b b b b b) b c D
-A B c a C (b b b b b b) b c D
-A B c a C (a b b b b b) b c D
-A B c a C (c c c b b b b b b b) b c D
-A B c a C (c c b b b b b b b) b c D
-A B c a C (c b b b b b b b) b c D
-A B c a C (b b b b b b b) b c D
-A B c a C (a b b b b b b) b c D
-A B c a C (c c c b b b b b b b b) b c D
-A B c a C (c c b b b b b b b b) b c D
-A B c a C (c b b b b b b b b) b c D
+A B c (c c c b b) C (b b) b c D
+A B c (c c b b) C (b b) b c D
+A B c (c b b) C (b b) b c D
+A B c (b b) C (b b) b c D
+A B c (a b) C (b b) b c D
+A B c (c c c b b b) C (b b) b c D
+A B c (c c b b b) C (b b) b c D
+A B c (c b b b) C (b b) b c D
+A B c (b b b) C (b b) b c D
+A B c (a b b) C (b b) b c D
+A B c (c c c b b b b) C (b b) b c D
+A B c (c c b b b b) C (b b) b c D
+A B c (c b b b b) C (b b) b c D
+A B c (b b b b) C (b b) b c D
+A B c (a b b b) C (b b) b c D
+A B c (c c c b b b b b) C (b b) b c D
+A B c (c c b b b b b) C (b b) b c D
+A B c (c b b b b b) C (b b) b c D
+A B c (b b b b b) C (b b) b c D
+A B c (a b b b b) C (b b) b c D
+A B c (c c c b b b b b b) C (b b) b c D
+A B c (c c b b b b b b) C (b b) b c D
+A B c (c b b b b b b) C (b b) b c D
+A B c (b b b b b b) C (b b) b c D
+A B c (a b b b b b) C (b b) b c D
+A B c (c c c b b b b b b b) C (b b) b c D
+A B c (c c b b b b b b b) C (b b) b c D
+A B c (c b b b b b b b) C (b b) b c D
+A B c (b b b b b b b) C (b b) b c D
 
 

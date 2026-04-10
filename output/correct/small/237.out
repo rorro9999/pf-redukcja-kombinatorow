@@ -4,5 +4,7 @@ c e d = b a a
 main = A (a a B) C D b (E c) b
 ------------------------------------------------------------
 A (a a B) C D b (E c) b
+A (a a B) C D (a c c) (E c) b
+A (a a B) C D (a c c) (E c) (a c c)
 
 

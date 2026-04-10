@@ -4,5 +4,34 @@ c d e = a (b b)
 main = A B b b C D E F b G
 ------------------------------------------------------------
 A B b b C D E F b G
+A B (c a a) b C D E F b G
+A B (a (b b)) b C D E F b G
+A B (c (b b) b (c b)) b C D E F b G
+A B (a (b b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b)) b C D E F b G
+A B (a (b b) (c b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b) (c b)) b C D E F b G
+A B (a (b b) (c b) (c b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b) (c b) (c b)) b C D E F b G
+A B (a (b b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (a (b b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (a (b b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (a (b b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (a (b b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (a (b b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (a (b b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (a (b b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (a (b b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (a (b b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
+A B (c (b b) b (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b) (c b)) b C D E F b G
 
 

@@ -7,5 +7,7 @@ main = a A (c B a c b) C a D a b d (E d)
 a A (c B a c b) C a D a b d (E d)
 b D a b d (E d)
 a d a (E d)
+a (b (a a c)) a (E d)
+a (b (a a c)) a (E (b (a a c)))
 
 

@@ -35,5 +35,30 @@ ad (y k m l v g k y t) (A b B (C D E F ac) ac b ad i u t G (t H I v f v) (f J (K
 u f s o b r
 n (k x) o b r
 n x o b r
+n x (e (q t i ab) d s k e) b r
+n x (q t i ab d s k e) b r
+n x (k i ab d s k e) b r
+n x (i ab d s k e) b r
+n x (e (c ab r ab) (e j)) b r
+n x (c ab r ab (e j)) b r
+n x (c ab (z ac y) ab (e j)) b r
+n x (c ab (ad e ac y) ab (e j)) b r
+n x (c ab (u f s o b r y) ab (e j)) b r
+n x (c ab (n (k x) o b r y) ab (e j)) b r
+n x (c ab (n x o b r y) ab (e j)) b r
+n x (c ab (n x (e (q t i ab) d s k e) b r y) ab (e j)) b r
+n x (c ab (n x (q t i ab d s k e) b r y) ab (e j)) b r
+n x (c ab (n x (k i ab d s k e) b r y) ab (e j)) b r
+n x (c ab (n x (i ab d s k e) b r y) ab (e j)) b r
+n x (c ab (n x (e (c ab r ab) (e j)) b r y) ab (e j)) b r
+n x (c ab (n x (c ab r ab (e j)) b r y) ab (e j)) b r
+n x (c ab (n x (c ab (z ac y) ab (e j)) b r y) ab (e j)) b r
+n x (c ab (n x (c ab (ad e ac y) ab (e j)) b r y) ab (e j)) b r
+n x (c ab (n x (c ab (u f s o b r y) ab (e j)) b r y) ab (e j)) b r
+n x (c ab (n x (c ab (n (k x) o b r y) ab (e j)) b r y) ab (e j)) b r
+n x (c ab (n x (c ab (n x o b r y) ab (e j)) b r y) ab (e j)) b r
+n x (c ab (n x (c ab (n x (e (q t i ab) d s k e) b r y) ab (e j)) b r y) ab (e j)) b r
+n x (c ab (n x (c ab (n x (q t i ab d s k e) b r y) ab (e j)) b r y) ab (e j)) b r
+n x (c ab (n x (c ab (n x (k i ab d s k e) b r y) ab (e j)) b r y) ab (e j)) b r
 
 

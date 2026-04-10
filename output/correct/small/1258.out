@@ -4,34 +4,34 @@ c = b a
 main = A b B c C (D c (c E)) F
 ------------------------------------------------------------
 A b B c C (D c (c E)) F
-A b B c C (D c (b a E)) F
-A b B c C (D c (a c E)) F
+A b B (b a) C (D c (c E)) F
+A b B (a c) C (D c (c E)) F
 A b B c C (D c (c E)) F
-A b B c C (D c (b a E)) F
-A b B c C (D c (a c E)) F
+A b B (b a) C (D c (c E)) F
+A b B (a c) C (D c (c E)) F
 A b B c C (D c (c E)) F
-A b B c C (D c (b a E)) F
-A b B c C (D c (a c E)) F
+A b B (b a) C (D c (c E)) F
+A b B (a c) C (D c (c E)) F
 A b B c C (D c (c E)) F
-A b B c C (D c (b a E)) F
-A b B c C (D c (a c E)) F
+A b B (b a) C (D c (c E)) F
+A b B (a c) C (D c (c E)) F
 A b B c C (D c (c E)) F
-A b B c C (D c (b a E)) F
-A b B c C (D c (a c E)) F
+A b B (b a) C (D c (c E)) F
+A b B (a c) C (D c (c E)) F
 A b B c C (D c (c E)) F
-A b B c C (D c (b a E)) F
-A b B c C (D c (a c E)) F
+A b B (b a) C (D c (c E)) F
+A b B (a c) C (D c (c E)) F
 A b B c C (D c (c E)) F
-A b B c C (D c (b a E)) F
-A b B c C (D c (a c E)) F
+A b B (b a) C (D c (c E)) F
+A b B (a c) C (D c (c E)) F
 A b B c C (D c (c E)) F
-A b B c C (D c (b a E)) F
-A b B c C (D c (a c E)) F
+A b B (b a) C (D c (c E)) F
+A b B (a c) C (D c (c E)) F
 A b B c C (D c (c E)) F
-A b B c C (D c (b a E)) F
-A b B c C (D c (a c E)) F
+A b B (b a) C (D c (c E)) F
+A b B (a c) C (D c (c E)) F
 A b B c C (D c (c E)) F
-A b B c C (D c (b a E)) F
-A b B c C (D c (a c E)) F
+A b B (b a) C (D c (c E)) F
+A b B (a c) C (D c (c E)) F
 
 

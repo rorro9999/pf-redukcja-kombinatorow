@@ -6,6 +6,10 @@ b i g h f = f (a f)
 e f = f f
 ------------------------------------------------------------
 A c (B b d d C d a) D (e (E F b d))
-A c (B b d d C d a) D (E F b d (E F b d))
+A (e d a b (d a) d) (B b d d C d a) D (e (E F b d))
+A (d d a b (d a) d) (B b d d C d a) D (e (E F b d))
+A (b (e c c c e) a (d a) d) (B b d d C d a) D (e (E F b d))
+A (d (a d)) (B b d d C d a) D (e (E F b d))
+A (d (a d)) (B b d d C d a) D (E F b d (E F b d))
 
 

@@ -4,5 +4,34 @@ c f e d = a b a a
 main = A a B C (c D) (E F a) G
 ------------------------------------------------------------
 A a B C (c D) (E F a) G
+A (b c b b) B C (c D) (E F a) G
+A (c (c a a) c b b) B C (c D) (E F a) G
+A (a b a a b) B C (c D) (E F a) G
+A (b c b b b a a b) B C (c D) (E F a) G
+A (c (c a a) c b b b a a b) B C (c D) (E F a) G
+A (a b a a b b a a b) B C (c D) (E F a) G
+A (b c b b b a a b b a a b) B C (c D) (E F a) G
+A (c (c a a) c b b b a a b b a a b) B C (c D) (E F a) G
+A (a b a a b b a a b b a a b) B C (c D) (E F a) G
+A (b c b b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (c (c a a) c b b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (a b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (b c b b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (c (c a a) c b b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (a b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (b c b b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (c (c a a) c b b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (a b a a b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (b c b b b a a b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (c (c a a) c b b b a a b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (a b a a b b a a b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (b c b b b a a b b a a b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (c (c a a) c b b b a a b b a a b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (a b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (b c b b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (c (c a a) c b b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (a b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (b c b b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
+A (c (c a a) c b b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b b a a b) B C (c D) (E F a) G
 
 

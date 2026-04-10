@@ -15,5 +15,6 @@ A (b a (b a c B b))
 A (a (b a c B b))
 A (b (b a c B b))
 A a
+A b
 
 

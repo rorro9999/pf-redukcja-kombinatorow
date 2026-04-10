@@ -6,6 +6,14 @@ a g f h i = h e b h h (b e)
 main = A B e C D (E c F (b a c b d e G))
 ------------------------------------------------------------
 A B e C D (E c F (b a c b d e G))
-A B e C D (E c F (d d e G))
+A B (d d b d c b b) C D (E c F (b a c b d e G))
+A B (c a e b b) C D (E c F (b a c b d e G))
+A B (b b d b b) C D (E c F (b a c b d e G))
+A B (d b) C D (E c F (b a c b d e G))
+A B (d b) C D (E c F (d d e G))
+A B (d b) C D (E c F (d d (d d b d c b b) G))
+A B (d b) C D (E c F (d d (c a e b b) G))
+A B (d b) C D (E c F (d d (b b d b b) G))
+A B (d b) C D (E c F (d d (d b) G))
 
 
